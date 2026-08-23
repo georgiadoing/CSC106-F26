@@ -1,0 +1,32 @@
+---
+title: Project 1
+---
+
+
+# CSC106: Project 1
+
+* due Friday 4/17/26 by class time (1:50 pm)
+* you may use [late token(s)](https://forms.gle/WXW44b2AM6kQCdX16) for this assignment
+
+In this project, you’ll write code to draw a variety of shapes using the turtle module. Then, you’ll use this code to compose a picture and to write a program to randomly generate abstract art.
+
+
+* Reminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or Nexus for what to do when you need help with your work.
+* Projects are graded on program correctness and code composition, including proper commenting
+* This project is 10% of your final grade
+
+* starter code:
+    + [square.py](https://georgiadoing.github.io/CSC106-S26/Data/square.py)
+    + [turtle_shapes.py](https://georgiadoing.github.io/CSC106-S26/Data/turtle_shapes.py)
+    + [computer_art.py](https://georgiadoing.github.io/CSC106-S26/Data/computer_art.py)
+
+
+::: {.content-visible when-format="html"}
+<iframe src="../Data/CSC106_Proj1_turtle_drawing.pdf" width="100%" height="800" style="border:none;"></iframe>
+:::
+
+```{=latex}
+
+\includepdf[pages=-]{../Data/CSC106_Proj1_turtle_drawing.pdf}
+
+```

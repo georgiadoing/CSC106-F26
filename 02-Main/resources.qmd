@@ -1,0 +1,61 @@
+---
+title: Resources
+---
+
+## CS-Ticket
+
+* technical help with lab machines
+* <https://csticket.union.edu/>
+
+## Runestone
+
+* <https://runestone.academy/runestone/default/user/register>
+* your Union College email 
+* unioncollege_py4e-int_spring26 as the course name
+
+## Gradescope
+
+* <https://www.gradescope.com/courses/1288185>
+* Entry Code: ZJ8ZRW
+
+## Late Token Form
+
+* <https://forms.gle/WXW44b2AM6kQCdX16>
+* fill out this form to get a 24 hour extension on any Programming Project
+* each student gets 3 tokens per term
+
+## Python
+
+* Python 3.13.X: the software package needed to write and run Python programs
+* <https://www.anaconda.com/download/success?reg=skipped>
+
+## Python Documentation
+
+* Official Documentaion: <https://docs.python.org/3/index.html>
+* Can *always* be used as a reference
+* Can be searched for module-specific documentation e.g. turtle
+
+## Reeborg
+* Reeborg’s World: a useful website for learning some programming basics
+* Reeborg's World: <https://reeborg.ca/reeborg.html>
+* [Reeborg Project Documentation](https://reeborg.ca/index_en.html)
+
+## PythonTutor
+
+* Python Tutor: a useful website for tracing python code
+* <https://pythontutor.com/visualize.html#mode=edit>
+
+
+## Google Colab Pro
+
+* Pro account sign-up: <https://colab.research.google.com/signup>
+* Use your Union email
+* A pro account is not needed for this course, just an option Union pays for
+* Notes template: <https://colab.research.google.com/drive/15rPmKyQKCCbwsdDCpC39o8hczWZ-B5zV?usp=sharing>
+
+
+## Python Style Guide 
+
+* PEP 8
+* should be used in all code cells of Colab notebooks
+* Link: <https://peps.python.org/pep-0008/>

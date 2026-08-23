@@ -1,0 +1,21 @@
+---
+title: Week 2
+---
+
+### In-class activities for week 2
+
+* Mon: [Runestone Ch. 1 review (.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W1D4_computer_basics.pdf)
+* Wed: [More Turtle Drawing (.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W2D2_turtle_drawing_shapes.pdf)
+* Thurs (lab): [Variables and Loops (.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W2D3_vars_and_loops.pdf)
+* Fri: [Tracing & Memory Diagrams (.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W2D4_tracing.pdf)
+
+### Key Resources this week
+
+* all also found in [Resources page](https://georgiadoing.github.io/CSC106-S26/02-Main/resources.html)
+* [Python Documentation](<https://docs.python.org/3/index.html>)
+* [Python Tutor](<https://pythontutor.com/visualize.html#mode=edit>)
+
+### Examples from class
+
+* Coding constructs: [examples from class Monday](https://georgiadoing.github.io/CSC106-S26/Data/coding_constructs_examples.py) - re-written a bit for clarity
+* Variables and types: [examples from class Thurs (lab)](https://georgiadoing.github.io/CSC106-S26/Data/week2_lab_demo.py) - in class we used PythonTutor but this is the code copied into a file in Idle

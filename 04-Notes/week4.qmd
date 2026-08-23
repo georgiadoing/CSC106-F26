@@ -1,0 +1,52 @@
+---
+title: Week 4
+---
+
+
+
+### In-class activities for week 4
+
+* Mon: [Multi-branch Conditionals](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W4D1_multi-branch_conditionals.pdf)
+    + starter code: [Walk Through Field Folder](https://drive.google.com/file/d/1c9lwaPVYeJBGMFY26CsvXMUDLsFSgnMw/view?usp=sharing)
+    + starter code: [Harvest Folder](https://drive.google.com/file/d/1RAMURsCLp9qfKH7egr700ufr6LcWWPGS/view?usp=sharing)
+
+* Wed: [example of function with optional param](https://georgiadoing.github.io/CSC106-S26/Data/turtle_tri_ex.py)
+    * download the above file and run in in IDLE (as a file, NOT in the shell)
+
+```
+###############################################################################
+# Georgia Doing (doingg@union.edu)
+#
+# Turtle triangle with optional param
+# In class demo
+###############################################################################
+
+import turtle
+
+# example function with optional param
+def turt_triangle(color = "black"):
+    turtle.pencolor(color)
+    for side in range(3):
+        turtle.forward(75)
+        turtle.left(120)
+
+
+# set pensize so easier to see
+turtle.pensize(5)
+
+# draw a black triangle (default color)
+turt_triangle()
+
+# move so shapes don't overlap
+turtle.teleport(100,100)
+
+# draw a red triangle
+turt_triangle("red")
+```
+
+* Thurs (lab): Practical Exam #1
+    * 1 hr
+    * In IDLE
+    * Coding and some written answers
+
+* Fri: 

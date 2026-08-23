@@ -1,0 +1,24 @@
+---
+title: HW 01
+---
+
+
+# CSC106: Assignment 1 (0.25 pts)
+
+* due Monday 4/6/26 by class time (1:50 pm)
+* in-class notes from Friday: <https://drive.google.com/file/d/1UW3fMha6Ki4dDR_sidpeiV-PDeBSFEPi/view?usp=sharing>
+    + examples of comments, importing turtle, variables and for loops
+    + also includes link to turtle library documentation
+
+## Part 1
+
+* [Intro Survey](https://forms.gle/xFUwZJ2citz2i11n9)
+* Runestone Chapters 1-3 (we'll discuss in class next week starting Monday)
+
+## Part 2
+
+* Practice Problems for Week 1: [HW01 instructions](https://drive.google.com/file/d/1olyNXVYDAWfXEuy3ryhlpX75K1Q9g1z7/view?usp=sharing)
+* Starter code: [winding_sandbar.json](https://drive.google.com/file/d/1qf7uekW6htXTTWAhzNysP_YJU_RFrrp4/view?usp=sharing)
+* Submit code on Gradescope
+* bring written answers to class (0.25 engagement points awarded on these)
+* Graded on effort/completion

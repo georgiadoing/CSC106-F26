@@ -1,0 +1,24 @@
+---
+title: Week 7
+---
+
+
+
+### In-class activities for week 7
+
+* Mon: Lists
+    + [List Practicing Activity](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W7D1_lists.pdf)  
+    + also due: [Last week's practice Problems](https://georgiadoing.github.io/CSC106-S26/03-Assignments/csc106_hw06.html)  
+
+* Wed: Even More Lists
+    + [Another list activity](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W7D2_more_lists.pdf) 
+    + starter code [list_micro.py](https://georgiadoing.github.io/CSC106-S26/Data/list_micro.py)  
+    + starter_code [minimum.py](https://georgiadoing.github.io/CSC106-S26/Data/minimum.py) 
+    
+
+* Thurs: Dictionaries
+    + [Scenarios for dictionaries](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W7D3_dictionaries.pdf) 
+    + [quick barometer](https://forms.gle/ysFqLoBBET2gFnH5A)
+
+* Fri: 
+    + [Review and intro to files](https://colab.research.google.com/drive/1TZ-pmMLVjKG1pLyCEbyaavQ2q_JpdRfq?usp=sharing)

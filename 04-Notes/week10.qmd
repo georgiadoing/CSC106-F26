@@ -1,0 +1,26 @@
+---
+title: Week 10
+---
+
+
+
+### In-class activities for week 10
+
+* Mon: Sorting / Searching
+    + also due: [Last week's practice Problems](https://georgiadoing.github.io/CSC106-S26/03-Assignments/csc106_hw09.html)  
+    + [Searching with recursion](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W10D1_searching.pdf)
+    + [sorting game](https://www.advanced-ict.info/interactive/bubble_sort.html)
+
+* Wed: 
+    + review for the final - [review sheet](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_Final_Exam_Review.pdf)
+    + [color-coded engagement sheet](https://docs.google.com/spreadsheets/d/1jHFgF_P5c4iPYbxHk_J-96jeigzF3-26D-Cmt6Nij9k/edit?usp=sharing)
+    + same review problems in [colab notebook](https://drive.google.com/file/d/1pf2dKXPlL0Ghg3FnIgo8aTSSBEUnLszf/view?usp=sharing)
+    
+
+* Thurs: Review
+    + continue to review for the final
+    + [review sheet answers](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_Final_Review_Answers.pdf)
+    + also course evals
+
+* Fri: 
+    + continue to review for the final

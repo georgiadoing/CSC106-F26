@@ -1,0 +1,18 @@
+---
+title: Syllabus
+---
+
+### Syllabus
+
+* check for updates! (All updated text in this posted version of the syllabus will supersede text from older versions.)
+
+::: {.content-visible when-format="html"}
+<iframe src="../Data/CSC106_Syllabus_S2026.pdf" width="100%" height="800" style="border:none;"></iframe>
+:::
+
+```{=latex}
+
+\includepdf[pages=-]{../Data/CSC106_Syllabus_S2026.pdf}
+
+```
+

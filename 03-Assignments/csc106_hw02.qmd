@@ -1,0 +1,24 @@
+---
+title: HW 02
+---
+
+
+# CSC106: Assignment 2 (0.25 pts)
+
+* due Monday 4/13/26 by class time (1:50 pm)
+
+* Runestone Chapter 5 (see schedule for specific sub-sections)
+* Practice Problems for Week 2: 
+    + Submit code on Gradescope, 
+    + Bring written answers to class (0.25 engagement points awarded on these)
+    + Graded on effort/completion
+
+::: {.content-visible when-format="html"}
+<iframe src="../Data/CSC106_HW02_turtle_stairs_retirement.pdf" width="100%" height="800" style="border:none;"></iframe>
+:::
+
+```{=latex}
+
+\includepdf[pages=-]{../Data/CSC106_HW02_turtle_stairs_retirement.pdf}
+
+```

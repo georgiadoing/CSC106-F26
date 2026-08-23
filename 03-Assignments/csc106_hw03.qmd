@@ -1,0 +1,28 @@
+---
+title: HW 03
+---
+
+
+# CSC106: Assignment 3 (0.25 pts)
+
+* due Monday 4/20/26 by class time (1:50 pm)
+
+* Runestone Chapter 5 (see schedule for specific sub-sections)
+* Practice Problems for Week 3: 
+    + Submit code on Gradescope, 
+    + Bring written answers to class (0.25 engagement points awarded on these)
+    + Graded on effort/completion
+
+### starter code
+* [birthday.py](../Data/starter_code/birthday.py)
+* [criket.py](../Data/starter_code/cricket.py)
+
+::: {.content-visible when-format="html"}
+<iframe src="../Data/CSC106_HW03_hbd_cricket.pdf" width="100%" height="800" style="border:none;"></iframe>
+:::
+
+```{=latex}
+
+\includepdf[pages=-]{../Data/CSC106_HW03_hbd_cricket.pdf}
+
+```

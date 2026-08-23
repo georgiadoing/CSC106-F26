@@ -1,0 +1,24 @@
+---
+title: Week 8
+---
+
+
+### In-class activities for week 8
+
+* Mon: Practical Practice
+    + [practical practice problems](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W8D1_practical_practice.pdf)
+    + [practical practice solutions](https://georgiadoing.github.io/CSC106-S26/Data/Practice_Practical_Answers.pdf)
+    + also due: [Last week's practice Problems](https://georgiadoing.github.io/CSC106-S26/03-Assignments/csc106_hw07.html)  
+    
+
+
+* Wed: Reading and Writing Files
+    + [Random Numbers activity](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W8D2_files.pdf)
+    + [random_numbers.txt](https://georgiadoing.github.io/CSC106-S26/Data/random_numbers.txt)
+    
+
+* Thurs: Practical Exam 2
+
+* Fri: Translation
+    + [dictionary translations activity](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W8D4_dict_translation.pdf)
+    + [eng-ger.txt](https://georgiadoing.github.io/CSC106-S26/Data/eng-ger.txt)

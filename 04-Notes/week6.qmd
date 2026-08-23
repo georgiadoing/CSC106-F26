@@ -1,0 +1,24 @@
+---
+title: Week 6
+---
+
+### In-class activities for week 6
+
+* Mon: [ASCII, Pig Latin](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W5D3_ascii.pdf)
+    + also due [Last week's practice Problems](https://georgiadoing.github.io/CSC106-S26/03-Assignments/csc106_hw04.html)
+    + final thoughts on Developers as Decision Makers [results](https://docs.google.com/presentation/d/1bhPJsdM9ag2vlaAdprwbBaaLz0JeeDoJqO1G5EiuMCY/edit?usp=sharing)
+
+* Wed: Bring questions from HWs 1-5 and in-class activities to review for the exam
+    + also due: [Last week's practice Problems](https://georgiadoing.github.io/CSC106-S26/03-Assignments/csc106_hw05.html)
+    + [Caesar cipher](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W6D2_caesar_cipher.pdf) for more string practice
+    + [caesar.py](https://georgiadoing.github.io/CSC106-S26/Data/caesar.py)
+    + [Solutions to previous review Qs](https://colab.research.google.com/drive/124YlENvQPTy3fUaQN251QTEXOkn8Hqb5?usp=sharing)
+    + [Solutions to previous in-class assignments](https://colab.research.google.com/drive/1WQuT_U-keenQLltpmKS4IS6PznIgI6fS)
+
+* Thurs: Written Exam
+    + all pen and paper (no computer)
+    + closed book
+    + 90 mins
+    + includes topics up until last Friday (including while loops)
+
+* Fri: Steinmetz Day! (no class)

@@ -1,0 +1,17 @@
+---
+title: Week 3
+---
+
+### In-class activities for week 3
+
+* Mon: [Practice with functions](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W3D1_functions.pdf)
+    + starter code: [stars0.json](https://georgiadoing.github.io/CSC106-S26/Data/stars0.json)
+    + starter code: [stars1.json](https://georgiadoing.github.io/CSC106-S26/Data/stars1.json)
+
+* Wed: [More Practice with functions & input (.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W3D2_more_functions.pdf)
+
+* Thurs (lab): [Functions lab (.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W3D3_functions_lab.pdf)
+    + starter code: [house.py](https://georgiadoing.github.io/CSC106-S26/Data/house.py)
+
+* Fri: [Study Questions(.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W3D4_study_questions.pdf)
+    + starter code: [road repair folder](https://drive.google.com/drive/folders/1jyqi1Z9KUyfuzZ1jSY61VeAWBiSvkWdL?usp=sharing)

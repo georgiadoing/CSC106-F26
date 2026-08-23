@@ -1,0 +1,47 @@
+---
+title: Grading
+---
+
+
+
+
+:::column
+
+| Course Element | Grade Point Contribution       | Notes |
+|----------------|:-------------------------|:-------------------|
+| Engagement   | 10%     | written answers collected and scanned, 0.25% per activity: [itemized list](https://docs.google.com/spreadsheets/d/1lvRliNdGUQ93c5U1K8uuqXU6vQd6a291Eg1uTtS6aoE/edit?usp=sharing) |
+| Programming Projects   | 40%     | 4 at 10% each |
+| Midterm   | 15%     | written |
+| Practical Exams  | 20%     | coding & written |
+| Final Exam  | 15%     | written |
+|      |      |  |
+|   total        |  100%   |  |
+
+: Grading Scheme
+
+
+:::column
+
+| Letter Grade | Percent range       | 
+|:-|:- |
+| A     |  93 - 100  | 
+| A-    |  90 - 92    |
+| B+   |  87 - 89    |
+| B     |  83 - 86    |
+| B-   |  80 - 82    |
+| C+   |  77 - 79    |
+| C    |  73 - 76    |
+| C-    |  70 - 72    |
+| D    |  60 - 69    |
+| F   |  0 - 59    |
+
+: Letter Grade Scale
+
+
+:::
+
+Note: You must get a C- or better in order to take any other class that has a CSC-10x prerequisite.
+Several larger programming projects will be assigned to reinforce the concepts discussed in class and put into practice in homework assignments. All projects can be completed using programming techniques that have been covered in class. 
+
+Do not use techniques that have not been covered in class unless specifically told otherwise. 
+Part of the challenge for each programming project is figuring out how to complete the assignment using only the tools provided in the course up to that point.

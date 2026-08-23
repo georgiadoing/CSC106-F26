@@ -1,0 +1,17 @@
+---
+title: Week 1
+---
+
+### Notes from Week 1
+
+
+* Day 1 (Mon): [Seymour Pappert Turtle Documentary](https://www.dailymotion.com/video/x8x65c8)
+    + [Turtle drawing activity (0.25 pts)](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W1D1_turtle.pdf)
+* Day 2 (Wed): [Instructions for First Program Activity (.25 pts)](https://drive.google.com/file/d/1i3bBfL9MY8jMo807LY_eUe-Cr12MPvcC/view?usp=sharing)
+* Day 3 --- Lab (Thurs): [Reeborg activity: newspaper (.25 pts)](https://drive.google.com/file/d/1iFmuxBLlpzpWGlQ60dncQNZdhAVQh8GF/view?usp=sharing)
+
+### Python Examples
+
+* in-class examples from Friday: <https://drive.google.com/file/d/1UW3fMha6Ki4dDR_sidpeiV-PDeBSFEPi/view?usp=sharing>
+    + examples of comments, importing turtle, variables and for loops
+    + also includes link to turtle library documentation

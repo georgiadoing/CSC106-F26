@@ -1,0 +1,33 @@
+---
+title: Project 4
+---
+
+
+# CSC106: Project 4
+
+* due Monday 6/1/26 by 11:59 pm
+* you may use [late token(s)](https://forms.gle/WXW44b2AM6kQCdX16) for this assignment
+
+Sentiment analysis seeks to determine the general attitude of a writer, given some text they have written. For example, given the movie review “The film was a breath of fresh air” a sentiment analysis program should realize that this is a positive statement about the movie, while the review “It made me want to poke out my eye balls” expresses a negative opinion. In this project you’ll implement a very simple sentiment analysis system for movie reviews.
+
+
+* Reminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.
+* Projects are graded on program correctness and code composition, including proper commenting
+* This project is 10% of your final grade
+
+* starter code and files:
+    + [sentiment_analysis.py](https://georgiadoing.github.io/CSC106-S26/Data/starter_code/sentiment_analysis.py)
+    + [movie_reviews_training.txt](https://georgiadoing.github.io/CSC106-S26/Data/starter_code/movie_reviews_training.txt)
+    + [movie_reviews_dev.txt](https://georgiadoing.github.io/CSC106-S26/Data/starter_code/movie_reviews_dev.txt)
+    + [movie_reviews_mini.txt](https://georgiadoing.github.io/CSC106-S26/Data/starter_code/movie_reviews_mini.txt)
+
+
+::: {.content-visible when-format="html"}
+<iframe src="../Data/CSC106_Proj4_sentiment_analysis.pdf" width="100%" height="800" style="border:none;"></iframe>
+:::
+
+```{=latex}
+
+\includepdf[pages=-]{../Data/CSC106_Proj4_sentiment_analysis.pdf}
+
+```

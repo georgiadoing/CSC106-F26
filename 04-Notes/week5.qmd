@@ -1,0 +1,28 @@
+---
+title: Week 5
+---
+
+
+
+### In-class activities for week 5
+
+* Mon: [While Loops](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W4D4_while_loops.pdf)
+
+* Wed: [Tracing while loops](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W5D2_more_while_loops.pdf)
+    + [Mountain Top Folder](https://georgiadoing.github.io/CSC106-S26/Data/starter_code/mountain_top.zip)
+
+* Thurs: [Developers as Decision Makers Lab](https://georgiadoing.github.io/CSC106-S26/Data/Developers_as_Decision-Makers.pdf)
+
+1. Read through the acticity description
+2. Each group member should read (at least) 1 of the following background readings to summarize for the group
+    * [Silicon Valley Triage Tool](https://georgiadoing.github.io/CSC106-S26/Data/Silicon_Valley_Triage_Tool.pdf)
+    * [Economic Roundtable on the Silicon Valley Triage Tool](https://georgiadoing.github.io/CSC106-S26/Data/Economic_Roundtable_SiliconValleyTriageTool.pdf)
+    * [A healthcare algorithm started cutting care](https://georgiadoing.github.io/CSC106-S26/Data/A_healthcare_algorithm_started_cutting_care_TheVerge.pdf)
+    * [We created poverty](https://georgiadoing.github.io/CSC106-S26/Data/We_created_poverty_VirginiaEubanks_TheGuardian.pdf)
+
+3. Make a group copy of the [Google Doc worksheet template](https://docs.google.com/document/d/1sUz_WuiO0ew0SSlC1hU7L0XYJEeF5ssuOyLST9CJNYY/edit?usp=sharing) and share it with all group members
+4. Edit your worksheet as you plan, implement, test and reflect upon your team's housing algorithm
+    + * [example housing lottery](https://georgiadoing.github.io/CSC106-S26/Data/housing_lottery.py)
+
+* Fri: [ASCII, Pig Latin](https://georgiadoing.github.io/CSC106-S26/Data/CSC106_activity_W5D3_ascii.pdf)
+    + also due [Last week's practice Problems](https://georgiadoing.github.io/CSC106-S26/03-Assignments/csc106_hw04.html)

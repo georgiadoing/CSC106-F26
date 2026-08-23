@@ -1,0 +1,31 @@
+---
+title: Schedule
+---
+
+Weekly Schedule
+
+## Schedule
+
+**Exam time used to say Week 10, TBD if it will be flexible to be taken early**
+
+*check often as things may change*
+
+
+| W | TOPIC                                   | Due                              | Runestone |
+| ---- | --------------------------------------- | ---------------------- |----------:|
+| 1    | Programming, Calling Functions          | Introductory Survey              |2.1 - 2.13
+| 2    | Loops, Variables and Assignment  | HW 1                             |3.1-3.5
+| 3    | Defining Functions                      | HW 2, Project 1                            |5.1-5.12
+| 4    | Conditional Statements                  | HW 3, Practical Exam 1    | 4.1-4.9
+| 5    | Conditional Loops                       | HW 4, Project 2           |6.1-6.7
+| 6    | Strings, Lists                          | HW 5, Written Exam 1      |7.1-7.12
+| 7    | Nested Lists                            | HW 6, Project 3        |9.1-9.14
+| 8    | File I/O, Dictionaries                  | HW 7,  Practical Exam 2   | 8.1-8.9
+| 9    | Dictionaries                            | HW 8, Project 4         |10.1-10.6
+| 10   | Searching, Sorting, Recursion           | HW 9  |
+| 11   | Finals Week   Tuesday 6/9 2:30 - 4:30        | Written Exam 2  |
+|      |                                         |                                  |
+
+
+
+

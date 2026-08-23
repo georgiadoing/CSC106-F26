@@ -1,0 +1,28 @@
+---
+title: HW 08
+---
+
+
+# CSC106: Assignment 8 (0.25 pts)
+
+* due Friday 5/25/26 by class time (1:50 pm)
+
+* Runestone Chapter 10 (see schedule for specific sub-sections)
+* Practice Problems for Week 8: 
+    + Submit code on Gradescope, 
+    + Bring written answers to class (0.25 engagement points awarded on these)
+    + Graded on effort/completion
+
+### starter code
+* [short_file.txt](../Data/starter_code/short_file.txt)
+* [dracula.txt](../Data/starter_code/dracula.txt)
+
+::: {.content-visible when-format="html"}
+<iframe src="../Data/CSC106_HW08_word_list.pdf" width="100%" height="800" style="border:none;"></iframe>
+:::
+
+```{=latex}
+
+\includepdf[pages=-]{../Data/CSC106_HW08_word_list.pdf}
+
+```

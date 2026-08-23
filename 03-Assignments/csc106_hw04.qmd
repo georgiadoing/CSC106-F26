@@ -1,0 +1,27 @@
+---
+title: HW 04
+---
+
+
+# CSC106: Assignment 4 (0.25 pts)
+
+* due Friday 5/1/26 by class time (1:50 pm)
+
+* Runestone Chapter 6 (see schedule for specific sub-sections)
+* Practice Problems for Week 4: 
+    + Submit code on Gradescope, 
+    + Bring written answers to class (0.25 engagement points awarded on these)
+    + Graded on effort/completion
+
+### starter code
+* [sum_of_powers.py](../Data/sum_of_powers.py)
+
+::: {.content-visible when-format="html"}
+<iframe src="../Data/CSC106_HW04_sum_of_powere.pdf" width="100%" height="800" style="border:none;"></iframe>
+:::
+
+```{=latex}
+
+\includepdf[pages=-]{../Data/CSC106_HW04_sum_of_powere.pdf}
+
+```

@@ -1,0 +1,64 @@
+project:
+    type: tufte
+    resources:
+    - Data/*
+    - Data/starter_code/*
+book:
+  open-graph: true
+  site-url: https://georgiadoing.github.io/CSC106-F26/
+  repo-url: https://github.com/georgiadoing/CSC106-F26/
+  repo-actions: [edit, issue]
+  title: |
+    Course: CSC106 Can Computers Think?
+  title-short: CSC106F26 # title-short is used in the pdf head
+  output-file: CSC106F26notes # outputs: docs/TufteStyledBook.pdf
+  author: doingg@union.edu
+  publisher: self
+  date-format: MMMM, YYYY
+  license: "CC BY"
+  chapters:
+    - index.qmd
+    - 02-Main/schedule.qmd
+    - 02-Main/resources.qmd
+    - 02-Main/syllabus.qmd
+    - 02-Main/grading.qmd
+    - part: Assignments
+      chapters:
+         - 03-Assignments/csc106_hw01.qmd
+         - 03-Assignments/csc106_hw02.qmd
+         - 03-Assignments/csc106_proj1.qmd
+         - 03-Assignments/csc106_hw03.qmd
+         - 03-Assignments/csc106_hw04.qmd
+         - 03-Assignments/csc106_proj2.qmd
+         - 03-Assignments/csc106_hw05.qmd
+         - 03-Assignments/csc106_hw06.qmd
+         - 03-Assignments/csc106_proj3.qmd
+         - 03-Assignments/csc106_hw07.qmd
+         - 03-Assignments/csc106_hw08.qmd
+         - 03-Assignments/csc106_hw09.qmd
+         - 03-Assignments/csc106_proj4.qmd
+         
+    - part: Weekly Notes
+      chapters:
+         - 04-Notes/week1.qmd
+         - 04-Notes/week2.qmd
+         - 04-Notes/week3.qmd
+         - 04-Notes/week4.qmd
+         - 04-Notes/week5.qmd
+         - 04-Notes/week6.qmd
+         - 04-Notes/week7.qmd
+         - 04-Notes/week8.qmd
+         - 04-Notes/week9.qmd
+         - 04-Notes/week10.qmd
+         #- Data/CSC106_activity_W5D3_developers_as_decision_makers.qmd
+
+    - part: about.qmd
+      chapters:
+        - 03-Back/references.qmd
+bibliography: references.bib
+
+format:
+  pdf:
+    pdf-engine: xelatex
+    microtype: false
+    classoption: [sfsidenotes]

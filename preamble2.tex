@@ -1,0 +1,23 @@
+\usepackage{xcolor}
+\definecolor{garnet}{HTML}{942E35}
+\usepackage{multicol}
+
+\usepackage{listings}
+\lstset{
+    breaklines=true,
+    % Add other styling options as desired (e.g., basicstyle, etc.)
+}
+
+\usepackage{fancyhdr}
+\usepackage{titling}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand\maketitle{
+    \fancyhead[C]{
+        \thetitle
+        \ifx \theauthor\empty  \else \ – \theauthor \fi
+        \ifx \thedate\empty  \else \ – \thedate \ \fi
+    }
+}
+\fancyfoot[C]{\thepage}
+
