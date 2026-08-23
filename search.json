@@ -14,7 +14,7 @@
     "href": "index.html#announcements",
     "title": "Course: CSC106 Can Computers Think?",
     "section": "Announcements",
-    "text": "Announcements\nFinal Exam\n\nfinal is scheduled for Tues 6/9 2:30 - 3:30 pm in Olin 107\nyou may also take it Friday 6/5 from 5-7 pm in Olin 107\nsee Week 10 notes for exam prep. including review sheet\n\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 108B\nMonday 3:00 pm - 4:00 pm\nThursday 2:00 pm - 4:00 pm\nsubject to change, check course website for most up-to-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
+    "text": "Announcements\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 217\nMonday 4:00 pm - 5:30 pm\nThursday 3:00 pm - 4:30 pm\nsubject to change, check course website for most up-to-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -30,156 +30,6 @@
     ]
   },
   {
-    "objectID": "02-Main/schedule.html",
-    "href": "02-Main/schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Schedule\nWeekly Schedule\nExam time used to say Week 10, TBD if it will be flexible to be taken early\ncheck often as things may change",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/schedule.html#schedule",
-    "href": "02-Main/schedule.html#schedule",
-    "title": "Schedule",
-    "section": "",
-    "text": "W\nTOPIC\nDue\nRunestone\n\n\n\n\n1\nProgramming, Calling Functions\nIntroductory Survey\n2.1 - 2.13\n\n\n2\nLoops, Variables and Assignment\nHW 1\n3.1-3.5\n\n\n3\nDefining Functions\nHW 2, Project 1\n5.1-5.12\n\n\n4\nConditional Statements\nHW 3, Practical Exam 1\n4.1-4.9\n\n\n5\nConditional Loops\nHW 4, Project 2\n6.1-6.7\n\n\n6\nStrings, Lists\nHW 5, Written Exam 1\n7.1-7.12\n\n\n7\nNested Lists\nHW 6, Project 3\n9.1-9.14\n\n\n8\nFile I/O, Dictionaries\nHW 7, Practical Exam 2\n8.1-8.9\n\n\n9\nDictionaries\nHW 8, Project 4\n10.1-10.6\n\n\n10\nSearching, Sorting, Recursion\nHW 9\n\n\n\n11\nFinals Week Tuesday 6/9 2:30 - 4:30\nWritten Exam 2",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html",
-    "href": "02-Main/resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "CS-Ticket",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#cs-ticket",
-    "href": "02-Main/resources.html#cs-ticket",
-    "title": "Resources",
-    "section": "",
-    "text": "technical help with lab machines\nhttps://csticket.union.edu/",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#runestone",
-    "href": "02-Main/resources.html#runestone",
-    "title": "Resources",
-    "section": "Runestone",
-    "text": "Runestone\n\nhttps://runestone.academy/runestone/default/user/register\nyour Union College email\nunioncollege_py4e-int_spring26 as the course name",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#gradescope",
-    "href": "02-Main/resources.html#gradescope",
-    "title": "Resources",
-    "section": "Gradescope",
-    "text": "Gradescope\n\nhttps://www.gradescope.com/courses/1288185\nEntry Code: ZJ8ZRW",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#late-token-form",
-    "href": "02-Main/resources.html#late-token-form",
-    "title": "Resources",
-    "section": "Late Token Form",
-    "text": "Late Token Form\n\nhttps://forms.gle/WXW44b2AM6kQCdX16\nfill out this form to get a 24 hour extension on any Programming Project\neach student gets 3 tokens per term",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#python",
-    "href": "02-Main/resources.html#python",
-    "title": "Resources",
-    "section": "Python",
-    "text": "Python\n\nPython 3.13.X: the software package needed to write and run Python programs\nhttps://www.anaconda.com/download/success?reg=skipped",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#python-documentation",
-    "href": "02-Main/resources.html#python-documentation",
-    "title": "Resources",
-    "section": "Python Documentation",
-    "text": "Python Documentation\n\nOfficial Documentaion: https://docs.python.org/3/index.html\nCan always be used as a reference\nCan be searched for module-specific documentation e.g. turtle",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#reeborg",
-    "href": "02-Main/resources.html#reeborg",
-    "title": "Resources",
-    "section": "Reeborg",
-    "text": "Reeborg\n\nReeborg’s World: a useful website for learning some programming basics\nReeborg’s World: https://reeborg.ca/reeborg.html\nReeborg Project Documentation",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#pythontutor",
-    "href": "02-Main/resources.html#pythontutor",
-    "title": "Resources",
-    "section": "PythonTutor",
-    "text": "PythonTutor\n\nPython Tutor: a useful website for tracing python code\nhttps://pythontutor.com/visualize.html#mode=edit",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#google-colab-pro",
-    "href": "02-Main/resources.html#google-colab-pro",
-    "title": "Resources",
-    "section": "Google Colab Pro",
-    "text": "Google Colab Pro\n\nPro account sign-up: https://colab.research.google.com/signup\nUse your Union email\nA pro account is not needed for this course, just an option Union pays for\nNotes template: https://colab.research.google.com/drive/15rPmKyQKCCbwsdDCpC39o8hczWZ-B5zV?usp=sharing",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/resources.html#python-style-guide",
-    "href": "02-Main/resources.html#python-style-guide",
-    "title": "Resources",
-    "section": "Python Style Guide",
-    "text": "Python Style Guide\n\nPEP 8\nshould be used in all code cells of Colab notebooks\nLink: https://peps.python.org/pep-0008/",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/syllabus.html",
-    "href": "02-Main/syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Syllabus\n\ncheck for updates! (All updated text in this posted version of the syllabus will supersede text from older versions.)",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Syllabus</span>"
-    ]
-  },
-  {
-    "objectID": "02-Main/grading.html",
-    "href": "02-Main/grading.html",
-    "title": "Grading",
-    "section": "",
-    "text": "Grading Scheme\n\n\nCourse Element\nGrade Point Contribution\nNotes\n\n\n\n\nEngagement\n10%\nwritten answers collected and scanned, 0.25% per activity: itemized list\n\n\nProgramming Projects\n40%\n4 at 10% each\n\n\nMidterm\n15%\nwritten\n\n\nPractical Exams\n20%\ncoding & written\n\n\nFinal Exam\n15%\nwritten\n\n\n\n\n\n\n\ntotal\n100%\n\n\n\n\n\n\nLetter Grade Scale\n\n\nLetter Grade\nPercent range\n\n\n\n\nA\n93 - 100\n\n\nA-\n90 - 92\n\n\nB+\n87 - 89\n\n\nB\n83 - 86\n\n\nB-\n80 - 82\n\n\nC+\n77 - 79\n\n\nC\n73 - 76\n\n\nC-\n70 - 72\n\n\nD\n60 - 69\n\n\nF\n0 - 59\n\n\n\n\nNote: You must get a C- or better in order to take any other class that has a CSC-10x prerequisite. Several larger programming projects will be assigned to reinforce the concepts discussed in class and put into practice in homework assignments. All projects can be completed using programming techniques that have been covered in class.\nDo not use techniques that have not been covered in class unless specifically told otherwise. Part of the challenge for each programming project is figuring out how to complete the assignment using only the tools provided in the course up to that point.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Grading</span>"
-    ]
-  },
-  {
     "objectID": "03-Assignments/csc106_hw01.html",
     "href": "03-Assignments/csc106_hw01.html",
     "title": "HW 01",
@@ -187,7 +37,7 @@
     "text": "CSC106: Assignment 1 (0.25 pts)",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>HW 01</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>HW 01</span>"
     ]
   },
   {
@@ -198,7 +48,7 @@
     "text": "Part 1\n\nIntro Survey\nRunestone Chapters 1-3 (we’ll discuss in class next week starting Monday)",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>HW 01</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>HW 01</span>"
     ]
   },
   {
@@ -209,139 +59,7 @@
     "text": "Part 2\n\nPractice Problems for Week 1: HW01 instructions\nStarter code: winding_sandbar.json\nSubmit code on Gradescope\nbring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>HW 01</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw02.html",
-    "href": "03-Assignments/csc106_hw02.html",
-    "title": "HW 02",
-    "section": "",
-    "text": "CSC106: Assignment 2 (0.25 pts)\n\ndue Monday 4/13/26 by class time (1:50 pm)\nRunestone Chapter 5 (see schedule for specific sub-sections)\nPractice Problems for Week 2:\n\nSubmit code on Gradescope,\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>HW 02</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_proj1.html",
-    "href": "03-Assignments/csc106_proj1.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "CSC106: Project 1\n\ndue Friday 4/17/26 by class time (1:50 pm)\nyou may use late token(s) for this assignment\n\nIn this project, you’ll write code to draw a variety of shapes using the turtle module. Then, you’ll use this code to compose a picture and to write a program to randomly generate abstract art.\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or Nexus for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 10% of your final grade\nstarter code:\n\nsquare.py\nturtle_shapes.py\ncomputer_art.py",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Project 1</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw03.html",
-    "href": "03-Assignments/csc106_hw03.html",
-    "title": "HW 03",
-    "section": "",
-    "text": "CSC106: Assignment 3 (0.25 pts)\n\ndue Monday 4/20/26 by class time (1:50 pm)\nRunestone Chapter 5 (see schedule for specific sub-sections)\nPractice Problems for Week 3:\n\nSubmit code on Gradescope,\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion\n\n\n\nstarter code\n\nbirthday.py\ncriket.py",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>HW 03</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw04.html",
-    "href": "03-Assignments/csc106_hw04.html",
-    "title": "HW 04",
-    "section": "",
-    "text": "CSC106: Assignment 4 (0.25 pts)\n\ndue Friday 5/1/26 by class time (1:50 pm)\nRunestone Chapter 6 (see schedule for specific sub-sections)\nPractice Problems for Week 4:\n\nSubmit code on Gradescope,\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion\n\n\n\nstarter code\n\nsum_of_powers.py",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>HW 04</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_proj2.html",
-    "href": "03-Assignments/csc106_proj2.html",
-    "title": "Project 2",
-    "section": "",
-    "text": "CSC106: Project 2\n\ndue Monday 5/4/26 by 11:59 pm\nyou may use late token(s) for this assignment\n\nIn this project, you’ll implement several variants of a text-based Rock-Paper-Scissors game in which a human player plays against the computer. If you’re not familiar with the game, check out the Wikipedia article about it: (http://en.wikipedia.org/wiki/Rock-paper-scissors)\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 10% of your final grade\nstarter code:\n\nrps_1.py\nrps_2.py\ngame_history.py\nrps_anti_human.py\nrps_human_like.py",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Project 2</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw05.html",
-    "href": "03-Assignments/csc106_hw05.html",
-    "title": "HW 05",
-    "section": "",
-    "text": "CSC106: Assignment 5 (0.25 pts)\n\ndue Friday 5/5/26 by class time (1:50 pm)\nRunestone Chapter 7 (see schedule for specific sub-sections)\nPractice Problems for Week 5:\n\nSubmit code on Gradescope,\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion\n\n\n\nstarter code\n\nnumber_guessing.py",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>HW 05</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw06.html",
-    "href": "03-Assignments/csc106_hw06.html",
-    "title": "HW 06",
-    "section": "",
-    "text": "CSC106: Assignment 6 (0.25 pts)\n\ndue Wednesday 5/13/26 by class time (1:50 pm)\nRunestone Chapter 9 (see schedule for specific sub-sections)\nPractice Problems for Week 6:\n\nSubmit code on Gradescope,\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion\n\n\n\nstarter code\n\nFrom the in-class assignment…\ncaesar.py\nletter_probabilities.py",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>HW 06</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_proj3.html",
-    "href": "03-Assignments/csc106_proj3.html",
-    "title": "Project 3",
-    "section": "",
-    "text": "CSC106: Project 3\n\ndue Monday 5/18/26 by 11:59 pm\nyou may use late token(s) for this assignment\n\nIn this project, you’ll implement variants of a text-based Wordle game. If you’re not familiar with the game, check out the Wikipedia article about it: (https://en.wikipedia.org/wiki/Wordle).\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 10% of your final grade",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Project 3</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw07.html",
-    "href": "03-Assignments/csc106_hw07.html",
-    "title": "HW 07",
-    "section": "",
-    "text": "CSC106: Assignment 7 (0.25 pts)\n\ndue Friday 5/18/26 by class time (1:50 pm)\nRunestone Chapter 8 (see schedule for specific sub-sections)\nPractice Problems for Week 6:\n\nSubmit code on Gradescope,\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>HW 07</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw08.html",
-    "href": "03-Assignments/csc106_hw08.html",
-    "title": "HW 08",
-    "section": "",
-    "text": "CSC106: Assignment 8 (0.25 pts)\n\ndue Friday 5/25/26 by class time (1:50 pm)\nRunestone Chapter 10 (see schedule for specific sub-sections)\nPractice Problems for Week 8:\n\nSubmit code on Gradescope,\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion\n\n\n\nstarter code\n\nshort_file.txt\ndracula.txt",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>HW 08</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw09.html",
-    "href": "03-Assignments/csc106_hw09.html",
-    "title": "HW 09",
-    "section": "",
-    "text": "CSC106: Assignment 9 (0.25 pts)\n\ndue Friday 5/25/26 by class time (1:50 pm)\nPractice Problems for Week 9:\n\nNo coding portion\nBring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>HW 09</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_proj4.html",
-    "href": "03-Assignments/csc106_proj4.html",
-    "title": "Project 4",
-    "section": "",
-    "text": "CSC106: Project 4\n\ndue Monday 6/1/26 by 11:59 pm\nyou may use late token(s) for this assignment\n\nSentiment analysis seeks to determine the general attitude of a writer, given some text they have written. For example, given the movie review “The film was a breath of fresh air” a sentiment analysis program should realize that this is a positive statement about the movie, while the review “It made me want to poke out my eye balls” expresses a negative opinion. In this project you’ll implement a very simple sentiment analysis system for movie reviews.\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 10% of your final grade\nstarter code and files:\n\nsentiment_analysis.py\nmovie_reviews_training.txt\nmovie_reviews_dev.txt\nmovie_reviews_mini.txt",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Project 4</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>HW 01</span>"
     ]
   },
   {
@@ -352,106 +70,7 @@
     "text": "Notes from Week 1\n\nDay 1 (Mon): Seymour Pappert Turtle Documentary\n\nTurtle drawing activity (0.25 pts)\n\nDay 2 (Wed): Instructions for First Program Activity (.25 pts)\nDay 3 — Lab (Thurs): Reeborg activity: newspaper (.25 pts)\n\n\n\nPython Examples\n\nin-class examples from Friday: https://drive.google.com/file/d/1UW3fMha6Ki4dDR_sidpeiV-PDeBSFEPi/view?usp=sharing\n\nexamples of comments, importing turtle, variables and for loops\nalso includes link to turtle library documentation",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Week 1</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week2.html",
-    "href": "04-Notes/week2.html",
-    "title": "Week 2",
-    "section": "",
-    "text": "In-class activities for week 2\n\nMon: Runestone Ch. 1 review (.25 pts)\nWed: More Turtle Drawing (.25 pts)\nThurs (lab): Variables and Loops (.25 pts)\nFri: Tracing & Memory Diagrams (.25 pts)\n\n\n\nKey Resources this week\n\nall also found in Resources page\nPython Documentation\nPython Tutor\n\n\n\nExamples from class\n\nCoding constructs: examples from class Monday - re-written a bit for clarity\nVariables and types: examples from class Thurs (lab) - in class we used PythonTutor but this is the code copied into a file in Idle",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Week 2</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week3.html",
-    "href": "04-Notes/week3.html",
-    "title": "Week 3",
-    "section": "",
-    "text": "In-class activities for week 3\n\nMon: Practice with functions\n\nstarter code: stars0.json\nstarter code: stars1.json\n\nWed: More Practice with functions & input (.25 pts)\nThurs (lab): Functions lab (.25 pts)\n\nstarter code: house.py\n\nFri: Study Questions(.25 pts)\n\nstarter code: road repair folder",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Week 3</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week4.html",
-    "href": "04-Notes/week4.html",
-    "title": "Week 4",
-    "section": "",
-    "text": "In-class activities for week 4\n\nMon: Multi-branch Conditionals\n\nstarter code: Walk Through Field Folder\nstarter code: Harvest Folder\n\nWed: example of function with optional param\n\ndownload the above file and run in in IDLE (as a file, NOT in the shell)\n\n\n###############################################################################\n# Georgia Doing (doingg@union.edu)\n#\n# Turtle triangle with optional param\n# In class demo\n###############################################################################\n\nimport turtle\n\n# example function with optional param\ndef turt_triangle(color = \"black\"):\n    turtle.pencolor(color)\n    for side in range(3):\n        turtle.forward(75)\n        turtle.left(120)\n\n\n# set pensize so easier to see\nturtle.pensize(5)\n\n# draw a black triangle (default color)\nturt_triangle()\n\n# move so shapes don't overlap\nturtle.teleport(100,100)\n\n# draw a red triangle\nturt_triangle(\"red\")\n\nThurs (lab): Practical Exam #1\n\n1 hr\nIn IDLE\nCoding and some written answers\n\nFri:",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Week 4</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week5.html",
-    "href": "04-Notes/week5.html",
-    "title": "Week 5",
-    "section": "",
-    "text": "In-class activities for week 5\n\nMon: While Loops\nWed: Tracing while loops\n\nMountain Top Folder\n\nThurs: Developers as Decision Makers Lab\n\n\nRead through the acticity description\nEach group member should read (at least) 1 of the following background readings to summarize for the group\n\nSilicon Valley Triage Tool\nEconomic Roundtable on the Silicon Valley Triage Tool\nA healthcare algorithm started cutting care\nWe created poverty\n\nMake a group copy of the Google Doc worksheet template and share it with all group members\nEdit your worksheet as you plan, implement, test and reflect upon your team’s housing algorithm\n\n\nexample housing lottery\n\n\n\n\nFri: ASCII, Pig Latin\n\nalso due Last week’s practice Problems",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Week 5</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week6.html",
-    "href": "04-Notes/week6.html",
-    "title": "Week 6",
-    "section": "",
-    "text": "In-class activities for week 6\n\nMon: ASCII, Pig Latin\n\nalso due Last week’s practice Problems\nfinal thoughts on Developers as Decision Makers results\n\nWed: Bring questions from HWs 1-5 and in-class activities to review for the exam\n\nalso due: Last week’s practice Problems\nCaesar cipher for more string practice\ncaesar.py\nSolutions to previous review Qs\nSolutions to previous in-class assignments\n\nThurs: Written Exam\n\nall pen and paper (no computer)\nclosed book\n90 mins\nincludes topics up until last Friday (including while loops)\n\nFri: Steinmetz Day! (no class)",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Week 6</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week7.html",
-    "href": "04-Notes/week7.html",
-    "title": "Week 7",
-    "section": "",
-    "text": "In-class activities for week 7\n\nMon: Lists\n\nList Practicing Activity\n\nalso due: Last week’s practice Problems\n\nWed: Even More Lists\n\nAnother list activity\nstarter code list_micro.py\n\nstarter_code minimum.py\n\nThurs: Dictionaries\n\nScenarios for dictionaries\nquick barometer\n\nFri:\n\nReview and intro to files",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Week 7</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week8.html",
-    "href": "04-Notes/week8.html",
-    "title": "Week 8",
-    "section": "",
-    "text": "In-class activities for week 8\n\nMon: Practical Practice\n\npractical practice problems\npractical practice solutions\nalso due: Last week’s practice Problems\n\nWed: Reading and Writing Files\n\nRandom Numbers activity\nrandom_numbers.txt\n\nThurs: Practical Exam 2\nFri: Translation\n\ndictionary translations activity\neng-ger.txt",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Week 8</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week9.html",
-    "href": "04-Notes/week9.html",
-    "title": "Week 9",
-    "section": "",
-    "text": "In-class activities for week 9\n\nMon: Author ID\n\nalso due: Last week’s practice Problems\n\nAuthor ID part 1\nauthor_identification.py\nstate-union-gwbush-minus-2006.txt\nstate-union-obama-minus-2014.txt\n\nWed: Author ID cont.\n\nAuthor ID part 2\nmystery1.txt\nmystery2.txt\nmystery3.txt\n\nThurs: Recursion\n\nslides on recursion\nReal-world recursion\n\nFri: Recursion cont.\n\nMathematical recursion",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Week 9</span>"
-    ]
-  },
-  {
-    "objectID": "04-Notes/week10.html",
-    "href": "04-Notes/week10.html",
-    "title": "Week 10",
-    "section": "",
-    "text": "In-class activities for week 10\n\nMon: Sorting / Searching\n\nalso due: Last week’s practice Problems\n\nSearching with recursion\nsorting game\n\nWed:\n\nreview for the final - review sheet\ncolor-coded engagement sheet\nsame review problems in colab notebook\n\nThurs: Review\n\ncontinue to review for the final\nreview sheet answers\nalso course evals\n\nFri:\n\ncontinue to review for the final",
-    "crumbs": [
-      "Weekly Notes",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Week 10</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 1</span>"
     ]
   }
 ]
