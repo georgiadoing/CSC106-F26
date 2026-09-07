@@ -30,14 +30,44 @@
     ]
   },
   {
+    "objectID": "02-Main/schedule.html",
+    "href": "02-Main/schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Schedule\nWeekly Schedule\ncheck often as things may change",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/schedule.html#schedule",
+    "href": "02-Main/schedule.html#schedule",
+    "title": "Schedule",
+    "section": "",
+    "text": "W\nTOPIC\nDue by end of week\nRunestone\n\n\n\n\n1\nProgramming, Syntax and Semantics\nPortfolio (PF) 1\n1 & 2\n\n\n2\nVariables and Functions\nPF 2\n3 & 4\n\n\n3\nConditional Statements\nPF 3, Project Demo 1\n5\n\n\n4\nConditional Loops\nPF 4, Practical Exam 1\n6\n\n\n5\nCounting Loops\nPF 5, Project Demo 2\n7\n\n\n6\nStrings, Lists\nPF 6, Written Exam 1\n8 & 9\n\n\n7\nNested Lists, Dictionaries\nPF 7, Project Demo 3\n10\n\n\n8\nFile I/O\nPF 8, Practical Exam 2\n11\n\n\n9\nRecursion\nPF 9, Project Demo 4\n\n\n\n10\nSearching, Sorting\nPF 10\n\n\n\n11\nFinals Week Monday 11/23 2:30 - 4:30\nWritten Exam 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/grading.html",
+    "href": "02-Main/grading.html",
+    "title": "Grading",
+    "section": "",
+    "text": "Grading Scheme\n\n\n\n\n\n\n\nCourse Element\nGrade Point Contribution\nNotes\n\n\n\n\nReading & Practice\n5%\nRunestone Interactive Textbook\n\n\nPortfolios & Share-outs\n15%\nFrom in-class and take-home problems\n\n\nProgramming Project Demos\n20%\n4 at 5% each\n\n\nPractical Exams\n20%\n2 at 10% each\n\n\nMidterm\n20%\n\n\n\nFinal Exam\n20%\nwritten\n\n\n\n\n\n\n\ntotal\n100%\n\n\n\n\n\n\nLetter Grade Scale\n\n\nLetter Grade\nPercent range\n\n\n\n\nA\n93 - 100\n\n\nA-\n90 - 92\n\n\nB+\n87 - 89\n\n\nB\n83 - 86\n\n\nB-\n80 - 82\n\n\nC+\n77 - 79\n\n\nC\n73 - 76\n\n\nC-\n70 - 72\n\n\nD\n60 - 69\n\n\nF\n0 - 59\n\n\n\n\nNote: You must get a C- or better in order to take any other class that has a CSC-10x prerequisite. Several larger programming projects will be assigned to reinforce the concepts discussed in class and put into practice in homework assignments. All projects can be completed using programming techniques that have been covered in class.\nDo not use techniques that have not been covered in class unless specifically told otherwise. Part of the challenge for each programming project is figuring out how to complete the assignment using only the tools provided in the course up to that point.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Grading</span>"
+    ]
+  },
+  {
     "objectID": "03-Assignments/csc106_hw01.html",
     "href": "03-Assignments/csc106_hw01.html",
     "title": "HW 01",
     "section": "",
-    "text": "CSC106: Week 1\n\ndue Monday 4/6/26 by class time (1:50 pm)\nIntro Survey\nRunestone Chapters 1 & 2\nFinish all parts of the Week 1 Portfolio\n\nespecially note parts we don’t start in class and you will have to do on your own (“oyo”)\nthere may also be parts we planned to start in class but run out of time for… regardless of the planned in-class start and share-out times, you are responsible for finishing the portfolio by the due date\n\nDo your share-out\n\ncheck the schedule to see what problem and what date you will share:\nadd your solution to the shared slide-deck:",
+    "text": "CSC106: Week 1\n\ndue Monday 9/14/26 by class time (1:50 pm)\nIntro Survey\nRunestone Chapters 1 & 2\nFinish all parts of the Week 1 Portfolio\n\nespecially note parts we don’t start in class and you will have to do on your own (“oyo”)\nthere may also be parts we planned to start in class but run out of time for… regardless of the planned in-class start and share-out times, you are responsible for finishing the portfolio by the due date\n\nDo your share-out\n\ncheck the schedule to see what problem and what date you will share:\nadd your solution to the shared slide-deck:",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>HW 01</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>HW 01</span>"
     ]
   },
   {
@@ -48,7 +78,7 @@
     "text": "Notes from Week 1\n\nSeymour Pappert Turtle Documentary\n\nTurtle drawing activity\n\nInstructions for First Program Activity\nReeborg activity: newspaper\n\n\n\nPython Examples\n\ncheck back here for in-class activities",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 1</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 1</span>"
     ]
   }
 ]
