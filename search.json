@@ -34,29 +34,7 @@
     "href": "03-Assignments/csc106_hw01.html",
     "title": "HW 01",
     "section": "",
-    "text": "CSC106: Assignment 1 (0.25 pts)",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>HW 01</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw01.html#part-1",
-    "href": "03-Assignments/csc106_hw01.html#part-1",
-    "title": "HW 01",
-    "section": "Part 1",
-    "text": "Part 1\n\nIntro Survey\nRunestone Chapters 1-3 (we’ll discuss in class next week starting Monday)",
-    "crumbs": [
-      "Assignments",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>HW 01</span>"
-    ]
-  },
-  {
-    "objectID": "03-Assignments/csc106_hw01.html#part-2",
-    "href": "03-Assignments/csc106_hw01.html#part-2",
-    "title": "HW 01",
-    "section": "Part 2",
-    "text": "Part 2\n\nPractice Problems for Week 1: HW01 instructions\nStarter code: winding_sandbar.json\nSubmit code on Gradescope\nbring written answers to class (0.25 engagement points awarded on these)\nGraded on effort/completion",
+    "text": "CSC106: Week 1\n\ndue Monday 4/6/26 by class time (1:50 pm)\nIntro Survey\nRunestone Chapters 1 & 2\nFinish all parts of the Week 1 Portfolio\n\nespecially note parts we don’t start in class and you will have to do on your own (“oyo”)\nthere may also be parts we planned to start in class but run out of time for… regardless of the planned in-class start and share-out times, you are responsible for finishing the portfolio by the due date\n\nDo your share-out\n\ncheck the schedule to see what problem and what date you will share:\nadd your solution to the shared slide-deck:",
     "crumbs": [
       "Assignments",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>HW 01</span>"
@@ -67,7 +45,7 @@
     "href": "04-Notes/week1.html",
     "title": "Week 1",
     "section": "",
-    "text": "Notes from Week 1\n\nDay 1 (Mon): Seymour Pappert Turtle Documentary\n\nTurtle drawing activity (0.25 pts)\n\nDay 2 (Wed): Instructions for First Program Activity (.25 pts)\nDay 3 — Lab (Thurs): Reeborg activity: newspaper (.25 pts)\n\n\n\nPython Examples\n\nin-class examples from Friday: https://drive.google.com/file/d/1UW3fMha6Ki4dDR_sidpeiV-PDeBSFEPi/view?usp=sharing\n\nexamples of comments, importing turtle, variables and for loops\nalso includes link to turtle library documentation",
+    "text": "Notes from Week 1\n\nSeymour Pappert Turtle Documentary\n\nTurtle drawing activity\n\nInstructions for First Program Activity\nReeborg activity: newspaper\n\n\n\nPython Examples\n\ncheck back here for in-class activities",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 1</span>"
