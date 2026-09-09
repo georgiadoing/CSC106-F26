@@ -12,8 +12,8 @@ jupyter: python3
 
 # \textcolor{black}{CSC 106: Can Computers Think?}
 
-* Union College, Spring 2026
-* Georgia Doing, PhD: email: doingg@union.edu, office: Steinmetz 108B
+* Union College, Fall 2026
+* Georgia Doing, PhD: email: doingg@union.edu, office: Steinmetz 217
 
 
 
@@ -27,6 +27,7 @@ jupyter: python3
 * Lab: Thursday 10:55 am - 12:40 pm 
 * Location: Olin 107
 * Student/Office Hours: 
+	* Steinmetz 217
 	* Monday  	3:00 pm - 4:30 pm
 	* Thursday  2:00 pm - 3:30 pm
 	* subject to change, check course website for most up-to-date schedule
@@ -284,16 +285,13 @@ Any student who faces challenges securing their food or housing and believes thi
 | 8    | File I/O                               | PF 8, Practical Exam 2   | 11
 | 9    | Recursion                              | PF 9, Project Demo 4         |
 | 10   | Searching, Sorting                     | PF 10  |
-| 11   | Finals Week   Monday 11/23 2:30 - 4:30 | Written Exam 2  |
+|      | Finals Week   Monday 11/23 2:30 - 4:30 | Written Exam 2  |
 |      |                                        |                                  |
 
 
 ## ADDENDA
 
-1. ...
-
-
-2. All updated text in this syllabus will supersede text from older versions. 
+All updated text in this syllabus will supersede text from older versions. 
 
 &nbsp;
 
