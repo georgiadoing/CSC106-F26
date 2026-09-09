@@ -29,7 +29,7 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Wed. Sept. 23rd by the end of class.**
+**Due Wed. Sept. 16th by the end of class.**
 
 
 # Portfolio 1: Programming Syntax and Semantics
