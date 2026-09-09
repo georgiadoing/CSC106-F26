@@ -29,45 +29,45 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Mon. Sept. 14th at the beginning of class.**
+**Due Wed. Sept. 23rd by the end of class.**
 
 
 # Portfolio 1: Programming Syntax and Semantics
 
 
 
- To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapters** (worth 0.5 of a grade percentage point):
+ To succeed in these problems you will need to read and engage with the embedded activities in the following **Runestone texbook chapters** (worth 0.5 of a grade percentage point):
 
-* 1: Introduction
-* 2: Variables, Statements and Expressions
+* Ch. 1: Introduction
+* Ch. 2: Variables, Statements and Expressions
 
-*For completing and self-correcting 70% of the below activities, you will earn 1 grade percentage point*. Additionally, for participating in a *share-out of 1 of the activities, you will earn 0.5 of a grade percentage point*.
+*For completing and self-correcting 70% of the below activities (during in-class share-outs), you will earn 1 grade percentage point*. For participating in a *share-out of 1 of the activities, you will earn 0.5 of a grade percentage point*.
 
-Note that some activities we will plan to start in class and others you need to start on your own. You should finish each activity before its in-class share-out in order to correct it before final submission.
+Note that some activities we will plan to start in class and others you need to start on your own ("oyo"). You should finish each activity before its in-class share-out in order to correct it before final submission. Note the intended schedule below but keep in mind that the schedule is always subject to change.
 
-Remember to print and attach your programs for the coding activities. Programs should be submitted to gradescope for autograder results, but credit is giving to programs printed and included in this portfolio, on completetion, reguardless of autograder results. Programs should be marked up by hand for corrections.
+Remember to print and attach your programs for the coding activities. Programs should be submitted to gradescope for autograder results, but credit is given to programs printed and included in this portfolio, on completetion, regaurdless of autograder results. Programs should be marked up for corrections during in-class share-outs.
 
 ## Table of Contents
 
 This portfolio includes the following 10 activities and the report of your weekly share-out:
 
 | Part   | Problem/Task                                | Page | In-class Start | In-class Share-out | Submission Format | 
-|----|------------------------------------------------ |------|---------|--------------|-----------------------------|
+|----|---------------------------------------------- |-----|-----------|----------------|-----------------------------|
 | A1  | Written prompt: think?                         | 2    | W 9/9   | W  9/9       | Hand-written                |
 | A2  | Written programs for human turtles             | 3    | W 9/9   | W  9/9       | Hand-written                |
-| A3  | Written questions - Computer Basics            | 5    | Th 9/10 | Th 9/10      | Hand-written                |
-| A4  | Prog. with Reeborg (patterns, newspaper)       | 7    | Th 9/10 | F  9/11      | Gradescope & printed        |
-| A5  | Prog. with Turtle (shapes)                     | 8    | F 9/11  | F  9/11      | Gradescope & printed        |
-| A6  | Written questions - syntax, semantics, prompt  | 9    | F 9/11  | M  9/14      | Hand-written                |
-| A8  | Tracing Re-assignment                          | 12   | OYO     | M  9/14      | Hand-written                |
-| A7  | Prog. Arithmetic, Taxes                        | 10   | M 9/14  | W  9/16      | Gradescope & printed        |
-| A9  | Prog. Reeborg (winding sandbar)                | 13   | OYO     | W  9/16      | Gradescope & printed        |
-| A10 | Prog. with Turtle (squares)                    | 14   | OYO     | W  9/16      | Gradescope & printed        |
-| B1  | Share-out report                               | 16   | OYO     |              | Hand-written                |
+| A3  | Written questions - computer basics            | 5    | Th 9/10 | Th 9/10      | Hand-written                |
+| A4  | Prog. with Reeborg (patterns)                  | 7    | Th 9/10 | F  9/11      | Printed                     |
+| A5  | Prog. with Reeborg (newspaper)                 | 9    | F 9/11  | F  9/11      | Gradescope & printed        |
+| A6  |Questions - syntax, semantics, prompt           | 11    | F 9/11  | M  9/14      | Hand-written                |
+| A7  | Tracing Re-assignment                          | 13   | oyo     | M  9/14      | Hand-written                |
+| A8  | Prog. Arithmetic, reciept                      | 15   | M 9/14  | W  9/16      | Gradescope & printed        |
+| A9  | Prog. Reeborg (winding sandbar)                | 17   | oyo     | W  9/16      | Gradescope & printed        |
+| A10 | Prog. with Turtle (squares)                    | 19   | oyo     | W  9/16      | Gradescope & printed        |
+| B1  | Share-out report                               | 21   | oyo     |              | Hand-written                |
 
 {{< pagebreak >}}
 
-# A1) Prompt: Can computers think? Why or why not? What does it mean to "think"?
+# A1) Prompt: Can computers think? Why or why not? What does it mean, to "think"?
 
 
 
@@ -84,7 +84,7 @@ This portfolio includes the following 10 activities and the report of your weekl
 5. **Without looking at the drawing on the back** draw a picture following the instructions.
 6. Fold down the top third and see - how closely does your drawing match the original?
 
-
+\vspace{4em} 
 ……………………………………………………………………………………………………………………
 
 instructions:
@@ -108,7 +108,7 @@ leave blank for drawing:
 
 
 
-\vspace{8em} 
+\vspace{4em} 
 
 
 
@@ -121,7 +121,7 @@ leave blank for drawing:
 
 # A3) Computers, Algorithms and Programs
 
-* Take a look at **Runestone Chapter 1**  ... feel free to look at it while answering these questions and during today’s discussion
+* Take a look at **Runestone Chapters 1 & 2**  ... feel free to look at it while answering these questions and during today’s discussion
 
 
 0. Name some parts of a computer.
@@ -235,7 +235,35 @@ leave blank for drawing:
     ………………………………………………………………………………………………
 
 
-# A4) Programs for Robot Turtles: Working with Reeborg
+# A4) Programs for Robots: Working with Reeborg
+
+## Paired Programming Instructions
+
+* Pair programming is a widely utilized programming method popular in industry and academia for the increase in quality it gives to both process (learning, comprehension, memory) and product (algorithm, program, results).
+
+***
+
+Paired programming guidelines:
+
+* Roles: 
+    +	driver: has the keyboard and types
+    +	navigator: guides the driver
+
+* Instructions:
+    + You should be talking to each other constantly!
+    +	You should be able to swap roles at any moment.
+    +	Swap roles every 5 to 10 minutes.
+
+***
+
+![Pair Programming](images/pairprogramming.png){ width=600px }
+
+
+
+* Note that most programming we do in class will be pair programming. The exceptions will be in-class practical exams where each student will work independently. 
+
+* You will have the opportunity to practice indeipendent programming when finishing up assignments you don't finish in class, doing on assignments we don't start in class and doing your projects.
+
 
 From the course website, under Resources, follow the link to Reeborg's World, or type out the url: <https://reeborg.ca/reeborg.html>
 
@@ -278,16 +306,20 @@ Reeborg patterns
 
 
 * To save, choose “Save program to file” from the “Program in editor” section of the “Additional options” menu.
-* Note: Python programs are saved as text files, but the file names have the extension .py
+* Note: Python programs are saved as text files, but the file names have the extension `.py`
 
 3. Upload each file to your Google drive, or email to yourself, so you can print out these files to submit with your portfolio.
 
 **For portfolio submission, insert you printed program pages here.**
 
 
-# A5) Programs for Robot Turtles: Delivering a newspaper
+# A5) Programs for Robots: Delivering a newspaper
 
-1.	Select the `Newspaper 0` world. What is the goal in this world?
+![Reeborg Newspaper 0](images/newspaper0_world.png){ width=500px }
+
+1.	Select the `Newspaper 0` world. It should look like the image above. Find the "World Info" button, just to the right of the upper right hand corner of the above screenshot. What is the goal in this world?
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -326,7 +358,27 @@ Reeborg patterns
 
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 8. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -339,22 +391,18 @@ Reeborg patterns
 
 **For portfolio submission, insert you printed program pages here.**
 
-{{< pagebreak >}}
-
-# A6) Prompt: What required the most thinking --- coming up with algorithms, writing programs or communicating in pair programming? Did the activities rquire different *types* and/or *amounts* of thinking?
 
 {{< pagebreak >}}
 
 
-# A7) Check-in Questions, Syntax and Semantics
+# A6) Check-in Questions, Syntax and Semantics
 
-Answer the following questions about Reeborg and Python Turtle module syntax. Also, think about what the program syntax means. Programs can be valid, meaning they have proper syntax, but to be *correct* they must also do what the programmer intends them to do, meaning they are semantically proper as well. 
+Answer the following questions about Reeborg and Python (Turtle) syntax. Think about what the program syntax looks like and means. Programs can be valid, meaning they have proper syntax, but to be *correct* they must also do what the programmer intends them to do, meaning the semantics are right. 
 
 
 **Take a look at Runestone Chapter 2 before completing the rest of this portfolio.**
 
-1.	Which of the following programs are valid Reeborg programs that cause Reborg to execute a sequence of actions? 
-Circle the valid ones. Explain what’s wrong with the invalid ones. (Assume that Reeborg starts in the middle of an empty environment. That is, you don’t have to worry about Reeborg running into walls)
+1.	Which of the following programs are valid Reeborg programs that cause Reborg to execute a sequence of actions? What’s wrong with the invalid ones? (Assume Reeborg won't run into walls)
 
     a. ```
     Move() 
@@ -401,15 +449,7 @@ Circle the valid ones. Explain what’s wrong with the invalid ones. (Assume tha
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
     d. What does “calling a function” mean?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -459,12 +499,157 @@ The import statement isn’t shown, but you can assume that the turtle module ha
 ```
 
 
-# A8) Programming practice: Reeborg
+5. What required the most thinking --- coming up with algorithms, writing programs or communicating in pair programming? Did the activities rquire different *types* and/or *amounts* of thinking?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    
+{{< pagebreak >}}
+
+# A7) Tracing (re-)assignment with Memory Diagrams
+
+Consider the following snippet of Python code.
+```
+1.	x = 5
+2.	y = 10
+3.	z = x
+4.	x = y + 3
+5.	y = z
+```
+
+\vspace{3em}
+
+1.	Draw a memory diagram that shows the `<variable name>-<object/value>` associations after line 3 has been executed.
+
+\vspace{10em}
+
+2.	Draw a memory diagram that shows the `<variable name>-<object/value>` associations after line 4 has been executed.
+
+\vspace{10em}
+
+
+3.	Draw a memory diagram that shows the `<variable name>-<object/value>` associations after the whole snippet has been executed.
+
+\vspace{10em}
+
+{{< pagebreak >}}
+
+4. In Python, what happens in the machine's memory blocks when a variable is assigned to another variable? Do the variables share a memory block, or is a new memory location used? Assume the inital variable was assigned to an integer value.
+
+\vspace{10em}
+
+ 5. Depict the process you described above with a diagram/drawing.
+
+
+{{< pagebreak >}}
+
+
+# A8) Arithmetic in Python
+
+Computer programming languages are often designed to handle arithmetic operations such as addition, subtraction, multiplication, division, and exponents. These operations are performed through the use of operators, several of which are listed below:
+
+$$+, -, *, /, //, \%, **$$
+
+Just as in mathematics, we can use these operators to develop complex mathematical equations. Also like in math in a more general sense, parentheses can be used to give some operations a higher priority than they would normally have. For example:
+
+$$2 + 4 * 2 = 2 + 8 = 10$$
+$$(2 + 4) * 2 = 6 * 2 = 12$$
+
+
+1. Using IDLE, write a Python program that uses each of the operators shown above at least once. Please include comments explaining what it looks like each operator does. You may need to experiment with some of them to figure out exactly what they’re doing. Name your program `arithmetic.py`.
+
+2. Add print statements to give the same information as the comments so a user will see an explanation of what the program is doing whenever they run it.
+
+3.	Taxes, tips, and totals: Now we’re going to write a program to calculate the tax, tip, and total cost for dining at a restaurant. Name your program `receipt.py`.
+
+	Start by assigning the following values to variables:
+    i.	The meal’s subtotal of $35 (example name: `meal_cost`)
+    ii.	The meal’s tax rate of 7% (example name: `tax_rate`)
+    iii.	The meal’s tip rate of 25% (example name: `tip_rate`)
+
+4.	Add code to compute the tax, tip, and total cost for the meal, then use print() to display a receipt that displays the following information:
+```
+RECEIPT
+Sub-total: $35
+Tax:       $2.45
+Tip:       $8.75
+Total:     $46.20
+```
+5. Make the numbers line up nicely. For the time being, it’s perfectly acceptable if $46.20 appears as $46.2 instead. 
+
+6.	Change the values assigned to each of the three variables you created. Do the results produced by the altered program make sense? (e.g. is the tip computed correctly?) If not, then figure out why and try to fix it.
+
+7.	Adjust the program so that `meal_cost`, `tax_rate`, and `tip_rate` are assigned from user input (i.e. using the `input()` function and type-casting).
+
+8.	Test the new version of the program to make sure that the receipt information is correct based on the input.
+
+9.	If you haven’t already done so, make sure to add comments explaining how the program works.
+
+10.	Can you display the whole receipt using a single `print()` function call?
+
+11. Did the autograder produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+12. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+**For portfolio submission, insert you printed program pages here.**
+
+{{< pagebreak >}}
+
+# A9) Programming practice: Reeborg
 
 0. Do this part on the Reeborg's World website.
 
 1.	Download the starter code from the course website. 
-    * It is one file called: winding_sandbar.json
+    * It is one file called: `winding_sandbar.json`
 
 2.	Import the starter file winding_sandbar.json into Reeborg. 
     * To import a program, open the “Additional options” menu. 
@@ -508,18 +693,18 @@ The import statement isn’t shown, but you can assume that the turtle module ha
     ………………………………………………………………………………………………
 
 5.	Complete the program so that Reeborg picks up the stars, deposits them in the indicated
-spots and finishes at the house. 
+spots and finishes at the house. Save your program file (not
+the world file) in a file with the name `winding_sandbar.py`.
     * When pair-programming, as you go, add comments throughout indicating who was the “driver” and who was the “navigator” for each chunk. 
-    * Save your program file (make sure to save the program file and not
-the world file) in a file with the name winding_sandbar.py --- use exactly that file
-name.
-6.	Share the program between pairs.
-    * Use email or Google drive for transfering files 
-7.	Individually add comments to your code, 
-    * Explain the different steps and including a header comment that names your partner. 
+6.	Share the program between pairs using email or Google drive/
+7.	Individually add comments to your code. Explain the different steps and including a header comment that names your partner. 
 8. Submit your code on gradescope. Remember to also print it out to submit with your portfolio.
 
 9. Did the autograder produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -537,62 +722,56 @@ name.
 
     ………………………………………………………………………………………………
 
-
-**For portfolio submission, insert you printed program pages here.**
-
-# A9) Programming Practice: Turtle in Python
-
-
-1.	Do this part in IDLE. Write a Python program that uses the turtle module to draw the following picture. Save your program in a file called squares.py
-
-![Turtle Squares](images/turtle_squares_bw.png){ width=300px }
-
-
-2. In english (not code), what is your algorithm for your solution?
-
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-3. Submit your code on gradescope. Remember to also print it out to submit with your portfolio.
-4. Did the "autograder" produce any messages? Do you think you need to revise your algorithm and/or program? If so, what is your plan?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-5. Were you able to solve this task? If so, how much trial and error did it take? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 **For portfolio submission, insert you printed program pages here.**
 
 # A10) Programming Practice: Turtle in Python
 
-1.	Now modify your program so that it draws the same three squares, but each of them in a different color: 
-    * Save your program in a file called colored_squares.py
-    * Don’t forget to add comments to your code to help human readers. 
+
+0. Your goal is to write a program that uses the turtle module to draw the following picture.
+
+![Turtle Squares](images/turtle_squares_bw.png){ width=300px }
+
+1. In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+2. Now, in IDLE, write your program in Python. Save your program in a file called squares.py
+
+3.	Think about how you would modify your program so that it draws the same three squares, but each of them in a different color. 
 
 ![Turtle Squares in Color](images/turtle_squares_color.png){ width=300px }
 
 
+ 3. (cont.) In english (not code), what is your algorithm for your solution?
 
-2. In english (not code), what is your algorithm for your solution?
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+4. Now edit your previous program to implement your new algorithm. Don’t forget to add comments to your code to help human readers. Save your program in a file called colored_squares.py. 
+
+5. Submit your code on gradescope. Remember to also print it out to submit with your portfolio.
+6. Did the autograder produce error messages? How might you revise your algorithm and/or program?
 
     ………………………………………………………………………………………………
 
@@ -604,8 +783,11 @@ name.
 
     ………………………………………………………………………………………………
 
-3. Submit your code on gradescope. Remember to also print it out to submit with your portfolio.
-4. Did the "autograder" produce any messages? Do you think you need to revise your algorithm and/or program? If so, what is your plan?
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+7. Were you able to solve this task? If not, can you think of anything else to try?
 
     ………………………………………………………………………………………………
 
@@ -613,7 +795,7 @@ name.
 
     ………………………………………………………………………………………………
 
-5. Were you able to solve this task? If so, how much trial and error did it take? If not, can you think of anything else to try?
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -622,6 +804,8 @@ name.
     ………………………………………………………………………………………………
 
 **For portfolio submission, insert you printed program pages here.**
+
+{{< pagebreak >}}
 
 # B1: Share-out
 
@@ -661,7 +845,15 @@ name.
 
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 3. If any, what changes did you make to your solution in response to questions or discussion?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -679,6 +871,70 @@ name.
 
     {{< pagebreak >}}
 
+
+# B2: Share-out 2 (optional, for make-ups)
+
+0. Did you share-out this week? If not, and if you would like to make up your credit, where in the upcoming schedule would you like to be added?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+1. For which activity did you share-out?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+2. What was the solution you shared?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+3. If any, what changes did you make to your solution in response to questions or discussion?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    {{< pagebreak >}}
 
 
     

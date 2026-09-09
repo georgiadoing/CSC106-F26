@@ -50,13 +50,133 @@
     ]
   },
   {
+    "objectID": "02-Main/resources.html",
+    "href": "02-Main/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "CS-Ticket",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#cs-ticket",
+    "href": "02-Main/resources.html#cs-ticket",
+    "title": "Resources",
+    "section": "",
+    "text": "technical help with lab machines\nhttps://csticket.union.edu/",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#runestone",
+    "href": "02-Main/resources.html#runestone",
+    "title": "Resources",
+    "section": "Runestone",
+    "text": "Runestone\n\nhttps://runestone.academy/runestone/default/user/register\nyour Union College email\nunioncollege_foppff_fall26 as the course name",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#gradescope",
+    "href": "02-Main/resources.html#gradescope",
+    "title": "Resources",
+    "section": "Gradescope",
+    "text": "Gradescope\n\nhttps://www.gradescope.com/courses/1370118\nEntry Code: 3ZGEVN",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#late-token-form",
+    "href": "02-Main/resources.html#late-token-form",
+    "title": "Resources",
+    "section": "Late Token Form",
+    "text": "Late Token Form\n\nhttps://forms.gle/bKTWFgftoT9sYFxJ7\nfill out this form to get a 24 hour extension on any Programming Project\neach student gets 3 tokens per term",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#python",
+    "href": "02-Main/resources.html#python",
+    "title": "Resources",
+    "section": "Python",
+    "text": "Python\n\nPython 3.13.X: the software package needed to write and run Python programs\nhttps://www.anaconda.com/download/success?reg=skipped",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#python-documentation",
+    "href": "02-Main/resources.html#python-documentation",
+    "title": "Resources",
+    "section": "Python Documentation",
+    "text": "Python Documentation\n\nOfficial Documentaion: https://docs.python.org/3/index.html\nCan always be used as a reference\nCan be searched for module-specific documentation e.g. turtle",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#reeborg",
+    "href": "02-Main/resources.html#reeborg",
+    "title": "Resources",
+    "section": "Reeborg",
+    "text": "Reeborg\n\nReeborg’s World: a useful website for learning some programming basics\nReeborg’s World: https://reeborg.ca/reeborg.html\nReeborg Project Documentation",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#pythontutor",
+    "href": "02-Main/resources.html#pythontutor",
+    "title": "Resources",
+    "section": "PythonTutor",
+    "text": "PythonTutor\n\nPython Tutor: a useful website for tracing python code\nhttps://pythontutor.com/visualize.html#mode=edit",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#google-colab-pro",
+    "href": "02-Main/resources.html#google-colab-pro",
+    "title": "Resources",
+    "section": "Google Colab Pro",
+    "text": "Google Colab Pro\n\nPro account sign-up: https://colab.research.google.com/signup\nUse your Union email\nA pro account is not needed for this course, just an option Union pays for\nNotes template: https://colab.research.google.com/drive/15rPmKyQKCCbwsdDCpC39o8hczWZ-B5zV?usp=sharing",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#python-style-guide",
+    "href": "02-Main/resources.html#python-style-guide",
+    "title": "Resources",
+    "section": "Python Style Guide",
+    "text": "Python Style Guide\n\nPEP 8\nshould be used in all code cells of Colab notebooks\nLink: https://peps.python.org/pep-0008/",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/syllabus.html",
+    "href": "02-Main/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Syllabus\n\ncheck for updates! (All updated text in this posted version of the syllabus will supersede text from older versions.)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
     "objectID": "02-Main/grading.html",
     "href": "02-Main/grading.html",
     "title": "Grading",
     "section": "",
     "text": "Grading Scheme\n\n\n\n\n\n\n\nCourse Element\nGrade Point Contribution\nNotes\n\n\n\n\nReading & Practice\n5%\nRunestone Interactive Textbook\n\n\nPortfolios & Share-outs\n15%\nFrom in-class and take-home problems\n\n\nProgramming Project Demos\n20%\n4 at 5% each\n\n\nPractical Exams\n20%\n2 at 10% each\n\n\nMidterm\n20%\n\n\n\nFinal Exam\n20%\nwritten\n\n\n\n\n\n\n\ntotal\n100%\n\n\n\n\n\n\nLetter Grade Scale\n\n\nLetter Grade\nPercent range\n\n\n\n\nA\n93 - 100\n\n\nA-\n90 - 92\n\n\nB+\n87 - 89\n\n\nB\n83 - 86\n\n\nB-\n80 - 82\n\n\nC+\n77 - 79\n\n\nC\n73 - 76\n\n\nC-\n70 - 72\n\n\nD\n60 - 69\n\n\nF\n0 - 59\n\n\n\n\nNote: You must get a C- or better in order to take any other class that has a CSC-10x prerequisite. Several larger programming projects will be assigned to reinforce the concepts discussed in class and put into practice in homework assignments. All projects can be completed using programming techniques that have been covered in class.\nDo not use techniques that have not been covered in class unless specifically told otherwise. Part of the challenge for each programming project is figuring out how to complete the assignment using only the tools provided in the course up to that point.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Grading</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Grading</span>"
     ]
   },
   {
@@ -64,10 +184,10 @@
     "href": "03-Assignments/csc106_hw01.html",
     "title": "HW 01",
     "section": "",
-    "text": "CSC106: Week 1\n\ndue Monday 9/14/26 by class time (1:50 pm)\nIntro Survey\nRunestone Chapters 1 & 2\nFinish all parts of the Week 1 Portfolio\n\nespecially note parts we don’t start in class and you will have to do on your own (“oyo”)\nthere may also be parts we planned to start in class but run out of time for… regardless of the planned in-class start and share-out times, you are responsible for finishing the portfolio by the due date\n\nDo your share-out\n\ncheck the schedule to see what problem and what date you will share:\nadd your solution to the shared slide-deck:",
+    "text": "CSC106: Week 1\n\ndue Wednesday 9/16/26 by class time\nIntro Survey\nRunestone Chapters 1 & 2\n\nhttps://runestone.academy/runestone/default/user/register\nyour Union College email\nunioncollege_foppff_fall26 as the course name\n\nFinish all parts of the Week 1 Portfolio\n\nespecially note parts we don’t start in class and you will have to do on your own (“oyo”)\nthere may also be parts we planned to start in class but run out of time for… regardless of the planned in-class start and share-out times, you are responsible for finishing the portfolio by the due date\n\nDo your share-out\n\ncheck the schedule to see what problem and what date you will share:\nadd your solution to the share-out slide-deck",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>HW 01</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>HW 01</span>"
     ]
   },
   {
@@ -75,10 +195,20 @@
     "href": "04-Notes/week1.html",
     "title": "Week 1",
     "section": "",
-    "text": "Notes from Week 1\n\nSeymour Pappert Turtle Documentary\n\nTurtle drawing activity\n\nInstructions for First Program Activity\nReeborg activity: newspaper\n\n\n\nPython Examples\n\ncheck back here for in-class activities",
+    "text": "Notes from Week 1\n\nSeymour Pappert Turtle Documentary\n\nTurtle drawing activity\n\nActivities for Portfolio 1\nStarter code: winding_sandbar.json\n\n\n\nPython Examples\n\ncheck back here for in-class activities",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 1</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Me:\n\nGeorgia Doing, PhD\nshe/her/hers\nMy interests: computational microbiology, small cells & big data (check out my github website for descriptions of research projects)\nMy dog Ginny (just email ahead of office hours if you’d like me to make sure she isn’t there, no problem!)\n\n\n\n\nGinny",
+    "crumbs": [
+      "About"
     ]
   }
 ]
