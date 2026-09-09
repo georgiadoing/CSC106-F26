@@ -191,6 +191,17 @@
     ]
   },
   {
+    "objectID": "03-Assignments/portfolio1.html",
+    "href": "03-Assignments/portfolio1.html",
+    "title": "Portfolio 1",
+    "section": "",
+    "text": "CSC106: Portfolio 1",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Portfolio 1</span>"
+    ]
+  },
+  {
     "objectID": "04-Notes/week1.html",
     "href": "04-Notes/week1.html",
     "title": "Week 1",
@@ -198,7 +209,7 @@
     "text": "Notes from Week 1\n\nSeymour Pappert Turtle Documentary\nActivities for Portfolio 1\nStarter code: winding_sandbar.json\n\n\n\nPython Examples\n\ncheck back here for in-class activities",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 1</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 1</span>"
     ]
   },
   {

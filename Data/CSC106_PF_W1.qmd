@@ -17,7 +17,7 @@ format:
             - ../preamble2.tex
     pptx:
         incremental: true
-        reference-doc: ../teaching_template2.pptx
+        reference-doc: ../teaching_template3.pptx
     ipynb:
         title:  "CSC106 Can Computers Think"
 jupyter: python3
@@ -56,9 +56,9 @@ This portfolio includes the following 10 activities and the report of your weekl
 | A1  | Written prompt: think?                         | 2    | W 9/9   | W  9/9       | Hand-written                |
 | A2  | Written programs for human turtles             | 3    | W 9/9   | W  9/9       | Hand-written                |
 | A3  | Written questions - computer basics            | 5    | Th 9/10 | Th 9/10      | Hand-written                |
-| A4  | Prog. with Reeborg (patterns)                  | 7    | Th 9/10 | F  9/11      | Printed                     |
-| A5  | Prog. with Reeborg (newspaper)                 | 9    | F 9/11  | F  9/11      | Gradescope & printed        |
-| A6  |Questions - syntax, semantics, prompt           | 11    | F 9/11  | M  9/14      | Hand-written                |
+| A4  | Prog. with Reeborg (patterns)                  | 7    | Th 9/10 | Th 9/10      | Printed                     |
+| A5  | Prog. with Reeborg (newspaper)                 | 9    | Th 9/10 | F  9/11      | Gradescope & printed        |
+| A6  |Questions - syntax, semantics, prompt           | 11   | F 9/11  | M  9/14      | Hand-written                |
 | A7  | Tracing Re-assignment                          | 13   | oyo     | M  9/14      | Hand-written                |
 | A8  | Prog. Arithmetic, reciept                      | 15   | M 9/14  | W  9/16      | Gradescope & printed        |
 | A9  | Prog. Reeborg (winding sandbar)                | 17   | oyo     | W  9/16      | Gradescope & printed        |
