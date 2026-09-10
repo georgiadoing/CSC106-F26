@@ -1,6 +1,6 @@
 ---
 title: CSC 106 Can Computers Think?, Programming Project 1
-date: April, 6, 2026
+date: Sept, 10, 2026
 eval: true
 format: 
     pdf:
@@ -35,7 +35,7 @@ Reminder: Programming projects should be done individually. You should not look 
 
 
 
-# 1. Drawing shapes (4 pts)
+# 1. Drawing shapes 
 
 1.1 Square 
 
@@ -72,7 +72,7 @@ Reminder: Programming projects should be done individually. You should not look 
 3.	The size variable should indicate the length of one side.
 
 
-# 2, Functions for shapes (1 pt)
+# 2, Functions for shapes 
 
 1.	Open the starter file `turtle_shapes.py`. This file contains the beginnings of some function definitions. (We’ll be discussing function definitions more this week)
 2.	Copy your code for drawing a square from `square.py` into the `square(x, y, size)` function definition. There are comments explaining how to do this in the starter file.
@@ -83,7 +83,7 @@ Reminder: Programming projects should be done individually. You should not look 
 5.	Add function calls for each of the shapes at the bottom of the file to test your program and prove that the functions work as expected.
 6.	Please note that you should copy over comments in addition to the code itself.
 
-# 3. Draw a picture (2 pts)
+# 3. Draw a picture 
 
 1.	Create a new file and copy the function definitions from Part 2 into it. Save this new file as `my_picture.py`.
 2.	Write a program that uses these functions to draw a picture.
@@ -97,7 +97,7 @@ Reminder: Programming projects should be done individually. You should not look 
 
 ![Turtle Drawing](images/turtle_drawing.png){ width=300px }
 
-# 4. Computer Generated art (3 pts)
+# 4. Computer Generated art 
 
 1.	Find the Python documentation for the `random` module. (Hint: Use the link to the “library reference” on the Resources page on the course website)
 2.	The function `randrange` from the `random` module produces a random integer. Test it out by writing a program that generates five random numbers between 2 and 9 (inclusive ) and prints them out. Save your program in a file called `five_random_numbers.py`.
@@ -138,11 +138,12 @@ Before submitting, check that your code meets the following requirements:
 
 Once you have checked these things, submit your code to:
 
- "cat3_Project 1: Drawings with Turtle" on Gradescope.
+ "Project 1: Drawings with Turtle" on Gradescope.
 
 
 # 6. Grading guidelines
 
+*   **Demo specifics to come** ... generally speaking, focus on the below elements
 *	Correctness: programs do what the problems require.
 *	Program logic: use loops where appropriate, variables where appropriate, and your code doesn’t contain lines of code that don’t contribute to the program.
 *	Comments: code is properly commented. There should be a header comment that includes the author’s name and describes the program’s purpose. Additional comments in the code should help clarify how the program works.
