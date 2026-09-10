@@ -1,6 +1,6 @@
 ---
-title: CSC 106 Can Computers Think?, Week 1 Day 2
-date: April, 1, 2026
+title: CSC 106 Can Computers Think?
+date: Sept, 11, 2026
 eval: true
 format: 
     pdf:
