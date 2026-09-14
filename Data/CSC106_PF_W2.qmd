@@ -24,7 +24,7 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Mon. Sept. 21th at the beginning of class.**
+**Due Wed. Sept. 23th at the end of class.**
 
 # Portfolio 2: Variables and Functions
 
@@ -54,14 +54,17 @@ This portfolio includes the following 10 activities and the report of your weekl
 | A5  | Prog. with Turtle (house)                      |     |     |       |          |
 | A6  | Prog. Python (ascii art)                       |     |     |       |          |
 | A7  | Written study questions                        |     |     |       |          |
-| A8  | Prog. Python (temp conversion, bookstore)                 |     |     |       |          |
+| A8  | Prog. Python (temp, bookstore)                 |     |     |       |          |
 | A9  | Prog. Python (birthday)                    |     |     |       |          |
 | A10 | Prog. Python (cricut)                        |     |     |       |          |
 | B1  | Share-out report                               |     |     |       |          |
 
 {{< pagebreak >}}
 
-# A1) Prompt: Can computers think? Why or why not? What does it mean to "think"?
+# A1) Prompt: Is randomly generating values creative? Does it produce novel information? Is it "just" following instructions? Why or why not??
+
+{{< pagebreak >}}
+
 
 # A2) Writing Functions for Reeborg
 
@@ -86,6 +89,28 @@ In general, a function should:
 5.	Don’t forget to include comments in your code.
 6. Give your program a meaningful name (ending in `.py`) and submit to Gradescope.
 
+In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 ### Reeborg Harvesting Carrots
 
 1.	Open the tutorial world Harvest 1.
@@ -101,7 +126,7 @@ In general, a function should:
 
 ### Turtle: Flower Meadow
 
-1.	Define a function called `flower` that uses the `turtle` module to draw a flower like this (using whatever color(s) you like):
+1.	Define a function called `flower` that uses the `turtle` module to draw a flower (any colors):
 
 ![Flower](./images/flower1.png){ width=100px }
 
@@ -109,15 +134,16 @@ In general, a function should:
 
 ![Flowers](./images/flower4.png){ width=300px }
 
-**Note**: you can set the background color using the following function:
-
-
-`turtle.bgcolor(<specified color>)`
+You can set the background color using the following function: `turtle.bgcolor(<specified color>)`
 
 3.	Don’t forget to include comments in your code.
 4.	(Optional) Modify your program so that the locations of the flowers are random.
 5.	(Optional) Try to figure out which colors were used in the example pictures. All the colors used can be found on this web page: <http://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html>
 6. Give your program a meaningful name (ending in `.py`) and submit to Gradescope.
+
+
+{{< pagebreak >}}
+
 
 # A4) Functions: Input/Output
 
@@ -206,6 +232,8 @@ $$V_{cylinder} = A_{circle} * height$$
 
 Test your functions by using the `random` module to generate random sizes for the radius of a circle, cost of a pizza, and height of a mug.
 
+{{< pagebreak >}}
+
 # A5) Functions for Drawing: St. Nick's House
 
 ### 1. St. Nicholas’ house
@@ -224,8 +252,9 @@ Start by figuring out how many parameters your function needs and what each para
 
 7.	Modify your program so that the size and location of the houses is random.
 
-### Prompt: Is randomly generating values creative? Does it produce novel information? Is it "just" following instructions? Why or why not?
 
+
+{{< pagebreak >}}
 
 # A6) 
 
@@ -277,7 +306,7 @@ iiiiiii
   uuu
 ```
 
-
+{{< pagebreak >}}
 
 # A7: Written Questions
 
@@ -403,7 +432,7 @@ f. Assuming that the user input 1 when asked for a number, what will this code p
 ………………………………………………………………………………………………
 
 
-
+{{< pagebreak >}}
 
 # A8:
 
@@ -468,7 +497,7 @@ Don’t forget to include your answers from section 3 as comments in the code.
 
 Save your program in a file like `bookstore.py`.
 
-
+{{< pagebreak >}}
 
 # A9: 
 
@@ -487,6 +516,7 @@ Happy Birthday to you!
 3.	Make sure to include appropriate comments.
 4.	Save your program using the filename `birthday.py`.
 
+{{< pagebreak >}}
 
 # A10: 
 
@@ -509,7 +539,7 @@ c. return the temperature
 
 
 
-
+{{< pagebreak >}}
 
 # B1: Share-out
 
