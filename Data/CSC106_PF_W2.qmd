@@ -24,7 +24,7 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Wed. Sept. 23th at the end of class.**
+**Due Thurs. Sept. 24th at the end of class.**
 
 # Portfolio 2: Variables and Functions
 
@@ -47,17 +47,17 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
 |----|------------------------------------------------ |------|---------|--------------|-----------------------------|
-| A1  | Written prompt                                 |     |     |       |          |
-| A2  | Functioncs for Reeborg (stars, carrots)            |     |     |       |          |
-| A3  | Prog. with Turtle (flowers)                    |     |     |       |          |
-| A4  | Functions I/O (even, math quiz, return)         |     |     |       |          |
-| A5  | Prog. with Turtle (house)                      |     |     |       |          |
-| A6  | Prog. Python (ascii art)                       |     |     |       |          |
-| A7  | Written study questions                        |     |     |       |          |
-| A8  | Prog. Python (temp, bookstore)                 |     |     |       |          |
-| A9  | Prog. Python (birthday)                    |     |     |       |          |
-| A10 | Prog. Python (cricut)                        |     |     |       |          |
-| B1  | Share-out report                               |     |     |       |          |
+| A1  | Written prompt                                          |   2  |     |       |          |
+| A2  | Functioncs for Reeborg (stars, carrots)       |   3  |   Th 9/17  |       |          |
+| A3  | Prog. with Turtle (flowers)                             |  5   |  F 9/18   |       |          |
+| A4  | Functions I/O (even, math quiz, return)         |  7   |  M 9/21   |       |          |
+| A5  | Prog. with Turtle (house)                      |   11  |  W 9/23    |       |          |
+| A6  | Prog. Python (ascii art)                       |   13  |  Th 9/24   |       |          |
+| A7  | Written study questions                        |  15   |  oyo   |       |          |
+| A8  | Prog. Python (temp, bookstore)                 |  18   |  oyo   |       |          |
+| A9  | Prog. Python (birthday)                    |  21   |   oyo  |       |          |
+| A10 | Prog. Python (cricut)                        |  23   |   oyo  |       |          |
+| B1  | Share-out report                               |  25   |   oyo  |       |          |
 
 {{< pagebreak >}}
 
@@ -85,40 +85,81 @@ In general, a function should:
 1.	Download the starter file `stars0.json` from the course website and import it into Reeborg’s World.
 2.	Define a function `collect_row_of_stars` that helps Reeborg pick up all the stars. When you call this function, Reeborg should move across the world and collect all the stars lined up on the bottom row. Use loops as appropriate. You can also define other functions.
 3.	Download the starter file `stars1.json` from the course website and import it into Reeborg’s World.
-4.	Write a program that helps Reeborg pick up all the stars in the world. Can you reuse any function(s) that you defined to solve the previous world?
+4.	Write a program that helps Reeborg pick up all the stars in the world. Can you reuse any function(s) that you defined to solve the previous world? First, in english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
 5.	Don’t forget to include comments in your code.
-6. Give your program a meaningful name (ending in `.py`) and submit to Gradescope.
+6. Name your program `picking_up_stars.py` and submit to Gradescope.
 
-In english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 ### Reeborg Harvesting Carrots
 
-1.	Open the tutorial world Harvest 1.
-2.	Write a program that helps Reeborg harvest the field of carrots.
+7.	Open the tutorial world Harvest 1.
+8.	Write a program that helps Reeborg harvest the field of carrots.
     + Before you start writing code, think about different approaches (i.e. walking paths) that Reeborg could use to keep things efficient.
-    + Try to choose a path that allows you to make good use of function definitions and loops to create a program that’s easy to read.
-3.	Don’t forget to include comments in your code.
-4. Give your program a meaningful name (ending in `.py`) and submit to Gradescope.
+    + Try to choose a path that allows you to make good use of function definitions and loops to create a program that’s easy to read. 
+	+ First, in english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+9.	Don’t forget to include comments in your code.
+10. Name your program `harvesting_carrots.py` and submit to Gradescope.
+
+11. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+12. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 {{< pagebreak >}}
 
@@ -130,16 +171,78 @@ In english (not code), what is your algorithm for your solution?
 
 ![Flower](./images/flower1.png){ width=100px }
 
-2.	Use the flower function to draw a flower meadow like in the picture below (use whatever colors you like, but try to use at least three different colors):
+2.	Use the flower function to draw a flower meadow like in the picture below (use whatever colors you like, but use at least three different colors). You can set the background color using the following function: `turtle.bgcolor(<specified color>)`
 
 ![Flowers](./images/flower4.png){ width=300px }
 
-You can set the background color using the following function: `turtle.bgcolor(<specified color>)`
 
-3.	Don’t forget to include comments in your code.
-4.	(Optional) Modify your program so that the locations of the flowers are random.
-5.	(Optional) Try to figure out which colors were used in the example pictures. All the colors used can be found on this web page: <http://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html>
-6. Give your program a meaningful name (ending in `.py`) and submit to Gradescope.
+
+3.	(Optional) Try to figure out which colors were used in the example pictures. All the colors used can be found on this web page: <http://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html>
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+4. First, in english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+5.	Don’t forget to include comments in your code.
+6.	(Optional) Modify your program so that the locations of the flowers are random. In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+7. Name your program `flower_meadow.py` and submit to Gradescope.
+
+8. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+9. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 
 {{< pagebreak >}}
@@ -147,9 +250,9 @@ You can set the background color using the following function: `turtle.bgcolor(<
 
 # A4) Functions: Input/Output
 
-### 1. Practicing functions with input: Is it even?
+### Practicing functions with user input: Is it even?
 
-Define a function called `is_even` that determines whether a given integer is even. 
+1. Define a function called `is_even` that determines whether a given integer is even. 
 
 -	The user inputs a number
 -	The program checks whether the number is even or odd and prints the result
@@ -158,12 +261,20 @@ Remember Python’s arithmetic operators:
 
 $$+, -, *, /, //, \%, **$$
 
-What does it mean for a number to be even? Which of the operators will help you test for evenness?
+2. What does it mean for a number to be even? Which of the operators will help you test for evenness? In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+3. Write your function in a program named `math_io_functions.py` , adding comments.
 
 
-### 2. Math facts quiz
+### Math facts quiz
 
-Write a function `math_quiz` that helps elementary students practice their math facts. 
+4. Write a function `math_quiz` that helps elementary students practice their math facts. 
 
 -	Ask the user to input two numbers
 -	Ask the user which number is greater
@@ -175,12 +286,56 @@ Write a function `math_quiz` that helps elementary students practice their math 
 
 `“Incorrect, the correct answer is <the correct value>!” `
 
--	(Optional) Add the functionality to randomly generate the two numbers instead of user input. Present the numbers to the user, and then wait for the user to input a result. 
--	(Optional) If the user’s result is correct, the function should print out a message indicating as much. Otherwise, it should say that the answer was incorrect and show the right answer.
+5. In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+6. (Optional) Add the functionality to randomly generate the two numbers instead of user input. Present the numbers to the user, and then wait for the user to input a result. 
+7. (Optional) If the user’s result is correct, the function should print out a message indicating as much. Otherwise, it should say that the answer was incorrect and show the right answer.
 
 **Remember to give your programs meaningful names (ending in `.py`) and submit to Gradescope.**
 
-### User input and output vs. function input and output
+
+8. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+9. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+### Defining functions with return values:  User input and output vs. function input and output
 
 * user input/output: to communicate with the *user* of a program.
     + **user input**: built-in function `input()`
@@ -197,40 +352,106 @@ In contrast to functions that take parameters and return values, functions that 
 
 Please be sure to read problem specifications carefully. Unless the instructions specify otherwise, generally, you should assume that any input values the function requires should be provided as parameters and that any results the function calculates should be returned.
 
-1.	Improve the temperature conversion function from last time by re-writing it to take a temperature in degrees Fahrenheit as a parameter, then **return** the temperature in degrees Celsius.
+10. Circle area - Define a function called `circle_area` that calculates the area of a circle. Given the circle’s radius, the function should return the area.
 
-
-### 4. Defining functions with return values
-
-1. Circle area
-
-Define a function called `circle_area` that calculates the area of a circle. Given the circle’s radius, the function should return the area.
-
-The area of a circle is given by the following equation:
+* The area of a circle is given by the following equation:
 
 $$Area = \pi r^2$$
 
-Python’s math module contains a variable called pi that gives you an approximation of $\pi$. Given what you know about modules, how can you use this predefined variable in your code?
+* Python’s math module contains a variable called pi that gives you an approximation of $\pi$. Given what you know about modules, how can you use this predefined variable in your code?
 
-Once you have imported the math module (`import math`), you can access $\pi$ with: `math.pi`
+* Once you have imported the math module (`import math`), you can access $\pi$ with: `math.pi`
 
 * Note the lack of parentheses. Pi, here, is a variable, not a function, so no parentheses are used.
+* In english (not code), what is your algorithm for your solution?
 
-2. Pizza cost per square inch
+    ………………………………………………………………………………………………
 
-Define a function called `pizza_cost` that calculates then returns the cost per square inch for a circular pizza, given the pizza’s diameter and total price. You should use the `circle_area` function from the previous question to help calculate the expected value.
+    ………………………………………………………………………………………………
 
-3. Coffee intake
+    ………………………………………………………………………………………………
 
-Define a function that calculates how much coffee will fit into a cylindrical mug, given its radius and height. You should be able to reuse the `circle_area` function you’ve previously defined.
+    ………………………………………………………………………………………………
 
-The volume of a cylinder is given by:
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+11. Pizza cost per square inch - Define a function called `pizza_cost` that calculates then returns the cost per square inch for a circular pizza, given the pizza’s diameter and total price. 
+
+* You should use the `circle_area` function from the previous question to help calculate the expected value.
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+12. Coffee intake - Define a function that calculates how much coffee will fit into a cylindrical mug, given its radius and height. You should be able to reuse the `circle_area` function you’ve previously defined.
+
+* The volume of a cylinder is given by:
 
 $$V_{cylinder} = A_{circle} * height$$
 
-4. Random Sizes
+* In english (not code), what is your algorithm for your solution?
 
-Test your functions by using the `random` module to generate random sizes for the radius of a circle, cost of a pizza, and height of a mug.
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+13. Random Sizes - Test your functions by using the `random` module to generate random sizes for the radius of a circle, cost of a pizza, and height of a mug.
+
+14. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+15. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 {{< pagebreak >}}
 
@@ -240,27 +461,92 @@ Test your functions by using the `random` module to generate random sizes for th
 
 1.	Download the starter code `house.py` from the course website. The file contains code to draw a house-like shape .
     + German kids know this shape as "St. Nicholas’ house". It can be used as a puzzle where you have to draw the shape without lifting your pencil and without tracing.
+	+ For example:
+
+![St. Nick's Houses](images/houses.png){ width=400px }
 
 2.	Define a function called `house` that draws the shape.
 3.	Define a function `fly_to` that does the same things as the `turtle.setpos` / `turtle.goto`, but doesn’t leave a line behind as the turtle moves.
 4.	Use these functions to draw a few houses in different locations
 5.	Modify the `house` function so that it allows you to draw houses of different sizes and colors.
 Start by figuring out how many parameters your function needs and what each parameter represents.
-6.	Draw a picture of houses in different colors and sizes. For example:
 
-![St. Nick's Houses](images/houses.png){ width=400px }
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+6.	Write a program, in the `house.py` file, to draw a picture of houses in different colors and sizes. 
 
 7.	Modify your program so that the size and location of the houses is random.
 
+8. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
 
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+9. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 {{< pagebreak >}}
 
-# A6) 
+# A6)  ASCII art
 
-### 2. ASCII art
-
-ASCII art uses keyboard characters to create pictures. For example:
+ASCII art uses keyboard characters to create pictures. Name your file `ascii_art.py`. For example:
 ```
 Zzzzz  |\      _,,,---,,_
 	 /,`.-’`’    -.  ;-;;,_
@@ -277,6 +563,23 @@ Zzzzz  |\      _,,,---,,_
 *******
   ***
 ```
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 2.	Now add two parameters to the function which specify which characters to use for the branches and the trunk. The function should now be able to print the following:
 
@@ -305,6 +608,54 @@ ooooooo
 iiiiiii
   uuu
 ```
+
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+3. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+4. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 
 {{< pagebreak >}}
 
@@ -465,21 +816,43 @@ ____________________________
 ```
 
 1.	From the user’s point of view, do these programs behave differently?
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
 2.	From the programmer’s point of view, which one is better and why?
-    + Save your answers as comments in a `.py` file, which you’ll use for the next problem.
 
-## 4. Bookstore
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
 
 
-Define a function called `book_order`, which should take the cover price of a book and the number of copies the store wants to order as its parameters. Suppose that bookstores get a 40% discount. Shipping costs $3 for the first copy and $0.75 for each additional copy. The function should print out a message indicating
+3. Bookstore - Define a function called `book_order`, which should take the cover price of a book and the number of copies the store wants to order as its parameters. Suppose that bookstores get a 40% discount. Shipping costs $3 for the first copy and $0.75 for each additional copy. 
 
-●	the cover price of the bok
-●	the number of copies ordered
-●	what the bookstore will have to pay for the books (don’t forget the discount)
-●	the shipping cost
-●	the total amount the bookstore will have to pay (for books + shipping)
+* The function should print out a message indicating
+	+	the cover price of the bok
+	+	the number of copies ordered
+	+	what the bookstore will have to pay for the books (don’t forget the discount)
+	+	the shipping cost
+	+	the total amount the bookstore will have to pay (for books + shipping)
 
-For example, if you called `book_order(12.97, 15)` (meaning the store orders 15 copies of a book that costs $12.97), it should print:
+* For example, if you called `book_order(12.97, 15)` (meaning the store orders 15 copies of a book that costs $12.97), it should print:
 
 ```
 cover price: $12.97
@@ -489,19 +862,68 @@ shipping: $13.50
 total: $130.23
 ```
 
-Hint: you can use the built-in round function to `round(<value>, <decimal places>)` to a desired number of digits after (or before) the decimal point. You can find the documentation in the Python Library Reference section on Built-in Functions, which can also be found through the Resources section on the course website: <https://docs.python.org/3/library/functions.html>
+* Hint: you can use the built-in round function to `round(<value>, <decimal places>)` to a desired number of digits after (or before) the decimal point. You can find the documentation in the Python Library Reference section on Built-in Functions, which can also be found through the Resources section on the course website: <https://docs.python.org/3/library/functions.html>
 
-Don’t forget to comment your code and organize it in a sensible way.
+* In english (not code), what is your algorithm for your solution?
 
-Don’t forget to include your answers from section 3 as comments in the code.
+    ………………………………………………………………………………………………
 
-Save your program in a file like `bookstore.py`.
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+* Don’t forget to comment your code and organize it in a sensible way.
+
+* Don’t forget to include your answers from section 3 as comments in the code.
+
+* Save your program in a file like `bookstore.py`.
+
+4. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+5. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 {{< pagebreak >}}
 
-# A9: 
-
-# Programming Part 1: Happy Birthday
+# A9: Happy Birthday
 
 1.	Download the starter file `birthday.py` from the course website and read the instructions inside before continuing.
 2.	Write a function that “sings” Happy Birthday for someone. The function should take the person’s name as a parameter and then print Happy Birthday in the following format.:
@@ -512,15 +934,63 @@ Happy Birthday to you!
 Happy Birthday dear <name>!
 Happy Birthday to you!
 ```
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 3.	Make sure to include appropriate comments.
 4.	Save your program using the filename `birthday.py`.
 
+8. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+9. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 {{< pagebreak >}}
 
-# A10: 
-
-# Programming Part 2: Cricket Chirping
+# A10: Cricket Chirping
 
 1.	Download the starter file `cricket.py` from the course website and read the instructions inside before continuing.
 2.	Amos Dolbaer discovered that, for certain types of crickets, there’s a relationship between the temperature and the rate at which they chirp (<https://en.wikipedia.org/wiki/Dolbear's_law>). More specifically, the relationship is as follows:
@@ -535,7 +1005,58 @@ a. calculate the chirps per minute
 b. calculate the temperature based on chirps per minute
 c. return the temperature
 
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 3.	Save your program in a file called `cricket.py`
+
+8. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+9. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 
 

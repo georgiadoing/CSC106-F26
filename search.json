@@ -14,7 +14,7 @@
     "href": "index.html#announcements",
     "title": "Course: CSC106 Can Computers Think?",
     "section": "Announcements",
-    "text": "Announcements\n\nToday’s (Mon) office hours moved to tomorrow (9/15) 2-3\nThis week, extend portfolio deadline until Thursday (9/17) at the end of class\n\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 217\nMonday 4:00 pm - 5:30 pm\nThursday 3:00 pm - 4:30 pm\nsubject to change, check course website for most up-to-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
+    "text": "Announcements\n\nUpdated python download link (https://www.python.org/downloads/)\nUpdated Winding Sandbar autograder (allows for done())\n\nask if you are curious why!\n\nThis week, extend portfolio deadline until Thursday (9/17) at the end of class\n\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 217\nMonday 4:00 pm - 5:30 pm\nThursday 3:00 pm - 4:30 pm\nsubject to change, check course website for most up-to-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -104,7 +104,7 @@
     "href": "02-Main/resources.html#python",
     "title": "Resources",
     "section": "Python",
-    "text": "Python\n\nPython 3.13.X: the software package needed to write and run Python programs\nhttps://www.anaconda.com/download/success?reg=skipped",
+    "text": "Python\n\nPython 3.13.X: the software package needed to write and run Python programs\nhttps://www.python.org/downloads/",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -210,6 +210,17 @@
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 1</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week2.html",
+    "href": "04-Notes/week2.html",
+    "title": "Week 2",
+    "section": "",
+    "text": "Wed (9/16)\n\nFinish up share-outs, slides)\nUpdated Winding Sandbar autograder (allows for done())\n\nask if you are curious why!\n\nThis week, extend portfolio deadline until Thursday (9/17) at the end of class\n\n\n\nKey Resources this week\n\nUpdated python download link (https://www.python.org/downloads/)\nall also found in Resources page\nPython Documentation\nPython Tutor\n\n\n\nExamples from class",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Week 2</span>"
     ]
   },
   {
