@@ -27,7 +27,7 @@ In this project, you’ll write code to draw a variety of shapes using the turtl
 Learning Objectives:
 
 1.	Practice designing and implementing simple algorithms.
-2.	Demonstrate that you can use the programming concepts that we’ve covered so far: function calls, function definitions, variables and assignment, and counting loops
+2.	Demonstrate that you can use the programming concepts that we’ve covered so far: function calls, function definitions, variables and assignment
 3.	Practice reading the official Python documentation.
 4.	More practice defining your own functions and using them.
 
@@ -93,7 +93,6 @@ Reminder: Programming projects should be done individually. You should not look 
     b.	Your picture should depict a recognizable object or scene. For example, something like the picture bloew (though it does not need to be this involved)
     c.	You may add additional functions to help draw the picture (e.g. functions to draw filled-in versions of each shape), but you should not change the functions that you defined for Part 2 of the assignment.
     d.	Your program should use each function from Part 2 at least once, but you can also use other built-in turtle functions.
-    e.	Your program should use loops when appropriate to keep your code DRY (Don’t Repeat Yourself).
 
 ![Turtle Drawing](images/turtle_drawing.png){ width=300px }
 
@@ -145,7 +144,7 @@ Once you have checked these things, submit your code to:
 
 *   **Demo specifics to come** ... generally speaking, focus on the below elements
 *	Correctness: programs do what the problems require.
-*	Program logic: use loops where appropriate, variables where appropriate, and your code doesn’t contain lines of code that don’t contribute to the program.
+*	Program logic: use variables where appropriate, and your code doesn’t contain lines of code that don’t contribute to the program.
 *	Comments: code is properly commented. There should be a header comment that includes the author’s name and describes the program’s purpose. Additional comments in the code should help clarify how the program works.
 *	Organization: use whitespace to indicate the logical structure of the code.
     +	Lines of code that logically belong together are close together in the file.
