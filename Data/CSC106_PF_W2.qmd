@@ -25,7 +25,7 @@ STUDENT ID:
 Remember to also initial in the upper right-hand header of each page.
 
 **Due Fri Sept. 25th at the end of class.**
-i
+
 # Portfolio 2: Variables and Functions
 
 
@@ -46,14 +46,14 @@ Remember to print and attach your programs for the coding activities. Programs s
 This portfolio includes the following 10 activities and the report of your weekly share-out:
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
-|----|------------------------------------------------ |------|---------|--------------|--------------------------|
-| A1  | Written prompt                                          |   2  |     |       |          |
+|----|------------------------------------------------ |------|-----------|--------------|-------------------------|
+| A1  | Prompt: randomness                                          |   2  |     |       |     written    |
 | A2  | Functioncs for Reeborg (stars, carrots)       |   3  |   Th 9/17  |   M 9/21     |     GS, print     |
-| A3  | Prog. with Turtle (flowers)                             |  5   |  F 9/18   |    M 9/21   |    GS, print      |
+| A3  | Functions for Turtle (flowers)                             |  5   |  F 9/18   |    M 9/21   |    GS, print      |
 | A4  | Functions I/O (even, math quiz, return)         |  7   |  M 9/21   |   W 9/23    |    GS, print      |
-| A5  | Prog. with Turtle (house)                      |   11  |  W 9/23    |  Th 9/24     |    GS, print      |
-| A6  | Prog. Python (ascii art)                       |   13  |  Th 9/24   |   F 9/25    |    GS, print      |
-| A7  | Written study questions                        |  15   |  oyo   |   Th  9/24    |   written       |
+| A5  | Parameters for Turtle (house)                      |   11  |  W 9/23    |  Th 9/24     |    GS, print      |
+| A6  | Parameters in Python (ascii art)                       |   13  |  W 9/23   |   Th 9/24    |    GS, print      |
+| A7  | Study questions                        |  15   |  oyo   |   Th  9/24    |   written       |
 | A8  | Prog. Python (temp, bookstore)                 |  18   |  oyo   |  Th  9/24      |    GS, print      |
 | A9  | Prog. Python (birthday)                    |  21   |   oyo  |   Th  9/24     |    GS, print      |
 | A10 | Prog. Python (cricut)                        |  23   |   oyo  |  Th  9/24      |    GS, print      |
@@ -61,7 +61,7 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 {{< pagebreak >}}
 
-# A1) Prompt: Is randomly generating values creative? Does it produce novel information? Is it "just" following instructions? Why or why not??
+# A1) Prompt: Is randomly generating values creative? Does it produce novel information? Is it "just" following instructions? Is it thinking? Why or why not??
 
 {{< pagebreak >}}
 
