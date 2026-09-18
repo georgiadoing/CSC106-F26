@@ -128,12 +128,11 @@ You will need to submit the following files:
 Before submitting, check that your code meets the following requirements:
 
 1.	Are your files properly commented? This should include the following:
-    a.	A header comment, which includes your name, the date, the assignment and a brief description of the program.
+    a.	Header comment, with name, date, assignment and a brief description of the program.
     b.	Comments within the body of the code to further clarify how the program works.
-2.	Are your programs formatted neatly and consistently? Do you use some whitespace to help a human reader understand the logical organization of your code?
-    + Hint: it may be helpful to think of this as breaking your code up into “paragraphs.”
+2.	Are your programs formatted neatly and consistently? Do you use some whitespace to help a human reader understand the logical organization of your code? Hint: it may be helpful to think of this as breaking your code up into “paragraphs.”
 3.	Have you cleaned up any code snippets you no longer need?
-    a.	The final version of the program should not contain any lines of actual code that are commented out to keep them from running. Such snippets should be removed before submitting.
+    a.	The final version of the program should not contain any lines of actual code that are commented out to keep them from running, these lines should be removed before submitting.
 
 Once you have checked these things, submit your code to:
 
@@ -142,13 +141,51 @@ Once you have checked these things, submit your code to:
 
 # 6. Grading guidelines
 
-*   **Demo specifics to come** ... generally speaking, focus on the below elements
+# Focus on the below elements
+
 *	Correctness: programs do what the problems require.
-*	Program logic: use variables where appropriate, and your code doesn’t contain lines of code that don’t contribute to the program.
+*	Program logic: use variables and functionswhere appropriate
 *	Comments: code is properly commented. There should be a header comment that includes the author’s name and describes the program’s purpose. Additional comments in the code should help clarify how the program works.
 *	Organization: use whitespace to indicate the logical structure of the code.
     +	Lines of code that logically belong together are close together in the file.
     +	Import statements are at the very top…
     +	followed by function definitions…
     +	then followed by the rest of the code.
+	+	there are no lines of code that do not contribute to the program
+
+
+	# Demonstration Instructions
+
+* confirm availability for  a 10 minute time slot
+* submit all your code to gradescope
+* bring printed versions of your code and generated images
+* be prepared to answer the following questoins:
+
+1. How did you fill in the bodies of the shape functions?
+	* what python/turtle functions did you use?
+	* what, if any, variables did you use (beyond the parameters specified)?
+
+2. What additional functions did you define?
+	* what are their names?
+	* what, if any, parameters do they take?
+	* what did you use them for?
+	* how many times did you use each?
+
+3. What variables did you define?
+	* what are their names?
+	* what type of values do they hold?
+	* what are their purposes?
+	* how many times did you use them?
+	* do they get re-asssigned?
+
+4. What will your drawing show when it is run?
+	* what is the main subject?
+	* what other details should I look out for?
+
+5. What was the most challenging part of the project?
+	* did you go through multiple iterations of trying to get a part to work?
+	* what hint would you give to someone else attempting this project?
+	* what would you do differently next time?
+
+
 
