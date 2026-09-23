@@ -1,0 +1,405 @@
+---
+title: CSC 106 Can Computers Think? Portfolio 3, Student Inititals - 
+eval: true
+format: 
+    pdf:
+        number-sections: false
+        shift-heading-level-by: 2
+        geometry:
+            - top=1in
+            - right=.8in
+            - bottom=1in
+            - left=.8in
+        mainfont: "Avenir"
+        sansfont: "Avenir"
+        code-line-numbers: true
+        include-in-header: 
+            - ../preamble2.tex
+    pptx:
+        incremental: true
+        reference-doc: ../teaching_template2.pptx
+    ipynb:
+        title:  "CSC106 Can Computers Think"
+jupyter: python3
+---
+
+NAME:  
+
+STUDENT ID:  
+
+Remember to also initial in the upper right-hand header of each page.
+
+**Due Fri Sept. 25th at the end of class.**
+
+# Portfolio 3: Conditionals
+
+
+
+ To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapters** (worth 0.5 of a grade percentage point):
+
+* 5: Conditionals
+
+*For completing and self-correcting 70% of the below activities, you will earn 1 grade percentage point*. Additionally, for participating in a *share-out of 1 of the activities, you will earn 0.5 of a grade percentage point*.
+
+Note that some activities we will plan to start in class and others you need to start on your own. You should finish each activity before its in-class share-out in order to correct it before final submission.
+
+Remember to print and attach your programs for the coding activities. Programs should be submitted to gradescope for autograder results, but credit is giving to programs printed and included in this portfolio, on completetion, reguardless of autograder results. Programs should be marked up by hand for corrections.
+
+## Table of Contents
+
+This portfolio includes the following 10 activities and the report of your weekly share-out:
+
+| Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
+|----|------------------------------------------------ |------|---------|--------------|-----------------------------|
+| A1  | Written prompt: if/then                                |     |     |       |          |
+| A2  | Prog. Python (conversions)      |     |     |       |          |
+| A3  |  Prog. Python (painting)    |     |     |       |          |
+| A4  |  Prog. Python (pay)    |     |     |       |          |
+| A5  | Prog. with Reeborg (harvests)                  |     |     |       |          |
+| A6  | Prog. with Reeborg (walk through field)        |     |     |       |          |
+| A7  | Written prompt: multi-branch                   |     |     |       |          |
+| A8  |  Prog. Python (book order)                     |     |     |       |          |
+| A9  | Written study questions                        |     |     |       |          |
+| A10 |  Prog. with Reeborg (road repair)              |     |     |       |          |
+| B1  | Share-out report                               |     |     |       |          |
+
+{{< pagebreak >}}
+
+# A1) Prompt: What is the difference between a function that prints something (or displays something, like drawing in Turtle) and a function that returns a value? Why might you want functions that return things? Frame your answer as an 'If/then' or 'if/then/otherwise' statement(s).
+
+
+{{< pagebreak >}}
+
+
+# A2) Conversions
+
+Save all code for this problem in a file like `conversions.py`. Don’t forget to include comments for your code and to organize your code in a reasonable fashion.
+
+1.	Write a function called `ft_to_in` that converts an integer indicating a measurement in feet to inches. Your function should only do the conversion if the input is a positive number.
+
+* (1 ft = 12 in)
+
+* Before writing any code, answer the following questions and include the answers as comments at the top of the file:
+
+    + 1.2 How many parameters does this function need?
+    + 1.2	What does each parameter stand for?
+    + 1.3 What datatype should the parameter(s) be?
+    + 1.4 Does the function have a return value?
+        * 1.4.1. If so, what is the datatype of the return value?
+    + 1.5 Give 2-3 example function calls and the expected output of those calls.
+
+2.	Write a function called `in_to_cm` that converts a measurement in inches to centimeters. Your function should only do the conversion if the input is less than 12 inches.
+
+* (1 in ~= 2.54 cm)
+
+* Think about your responses to the questions from 1. when writing this function.
+
+3.	Write a function called `cm_to_m`  that converts a measurement in centimeters to meters.
+
+
+* (1 m = 100 cm)
+
+* Think about your responses to the questions from 1. when writing this function.
+
+4.	Now write a function called `main` that:
+
+    + 4.1. Asks the user to input a height in feet and inches.
+    + 4.2. Uses the functions you defined in 1-3 to calculate the user’s height in meters.
+    + 4.3. At the end, the function should print out a message to let the user know what their height is in meters.
+
+* Before writing any code, answer the following questions and include the answers as comments at the top of the file:
+
+    + 4.4. How many parameters does this function need, what do they stand for, and what datatype(s) should they be?
+    + 4.5. Does the function have a return value, and if so, what is its datatype?
+    + 4.6. Give an example function call and the expected output from the call.
+
+* Recommendation: Have the user input the feet and inches portion of their height with two separate input calls.
+
+
+
+
+{{< pagebreak >}}
+
+
+# A3) Painting
+
+A paint store wants to build a tool to help their customers estimate how much paint they need to buy and how much labor is going to cost if they hire the store’s painters to do the painting.
+
+In your calculations, you can assume that all roms that need painting are rectangular. All walls of a room as well as its ceiling should be painted. You can disregard any windows and doors the room may or may not have.
+
+1.	The paint store has determined that for every 121 square feet of wall space, one gallon of paint is needed. Write a function `paint_estimator` that, given the room’s dimensions (length, width, and height) in feet, returns how many gallons of paint are needed.
+
+What subtask do you have to solve for this problem? Define a separate function for it.
+
+2.	The paint store has also determined that, for every 121 square feet of wall space, 8 hours of labor will be needed. The company charges $60 per hour of labor. Define another function called `labor_estimator` that, given the room’s dimensions (see previous), returns the labor cost.
+
+If you identified a good subtask in the first part of the problem, you should be able to re-use the function you defined for it.
+
+3.	Now write a function called `main` that asks the user to input the dimensions of the room (length, width, and height) in feet. The function should then calculate how many gallons of paint are needed to paint the room and how much the labor will cost. It should print out a message to provide this information to the user.
+
+4.	(Optional) Change `main` to randomly generate the dimensions of the room instead of asking the user.
+
+
+{{< pagebreak >}}
+
+
+# A4) Overtime pay
+
+Many companies pay time-and-a-half for any hours worked above 40 in a given week. Write a function called `calculate_wages` that takes two numbers indicating the hours worked (first parameter) and the hourly rate, then calculates the total wages for the week and returns them.
+
+Add some code to call the function. (Optional) Add input calls to ask the user for their hours worked and hourly wage.
+
+{{< pagebreak >}}
+
+# A5) Walk Through Field
+
+1.	Download the Walk Through Field folder (or its contents) from the course website, which should contain 2 json files, which each define a single world for Reeborg.
+2.	Import both worlds into Reeborg and see what each world looks like.
+3.	Reeborg’s goal is to walk along the bottom of the world and:
+    a.	pick all strawberries
+    b.	put any fallen stars back into the sky
+    c.	perform a dance (turn 360 degrees) for each daisy
+
+Below are before and after pictures for Field 0. 
+
+
+::: {#fig-fields layout-ncol=2}
+
+![Field Before](./images/field_before.png){ width=300px }
+
+![Field After](./images/field_after.png){ width=300px }
+
+:::
+
+
+
+
+
+4.	Write a program that accomplishes these goals for both worlds.
+
+Hint: the `object_here()` function can be given a string argument to check if a specific type of object is present (e.g. `object_here(“token”)`).
+
+{{< pagebreak >}}
+
+# A6) Harvests
+
+
+In Python, logical operators allow you to combine two conditions into a single, more complex condition. Python has three logical operators: and, or, and not.
+
+`<condition> and <condition>` is `True` if both conditions are `True`.
+`<condition> or <condition>` is `True` if at least one of the conditions is `True`.
+`not <condition>` is `True` the condition is `False`.
+
+1.	Download the Harvests folder from the course website and import each json file into Reeborg.
+2.	Find `harvest1.py` from the folder and copy the code into Reeborg.
+3.	Open the world Harvest 1 (from Reeborg’s “introduction” worlds).
+4.	Run the code from `harvest1.py` and make sure you understand what it’s doing.
+5.	Choose the world `harvest1a.json` (from the folder). You should notice that there are some holes in the field. Adapt the provided code so that Reeborg will harvest all of the carrots.
+
+Note: the remaining portions also use worlds based on the downloaded files.
+Hint: you should only have to change a small portion of the code for this and each subsequent problem.
+
+6.	In the world `harvest1b.json`.  Adapt the code so that Reeborg will plant carrots in the empty spots.
+7.	In the world `harvest1c.json`, Reeborg is carrying an infinite supply of carrots. Adapt the code so that Reeborg plants carrots in the gaps in the field.
+8.	In the world `harvest5.json`, Reeborg’s goal is to pick all of the flowers (daisies and tulips).
+9.	In the world `harvest7.json`, Reeborg should pick everything except for the smiley tokens (Reeborg knows these as “token”).
+10.	In the world `harvest8.json`, Reeborg should pick everything except the flowers (daisies and tulips).
+
+# A7) Prompt: What is a benefit of being able to use multi-branch conditionals over simple "if" or "if..else.." statements? Give an example of how using a multi-branch statement may make your code more DRY.
+
+{{< pagebreak >}}
+
+
+# A8)
+
+
+{{< pagebreak >}}
+
+
+# A9) Check your understanding
+
+1.	What is the value of `x` after this code runs?
+
+```
+x = 5
+if x > 2:
+	x = -3
+	x = 1
+else:
+	x = 3
+	x = 2
+```
+
+2.	What is the value of `x` after this code runs?
+
+```
+x = 1
+if x > 2:
+	x = -3
+	x = 1
+else:
+	x = 3
+	x = 2
+```
+
+3.	Given the function definition below, what will be printed to the screen when this code runs?
+
+```
+def is_odd(x):
+	if x % 2 == 1:
+	    return True
+    else:
+	    return False
+
+print(is_odd(1))
+print(is_odd(2))
+print(is_odd(3.5))
+print(is_odd("abc"))
+```
+
+4.	Consider the following function definition for is_odd. Can you rewrite the function so that it only uses one line after "def is_odd(x):"? If so, provide an example.
+
+```
+def is_odd(x):
+    if x % 2 == 1:
+        return True
+    else:
+        return False
+```
+
+5.	What gets printed when the following code runs?
+
+```
+grade = 100
+if (grade >= 90):
+    print("You got an A!")
+if (grade >= 80):
+    print("You got a B!")
+else:
+    print("You got another grade.")
+```
+
+6.	What gets printed when the following code runs?
+
+```
+grade = 100
+if (grade >= 90):
+	print("You got an A!")
+elif (grade >= 80):
+	print("You got a B!")
+else:
+	print("You got another grade.")
+```
+
+
+
+7.	Fill in the blanks in the code below so the following payscale is followed.
+
+
+|            |            |     experience (years)   |               |               |
+|------------|------------|---------------------------|---------------|---------------|
+|            |            |     0                     |     1-2       |     3+        |
+|     age    |     <18    |     $15.25                |     $16.00    |     $16.00    |
+|            |     18+    |     $15.25                |     $16.25    |     $17.50    |
+
+
+```
+if experience == 0:
+	wage = 15.25
+elif (_1_):
+	if (_2_):
+		wage = 17.50
+	else:
+		wage = 16.25
+else:
+	wage = 16.0
+```
+
+8.	What will the value of y be after this code runs?
+
+```
+x = 8
+y = (x > 4) and ((not(x>8))or(x==5))
+
+
+
+{{< pagebreak >}}
+
+
+# A10) Road Repair
+
+Adjusting Reeborg’s speed: Reeborg’s speed can be adjusted using Reeborg’s think function, which takes a single parameter `ms`, which indicates how many milliseconds Reeborg should think before taking its next action. This means that the smaller numbers will make Reeborg go faster, while larger numbers will make it go slower. The default value is 250.
+
+1.	Download the Road Repair folder (or its contents) from the course website (3 json files for 3 Reeborg worlds) and import them into Reeborg.
+Reminder: to import a world into Reeborg using a json file, follow these steps:
+a.	Click “Additional options” at the top right to bring up the “Additional options” window.
+b.	Click the “Open world from file” button.
+c.	Select the json file you want to import.
+2.	Each world should consist of a “roadway” with “potholes” in it.
+3.	Write a program so Reeborg walks/drives along the road and fills in the potholes as it goes.
+a.	Use Reeborg’s `build_wall` function, which puts a wall in front of Reeborg.
+4.	You should write a single program that will solve all three roadX worlds.
+
+
+{{< pagebreak >}}
+
+i
+# B1: Share-out
+
+0. Did you share-out this week? If not, and if you would like to make up your credit, where in the upcoming schedule would you like to be added?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+1. For which activity did you share-out?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+2. What was the solution you shared?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+3. If any, what changes did you make to your solution in response to questions or discussion?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    {{< pagebreak >}}
+
+
+
+    
