@@ -706,7 +706,7 @@ Also complete the dotted lines in the code at the end by choosing to either `ret
 def f1():
     a = int(input(‘Please input a number: ‘))
 
-    ....................a........
+    ......\textcolor{red}{return}.....a........
 ```
 
 ```
