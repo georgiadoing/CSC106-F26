@@ -1,6 +1,6 @@
 ---
 title: CSC 106 Can Computers Think?, Programming Project 1
-date: Sept, 10, 2026
+date: Sept, 23, 2026
 eval: true
 format: 
     pdf:
@@ -111,8 +111,6 @@ Remember to also initial in the upper right-hand header of each page.
 
 ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
-
 2. What additional functions did you define?
 	* what are their names?
 	* what, if any, parameters do they take?
@@ -150,6 +148,8 @@ Remember to also initial in the upper right-hand header of each page.
 	* how many times did you use them?
 	* do they get re-asssigned?
 
+
+………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
