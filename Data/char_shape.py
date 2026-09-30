@@ -1,29 +1,26 @@
 ###############################################################################
 # Georgia Doing (doingg@union.edu)
 #
-# Draw a tree by printing characters
-# Week 3 Lab
+# Print an ascii L shape
 ###############################################################################
- 
 
-# Draw trees out of ASCII characters.
+# function definition
+def char_shape(wide, high, character):
+    """Use the given shape to print an L shape
+    with given rows and columns"""
+    
+	# print a single column of a character
+    row = character + "\n"
+    # print up to second to last row
+    all_rows = row * (high - 1)
+    
+    # end without a newline so 'L' is connected
+    print(all_rows, character, sep = "")
 
-def ascii_tree(stem, leaf):
-    """Draw a tree using the given characters to represent the stem
-    and leaves.
-    """
-    print()
-    print("   " + leaf)
-    print("  " + leaf * 3)
-    print(" " + leaf * 5)
-    print(leaf * 7)
-    print("  " + stem * 3)
+    # now print horizontal part
+    print( wide* character)
 
 
-# call the function with various characters
+# call char_shape to test
 
-ascii_tree("*", "*")
-ascii_tree("n", "o")
-ascii_tree("#", "^")
-ascii_tree("v", "~")
-ascii_tree("u", "i")
+char_shape(6, 4, "#")
