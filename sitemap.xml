@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://georgiadoing.github.io/CSC106-F26/index.html</loc>
-    <lastmod>2026-09-22T23:08:38.977Z</lastmod>
+    <lastmod>2026-09-30T17:44:11.730Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/CSC106-F26/02-Main/schedule.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/CSC106-F26/03-Assignments/csc106_hw03.html</loc>
-    <lastmod>2026-09-28T16:28:10.261Z</lastmod>
+    <lastmod>2026-09-30T17:43:40.454Z</lastmod>
   </url>
   <url>
     <loc>https://georgiadoing.github.io/CSC106-F26/04-Notes/week1.html</loc>
@@ -49,6 +49,10 @@
     <lastmod>2026-09-28T16:28:50.704Z</lastmod>
   </url>
   <url>
+    <loc>https://georgiadoing.github.io/CSC106-F26/04-Notes/week4.html</loc>
+    <lastmod>2026-09-30T17:43:47.474Z</lastmod>
+  </url>
+  <url>
     <loc>https://georgiadoing.github.io/CSC106-F26/about.html</loc>
     <lastmod>2026-09-09T01:40:27.131Z</lastmod>
   </url>
@@ -58,6 +62,6 @@
   </url>
   <url>
     <loc>https://georgiadoing.github.io/CSC106-F26/CSC106F26notes.pdf</loc>
-    <lastmod>2026-09-28T16:29:20.765Z</lastmod>
+    <lastmod>2026-09-30T17:44:48.348Z</lastmod>
   </url>
 </urlset>
