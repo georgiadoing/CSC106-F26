@@ -1,6 +1,6 @@
 ---
 title: CSC 106 Can Computers Think?, Programming Project 2
-date: April, 25, 2026
+date: Oct 2, 2026
 eval: true
 format: 
     pdf:
@@ -20,7 +20,7 @@ format:
 
 NAME:  
 
-# Project 2: Rock Paper Scissors (10 pts) 	
+# Project 2: Rock Paper Scissors (5 pts) 	
 
 In this project, you’ll implement several variants of a text-based Rock-Paper-Scissors game in which a human player plays against the computer. If you’re not familiar with the game, check out the Wikipedia article about it:
 (<http://en.wikipedia.org/wiki/Rock-paper-scissors>)
@@ -211,7 +211,7 @@ b.	Comments within the body of the code to further clarify how the program works
 Hint: it may be helpful to think of this as breaking your code up into “paragraphs.”
 3.	Have you cleaned up any code snippets you no longer need?
 a.	The final version of the program should not contain any lines of actual code that are commented out to keep them from running. Such snippets should be removed before submitting.
-Once you have checked these things, submit your files to *cat3_Project 2: Rock-Paper-Scissors* on Gradescope.
+Once you have checked these things, submit your files to *Project 2: Rock-Paper-Scissors* on Gradescope.
  
 
 
@@ -225,4 +225,10 @@ Once you have checked these things, submit your files to *cat3_Project 2: Rock-P
     +	Import statements are at the very top…
     +	followed by function definitions…
     +	then followed by the rest of the code.
+
+
+
+	# Demonstration Instructions
+
+	* TBD
 
