@@ -18,13 +18,13 @@ format:
 jupyter: python3
 ---
 
-NAME:  i
+NAME: 
 
 STUDENT ID:  
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Friday Oct. 9th at the beginning of class.**
+**Due Friday Oct. 9th by the end of class.**
 
 
 # Portfolio 4: Indefinite Iteration
@@ -40,7 +40,7 @@ Note that these activities are focused on this week's theme, but they are design
 
 Note that some activities we will plan to start in class and others you need to start on your own. You should finish each activity before its in-class share-out in order to correct it before final submission.
 
-Remember to print and attach your programs for the coding activities. Programs should be submitted to gradescope for autograder results, but credit is giving to programs printed and included in this portfolio, on completetion, reguardless of autograder results. Programs should be marked up by hand for corrections.
+**Submission change**: To get credit for completing a prgramming activity, submit it to gradescope and answer the written questions about your algorithm, whether you progrm worked and what troubleshooting you can think of. You *only have to print programs you want my feedback on*. Printed programs can still be marked up by hand for corrections.
 
 ## Table of Contents
 
@@ -176,7 +176,7 @@ The message should have one of the following forms:
 
     ………………………………………………………………………………………………
 
-	**For portfolio submission, insert you printed program pages here.**
+	**For feedback, insert you printed program(s) here.**
 
 
 
@@ -473,6 +473,8 @@ d. Add another while loop that encapsulates the previous two loops as well as th
 
     ………………………………………………………………………………………………
 
+**For feedback, insert you printed program(s) here.**
+
 {{< pagebreak >}}
 
 
@@ -682,7 +684,7 @@ d. Select a few inputs for your function and calculate what the correct output o
 
 
 
-	**For portfolio submission, insert you printed program pages here.**
+	**For feedback, insert you printed program(s) here.**
 
 {{< pagebreak >}}
 
@@ -794,7 +796,7 @@ Hint: is there a way to mark the square(s) that you’ve been to before?
 
 
 
-	**For portfolio submission, insert you printed program pages here.**
+	**For feedback, insert you printed program(s) here.**
 
 
 
@@ -980,7 +982,7 @@ Hint 2: Are there any numbers between 2 and x that you don’t need to check?
 
     ………………………………………………………………………………………………
 
-**For portfolio submission, insert you printed program pages here.**
+	**For feedback, insert you printed program(s) here.**
 
 {{< pagebreak >}}
 
@@ -1079,7 +1081,7 @@ Some details:
 
 
 
-	**For portfolio submission, insert you printed program pages here.**
+	**For feedback, insert you printed program(s) here.**
 
 {{< pagebreak >}}
 
