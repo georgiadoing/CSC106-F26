@@ -228,7 +228,7 @@
     "href": "03-Assignments/csc106_hw04.html",
     "title": "PF 04",
     "section": "",
-    "text": "CSC106: Portfolio 4\n\ndue Friday 10/9/26 by class time\nRunestone Chapter 5\nDo your share-out\n\nPF4 share-out schedule\nPF4 share-out slides\n\nFinish all parts of the Week 4 Portfolio\n\nespecially note parts we won’t start in class and you will have to do on your own (“oyo”)\nthere may also be parts we planned to start in class but run out of time for… regardless of the planned in-class start and share-out times, you are responsible for finishing the portfolio by the due date\n\n\n\nStarter code\n\nsum_of_powers.py\nMountain Top\nnumber_guessing.py",
+    "text": "CSC106: Portfolio 4\n\ndue Friday 10/9/26 by class time\nRunestone Chapter 6\nDo your share-out\n\nPF4 share-out schedule\nPF4 share-out slides\n\nFinish all parts of the Week 4 Portfolio\n\nespecially note parts we won’t start in class and you will have to do on your own (“oyo”)\nthere may also be parts we planned to start in class but run out of time for… regardless of the planned in-class start and share-out times, you are responsible for finishing the portfolio by the due date\n\n\n\nStarter code\n\nsum_of_powers.py\nMountain Top\nnumber_guessing.py",
     "crumbs": [
       "Assignments",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>PF 04</span>"
@@ -239,7 +239,7 @@
     "href": "03-Assignments/csc106_proj2.html",
     "title": "Project 2",
     "section": "",
-    "text": "CSC106: Project 2\n\ndue Monday 10/12/26 by 11:59 pm\nyou may use late token(s) for this assignment\n\nIn this project, you’ll implement several variants of a text-based Rock-Paper-Scissors game in which a human player plays against the computer. If you’re not familiar with the game, check out the Wikipedia article about it: (http://en.wikipedia.org/wiki/Rock-paper-scissors)\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 10% of your final grade\nstarter code:\n\nrps_1.py\nrps_2.py\ngame_history.py\nrps_anti_human.py\nrps_human_like.py",
+    "text": "CSC106: Project 2\n\ndue Monday 10/12/26 by 11:59 pm\nyou may use late token(s) for this assignment\n\nIn this project, you’ll implement several variants of a text-based Rock-Paper-Scissors game in which a human player plays against the computer. If you’re not familiar with the game, check out the Wikipedia article about it: (http://en.wikipedia.org/wiki/Rock-paper-scissors)\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 5% of your final grade\nstarter code:\n\nrps_1.py\nrps_2.py\ngame_history.py\nrps_anti_human.py\nrps_human_like.py",
     "crumbs": [
       "Assignments",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Project 2</span>"
