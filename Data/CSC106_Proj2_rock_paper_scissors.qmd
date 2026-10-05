@@ -49,7 +49,7 @@ The version you’ll implement here involves three choices - rock, paper, and sc
 
 # 1. Basic Rock-Paper-Scissors
 
-**1.1 Playing one game (2 pts)**
+**1.1 Playing one game (1 pts)**
 
 1.	Open the starter code `rps_1.py` from the course website.
 2.	Write a function called `rps` that plays a game of rock-paper-scissors with the user.
@@ -93,7 +93,7 @@ You win.
 
 
 
-**1.2  Playing until you’re tired of it (2 pts)**
+**1.2  Playing until you’re tired of it (1 pts)**
 
 1.	Download the starter file `rps_2.py` from the course website.
 This file contains a definition for a function called `play`. When play is called with another function name as the parameter value, it will call this function repeatedly until the user indicates that they no longer want to continue.
@@ -131,7 +131,7 @@ Ok. See you next time. Bye, bye!
 Choose two  (2) of the following four options.
 For each option, start by making a copy of `rps_2.py`, but save the new code under a new name, as specified by the option you’re working on.
 
-**2.1 Cheating (3 pts)**
+**2.1 Cheating (1.5 pts)**
 
 Please use the following filename for this variant: `rps_cheating.py`.
 
@@ -142,7 +142,7 @@ In this variant, that’s what the computer should do. But to not be too obvious
 
 
 
-**2.2 Exploiting human biases (3 pts)**
+**2.2 Exploiting human biases (1.5 pts)**
 
 For this variant, download the starter files `rps_anti_human.py` and `game_history.py`. Make sure to save both of these files in the same folder. You’ll write all of your code in the file `rps_anti_human.py`.
 
@@ -157,7 +157,7 @@ To implement this strategy, you need a way of remembering the outcome of the las
 
 References: <https://arstechnica.com/science/2014/05/win-at-rock-paper-scissors-by-knowing-thy-opponent/>, <https://arxiv.org/abs/1404.5199>
 
-**2.3 Imitating human behavior (3 pts)**
+**2.3 Imitating human behavior (1.5 pts)**
 
 For this variant, download the starter files `rps_human_like.py` and `game_history.py`. Make sure to save both of these files in the same folder. You will write all of your code in `rps_human_like.py`.
 
@@ -170,7 +170,7 @@ In this variant, the computer should imitate human behavior. That is:
 * If the last game ended in a tie, the computer picks the next move randomly.
 To implement this strategy, you need a way of remembering the outcome of the last round and what moves were made.  The starter file contains a number of functions that you can use for that purpose. These functions refer to code from `game_history.py`. Please do not make any changes to `game_history.py` or to the given function definitions.
 
-**2.4 Five options: rock, paper, scissors, Spock, lizard (3 pts)**
+**2.4 Five options: rock, paper, scissors, Spock, lizard (1.5 pts)**
 
 Start from `rps_2.py` and save it as `rps_five.py`. In this variant you will be implementing a variant of rock-paper-scissors called rock-paper-scissors-Spock-lizard.
 As the name suggests, it involves 5 options:
