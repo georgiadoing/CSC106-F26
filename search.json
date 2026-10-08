@@ -239,7 +239,7 @@
     "href": "03-Assignments/csc106_proj2.html",
     "title": "Project 2",
     "section": "",
-    "text": "CSC106: Project 2\n\ndue Monday 10/12/26 by 11:59 pm\nyou may use late token(s) for this assignment\n\nIn this project, you’ll implement several variants of a text-based Rock-Paper-Scissors game in which a human player plays against the computer. If you’re not familiar with the game, check out the Wikipedia article about it: (http://en.wikipedia.org/wiki/Rock-paper-scissors)\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 5% of your final grade\nstarter code:\n\nrps_1.py\nrps_2.py\ngame_history.py\nrps_anti_human.py\nrps_human_like.py",
+    "text": "CSC106: Project 2\n\ndue Monday 10/12/26 by 11:59 pm\nyou may use late token(s) for this assignment\nDemo schedule\n\nIn this project, you’ll implement several variants of a text-based Rock-Paper-Scissors game in which a human player plays against the computer. If you’re not familiar with the game, check out the Wikipedia article about it: (http://en.wikipedia.org/wiki/Rock-paper-scissors)\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 5% of your final grade\nstarter code:\n\nrps_1.py\nrps_2.py\ngame_history.py\nrps_anti_human.py\nrps_human_like.py",
     "crumbs": [
       "Assignments",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Project 2</span>"
@@ -314,12 +314,12 @@
   {
     "objectID": "04-Notes/week5.html",
     "href": "04-Notes/week5.html",
-    "title": "Week 4",
+    "title": "Week 5",
     "section": "",
     "text": "Wed 10/7\n\nContinuing with while loops!\nPF4 A6: cash register & sum of powers\nPF4 share-outs\n\nPF4 share-out schedule\nPF4 share-out slides\n\n\n\n\nThurs 10/8\n\nfinish PF4 share-outs\ntime to work on Project 2: Rock, Paper, Scissors\ndemo schedule TBD\n\n\n\nFri 10/9\n\nPF5: Definite Iteration (for loops)\n\nwill be on the midterm next week (Thurs 10/15)\n\n\n\n\nMon 10/12\n\nPF5 cont.\nProj 2 demos",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Week 4</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Week 5</span>"
     ]
   },
   {
