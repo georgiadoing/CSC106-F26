@@ -1,5 +1,5 @@
 ---
-title: CSC 106 Can Computers Think? Portfolio 5, Student Inititals - 
+title: CSC 106 Can Computers Think? Portfolio 6, Student Inititals - 
 eval: true
 format: 
     pdf:
@@ -24,15 +24,16 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Friday Oct. 16th by the end of class.**
+**Due Friday Oct. 23rd by the end of class.**
 
 
-# Portfolio 5: Definite Iteration (counting loops)
+# Portfolio 6: Strings and Lists
 
 
  To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapter** (worth 0.5 of a grade percentage point):
 
-* 7: More About Iteration
+* 8: Sequences
+* 9: Transforming Sequences
 
 Note that these activities are focused on this week's theme, but they are designed to utlize skills from all your previous portfolios as well. You should use your judgement to decide which tasks are best solved with which skills you have accumulated so far.
 

@@ -1,5 +1,5 @@
 ---
-title: CSC 106 Can Computers Think? Portfolio 5, Student Inititals - 
+title: CSC 106 Can Computers Think? Portfolio 7, Student Inititals - 
 eval: true
 format: 
     pdf:
@@ -24,15 +24,15 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Friday Oct. 16th by the end of class.**
+**Due Friday Oct. 29th by the end of class.**
 
 
-# Portfolio 5: Definite Iteration (counting loops)
+# Portfolio 7: Nested Data
 
 
  To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapter** (worth 0.5 of a grade percentage point):
 
-* 7: More About Iteration
+* 10: Nested Data and Nested Iteration
 
 Note that these activities are focused on this week's theme, but they are designed to utlize skills from all your previous portfolios as well. You should use your judgement to decide which tasks are best solved with which skills you have accumulated so far.
 
@@ -48,16 +48,17 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
 |----|------------------------------------------------ |----------|------------|--------------|-----------------------|
-| A1  | Written prompt                                 | 2   | F 10/9 | F 10/9 |  written  |
-| A2  |  Tracing loops                                | 3  | F 10/9    | F 10/9 |   written  |
-| A3  |  Debugging with memory diagrams              |  4  |  F 10/9   |  F 10/9  |   written   |
-| A4  |  Prog. with Pytthon (circles, n-gons)         |  5  | oyo     |  M 10/12  |   GS, print  |
-| A5  |  Math quiz                                   |  9  |  oyo   |   M 10/12  |   GS, print  |
-| A6  |  Written turtle                              | 11   | oyo   |  M 10/12  |    written  |
-| A7  |  Prog. with Turtle (star)                    | 12  | M 10/12 | M 10/12 |    GS, print  |
-| A8  |   Written questions                          | 13  | oyo    |  W 10/12     |   written   |
-| A9  |   Prog. with Pytthon (stairs)                 | 17  | oyo   |  W 10/14   |    GS, print   |
-| A10 |  Prog. with Pytthon (retirement)              | 19  |  oyo   |  W 10/14 |   GS, print   |
+| A1  | Written prompt                                 |     |     |       |          |
+| A6  |  Prog. with Pytthon (list micro)     |     |     |       |          |
+| A6  |  Prog. with Pytthon (minimum)         |     |     |       |          |
+| A2  |  Written (grid)                  |     |     |       |          |
+| A3  |   Prog. with Pytthon (dict scenarios)                                           |     |     |       |          |
+| A4  |                                                |     |     |       |          |
+| A5  |                                                |     |     |       |          |
+| A7  |                                                |     |     |       |          |
+| A8  |                                       |     |     |       |          |
+| A9  |  Written                                           |     |     |       |          |
+| A10 |  Prog. with Pytthon (list sums)              |     |     |       |          |
 | B1  | Share-out report                              |   21  | oyo |       |    written  |
 | B2  | Share-out report   (optional)                 | 22    | oyo |       |     written     |
 

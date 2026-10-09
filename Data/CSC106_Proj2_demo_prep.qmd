@@ -1,0 +1,238 @@
+---
+title: CSC 106 Can Computers Think?, Programming Project 2
+date: Oct 9, 2026
+eval: true
+format: 
+    pdf:
+        number-sections: false
+        shift-heading-level-by: 2
+        geometry:
+            - top=1in
+            - right=.8in
+            - bottom=1in
+            - left=.8in
+        mainfont: "Avenir"
+        sansfont: "Avenir"
+        code-line-numbers: truei
+        include-in-header: 
+            - ../preamble2.tex
+---
+
+NAME:  
+
+STUDENT ID:  
+
+Remember to also initial in the upper right-hand header of each page.
+
+#  Project 2: Rock Paper Scissors (Demo prep)
+
+
+
+# Rubric
+
+
+|                            | Meeting/exceeding expectations (full points)        | Arriving at expectations  (partial points)          | Not meeting Expectations    (Low or no points)     |   |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---|
+| Programs (2 pts)       | All programs are correct  (1 pt)   | All programs run, some programs are correct   (.5 pt)      | Program(s) don't run or fewer than half of programs are correct          |   |
+|                            |        |                   |                      |   |
+|                            | Programs are logical and organized  (.5 pt)     |  Programs are logical or organized (.3 pt)  | Programs are neither logical nor organized    |   |
+|                            |        |                   |                      |   |
+|                            | Clear headers and in-line comments  (.5 pt)  | Either clear headers or good in-line comments   (.3 pt)    | All comments are lacking clarity     |   |
+|                            |        |                   |                      |   |
+| Demo  (3 pts)|  Answers all questions thoroughly, clearly understands their program(s)   (1 pt)         |        Answers most questions thoroughly but required prompting    (.75 pt)    |  Can not explain all or part of the program(s)  |   |
+|                            |        |                   |                      |   |
+|                            | Responds to follow-up questions with accurate and clear answers  (1 pt)     |   Responds to follow-up questions but cannot carry out a conversation   (.75 pt)    |  Cannot  demonstrate understanding     
+|                            |        |                   |                      |   |
+|                | Student identified what their biggest challenge was and how they overcame it.  (1 pt) | Student identified areas for improvement but lacked specificity. (.75 pt)  | Reflection lacked consideration.|   |
+
+
+### Elaboration on terms
+
+*	Correctness: programs do what the problems require.
+*	Program logic: use variables and functionswhere appropriate
+*	Comments: there should be a header comment that includes the author’s name and describes the program’s purpose. Comments in the code should clarify how the program works.
+*	Organization: whitespace indicates the logical structure of the code, order elements properly.
+*	Understanding: program should be explainable.
+*	Reflection: idenitify the challenges of the porcess and how they were addressed.
+
+
+# Demonstration Instructions
+
+* confirm availability for  a 10 minute [time slot](https://docs.google.com/spreadsheets/d/1HUy04PmfcucV0SCsgFg1Bm_Pdyp2UKUbayFGiDeqv-s/edit?usp=sharing)
+* submit all your code to gradescope
+* bring printed versions of your code 
+* be prepared to run your porgrams on a lab machine, downloaded from gradescope
+* program & file list:
+
+1.	`rps_1.py`
+2. `rps_2.py`
+
+**and 2 of the following**
+
+3. `rps_cheating.py`
+4. `rps_anti_human.py`
+5. `rps_human_like.py`
+6. `rps_five.py`
+
+# Further prepare for the demo by answering the following questions
+
+ **Bring your written aswers with you as your only alowed notes, they will also be collected.**
+
+1. How did you fill in the body of your `rps` function?
+	* what coding constructs did you use to direct the program's flow of execution?
+	* what, if any, conditional statements did you use?
+	* how did you determine who won?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+2. In `rps_2.py`, when playing the game, do you expect the user or computer to win?
+	* which lines of your program make you believe your prediction?
+	* how could you demonstrate that your program works as intended to a user?
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+3. In the first variation you chose, when playing the game, do you expect the user or computer to win?
+	* what variation did you choose? why did it interest you?
+	* which lines of your program make you believe your prediction?
+	* how could you demonstrate that your program works as intended to a user?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+4. In the second variation you chose, when playing the game, do you expect the user or computer to win?
+	* what variation did you choose? why did it interest you?
+	* which lines of your program make you believe your prediction?
+	* how could you demonstrate that your program works as intended to a user?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+5. What was the most challenging part of the project?
+	* did you go through multiple iterations of trying to get a part to work?
+	* what hint would you give to someone else attempting this project?
+	* what would you do differently next time?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+
+

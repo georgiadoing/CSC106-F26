@@ -1,0 +1,119 @@
+---
+title: CSC 106 Can Computers Think?, Programming Project 1
+date: Oct, 8, 2026
+eval: true
+format: 
+    pdf:
+        number-sections: false
+        shift-heading-level-by: 2
+        geometry:
+            - top=1in
+            - right=.8in
+            - bottom=1in
+            - left=.8in
+        mainfont: "Avenir"
+        sansfont: "Avenir"
+        code-line-numbers: truei
+        include-in-header: 
+            - ../preamble2.tex
+---
+
+NAME:  
+
+
+# Project 2: Rock Paper Scissors  (Rubric)
+
+
+
+
+|                            | Meeting/exceeding expectations (full points)        | Arriving at expectations  (partial points)          | Not meeting Expectations    (Low or no points)     |   |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---|
+| Programs (2 pts)       | All programs are correct  (1 pt)   | All programs run, some programs are correct   (.5 pt)      | Program(s) don't run or fewer than half of programs are correct          |   |
+|                            |        |                   |                      |   |
+|                            | Programs are logical and organized  (.5 pt)     |  Programs are logical or organized (.3 pt)  | Programs are neither logical nor organized    |   |
+|                            |        |                   |                      |   |
+|                            | Clear headers and in-line comments  (.5 pt)  | Either clear headers or good in-line comments   (.3 pt)    | All comments are lacking clarity     |   |
+|                            |        |                   |                      |   |
+| Demo  (3 pts)|  Answers all questions thoroughly, clearly understands their program(s)   (1 pt)         |        Answers most questions thoroughly but required prompting    (.75 pt)    |  Can not explain all or part of the program(s)  |   |
+|                            |        |                   |                      |   |
+|                            | Responds to follow-up questions with accurate and clear answers  (1 pt)     |   Responds to follow-up questions but cannot carry out a conversation   (.75 pt)    |  Cannot  demonstrate understanding     
+|                            |        |                   |                      |   |
+|                | Student identified what their biggest challenge was and how they overcame it.  (1 pt) | Student identified areas for improvement but lacked specificity. (.75 pt)  | Reflection lacked consideration.|   |
+
+
+# Files
+
+
+1.  [	][	]	`rps_1.py`
+2.	[	][	]	`rps_2.py`
+3.	[	][	]	`rps_cheating.py`
+4.	 [	][	]	`rps_anti_human.py`
+5.	 [	][	]	`rps_human_like.py`
+6.	 [	][	]	`rps_five.py`
+
+{{< pagebreak >}}
+
+# Answers/notes
+
+1. How did you fill in the body of your `rps` function? *coding constructs? conditionals? winner?*
+
+
+2.  In `rps_2.py`, when playing the game, do you expect the user or computer to win? *which lines? demo?*
+
+3. In the first/second variation you chose, when playing the game, do you expect the user or computer to win? *which variation, why? which lines? demo?*
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+5. What was the most challenging part of the project? *multiple iterations? what would you do differently next time?*
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+
+
