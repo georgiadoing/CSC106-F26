@@ -49,14 +49,14 @@ This portfolio includes the following 10 activities and the report of your weekl
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
 |----|------------------------------------------------ |----------|------------|--------------|-----------------------|
 | A1  | Written prompt                                 |     |     |       |          |
-| A6  |  Prog. with Pytthon (list micro)     |     |     |       |          |
-| A6  |  Prog. with Pytthon (minimum)         |     |     |       |          |
-| A2  |  Written (grid)                  |     |     |       |          |
-| A3  |   Prog. with Pytthon (dict scenarios)                                           |     |     |       |          |
-| A4  |                                                |     |     |       |          |
-| A5  |                                                |     |     |       |          |
-| A7  |                                                |     |     |       |          |
-| A8  |                                       |     |     |       |          |
+| A6  |     Prog. with Pytthon (print_neg, any_greater)   |     |     |       |          |
+| A6  |           |     |     |       |          |
+| A2  |    Prog. with Pytthon (avg, sd, var, count)      |     |     |       |          |
+| A3  |   Prog. with Pytthon (word_len, word_count)     |     |     |       |          |
+| A4  |   Prog. with Pytthon (list micro)    |     |     |       |          |
+| A5  |  Prog. with Pytthon (minimum)    |     |     |       |          |
+| A7  |    Written (grid)                 |     |     |       |          |
+| A8  |     Prog. with Pytthon (dict scenarios)         |     |     |       |          |
 | A9  |  Written                                           |     |     |       |          |
 | A10 |  Prog. with Pytthon (list sums)              |     |     |       |          |
 | B1  | Share-out report                              |   21  | oyo |       |    written  |

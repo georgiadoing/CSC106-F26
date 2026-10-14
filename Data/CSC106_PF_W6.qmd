@@ -49,316 +49,104 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
 |----|------------------------------------------------ |----------|------------|--------------|-----------------------|
-| A1  | Written prompt                                 | 2   | F 10/9 | F 10/9 |  written  |
-| A2  |  Tracing loops                                | 3  | F 10/9    | F 10/9 |   written  |
-| A3  |  Debugging with memory diagrams              |  4  |  F 10/9   |  F 10/9  |   written   |
-| A4  |  Prog. with Pytthon (circles, n-gons)         |  5  | oyo     |  M 10/12  |   GS, print  |
-| A5  |  Math quiz                                   |  9  |  oyo   |   M 10/12  |   GS, print  |
-| A6  |  Written turtle                              | 11   | oyo   |  M 10/12  |    written  |
-| A7  |  Prog. with Turtle (star)                    | 12  | M 10/12 | M 10/12 |    GS, print  |
-| A8  |   Written questions                          | 13  | oyo    |  W 10/12     |   written   |
-| A9  |   Prog. with Pytthon (stairs)                 | 17  | oyo   |  W 10/14   |    GS, print   |
-| A10 |  Prog. with Pytthon (retirement)              | 19  |  oyo   |  W 10/14 |   GS, print   |
-| B1  | Share-out report                              |   21  | oyo |       |    written  |
-| B2  | Share-out report   (optional)                 | 22    | oyo |       |     written     |
+| A1  | Written prompt                                             |  F 10/16   |  F 10/16    |       |          |
+| A2  |    Dev. as Dec. Makers (reading)                 |  oyo   | M 10/19    |       |          |
+| A3  |    Dev. as Dec. Makers (report)                      |  M 10/19    |  W 10/21    |       |          |
+| A4  |     Dev. as Dec. Makers (reflection)                |   oyo  |     |       |          |
+| A5  |     Prog. with Pytthon (ascii , check_strings)   |   F 10/16 |   F 10/16  |       |          |
+| A6  |    Prog. with Pytthon (binary)                          |   Th 10/22  |  Th 10/22   |       |          |
+| A7  |    Prog. with Pytthon (Pig Latin)                      |  Th 10/22   |   Th 10/22  |       |          |
+| A8  |    Prog. with Pytthon (caesar en/decipher)     |     |     |       |          |
+| A9  |  Written                                                           |     |     |       |          |
+| A10 |  Prog. with Pytthon (caesar cipher)              |     |     |       |          |
+| B1  | Share-out report                                           |   21  | oyo |       |    written  |
+| B2  | Share-out report   (optional)                       | 22    | oyo |       |     written     |
 
 {{< pagebreak >}}
 
 
 
-# A1) Prompt: What are some differences in the types of tasks that can be solved by indefinite vs definite iteration? Can you provide examples? Does one class of problems seem harder to solve than the other?
+# A1) Prompt: 
 
 
 {{< pagebreak >}}
 
 
 
-# A2) Tracing loops with Memory Diagrams
+# A2) Developers as Decision Makers: background reading
 
-Consider the following snippet of Python code.
-```
-1.	x = int(input("Please enter a positive integer: "))
-2.	counter = x
-3.	for step in range(0,10):
-4.	    print(counter)
-5.	    counter += x
-```
-Note: `counter += 1` does the same thing as `counter = counter + 1`
+1. Read through the acticity description
+2. Each group member should read (at least) 1 of the following background readings to summarize for the group
+    * [Silicon Valley Triage Tool](https://georgiadoing.github.io/CSC106-F26/Data/Silicon_Valley_Triage_Tool.pdf)
+    * [Economic Roundtable on the Silicon Valley Triage Tool](https://georgiadoing.github.io/CSC106-SF6/Data/Economic_Roundtable_SiliconValleyTriageTool.pdf)
+    * [A healthcare algorithm started cutting care](https://georgiadoing.github.io/CSC106-F26/Data/A_healthcare_algorithm_started_cutting_care_TheVerge.pdf)
+    * [We created poverty](https://georgiadoing.github.io/CSC106-F26/Data/We_created_poverty_VirginiaEubanks_TheGuardian.pdf)
 
-1.	Draw a memory diagram after line 2 has been executed. What the user enters is up to you, but keep it in mind for the following questions.
+3. Who in your group is reading which? Circle what you will read.
 
-\vspace{8em}
+    ………………………………………………………………………………………………
 
-2.	Draw a memory diagram after line 5 has been executed the first time.
+    ………………………………………………………………………………………………
 
-\vspace{8em}
+    ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
 
-3.	Draw a memory diagram after line 5 has been executed the second time.
+    ………………………………………………………………………………………………
 
-\vspace{8em}
-
-4.	Draw a memory diagram at the very end of the program.
-
-\vspace{8em}
-
+    ………………………………………………………………………………………………
 
 
 {{< pagebreak >}}
 
 
-# A3) Debugging with Memory Diagrams
+# A3) Developers as Decision Makers: results
 
-The following program is supposed to add up numbers entered by the user, but doesn’t work correctly.
-```
-1.	steps = int(input("How many numbers do you want to add up? "))
-2.	total = 0
-3.	number = float(input("Please enter the next number to add: "))
-4.	for step in range(0, steps):
-5.	    total = total + number  
-6.	print("Total: ", total)
-```
+1. Make a group copy of the [Google Doc worksheet template](https://docs.google.com/document/d/1sUz_WuiO0ew0SSlC1hU7L0XYJEeF5ssuOyLST9CJNYY/edit?usp=sharing) and share it with all group members
+2. Edit your worksheet as you plan, implement, test and reflect upon your team's housing algorithm
+    + * [example housing lottery](https://georgiadoing.github.io/CSC106-F26/Data/housing_lottery.py)
+3. Do you expect your algorithm to produce different results than other groups in the class? Why or why not?
 
-1.	Draw a memory diagram after line 2 has been executed. Assume that the user wants to add 4 numbers together.
+    ………………………………………………………………………………………………
 
-\vspace{6em}
+    ………………………………………………………………………………………………
 
-2.	Draw a memory diagram after line 5 has been executed the first time.
+    ………………………………………………………………………………………………
 
-\vspace{6em}
+    ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
 
-3.	Draw a memory diagram after line 5 has been executed the second time.
+    ……………………………………………………………………………………………… 
 
-\vspace{6em}
+4. Record the results from the different groups (draw a grpah like the one we draw in class)
 
-4.	Describe what the problem is with the program and how to fix it.
 
 \vspace{8em}
 
+5. **Did**your algorithm to produce different results than other groups in the class? Did any algorithms from other groups stand out? Why or why not?
 
-5.	Copy the code into the code area of Python Tutor. 
+    ………………………………………………………………………………………………
 
-6.	Click Visualize Execution and use the Next button to step through each line of code. The memory diagram will appear on the right. Check if your answers match.
+    ………………………………………………………………………………………………
 
-7.	(Optional) Repeat steps 3 and 4 for the code on pages 2 and 3.
+    ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
+    ……………………………………………………………………………………………… 
 
 {{< pagebreak >}}
 
 
-# A4) Circles & N-gons
-
-1.	Write a program to draw the following pattern:
-
-
-![Turtle Squares](images/sqaures.png){ width=400px }
-
-* Be sure to use the appropriate coding constructs.
-* Note: the turtle doesn’t need to end where it does in the picture.
-* Can you write a function that takes the number of squares to draw as a parameter?
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-2.	Write a program to draw a circle without using the built-in `turtle.circle()` function.
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-
-
-
-
-
-3. Circles with Turtle
-
-a.	Write turtle code to create the following:
-
-![Turtle Circles 1](images/circles1.png){ width=400px }
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-b.	Alter that modify your code so that it makes something like this (notice the circles are now lined up through their center points):
-
-![Turtle Circles 2](images/circles2.png){ width=400px }
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-c.	Modify the code again to make something like this:
-
-![Turtle Circles 3](images/circles3.png){ width=200px }
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-4. Regular n-gons with turtle: Write a program using turtle that does the following:
-
-a.	Ask the user how many sides the shape should have
-b.	Ask the user how long each side should be
-c.	Uses turtle to draw a shape with the specified number of sides, each of the specified length
-
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-	**For feedback, insert you printed program(s) here.**
-
+# A4) Developers as Decision Makers: reflection
+
+1.	What was the most challenging part of the activity?
+	* did you go through multiple iterations of trying to get a part to work?
+	* what hint would you give to someone else attempting this activity?
+	* what would you do differently next time?
 
 
 
