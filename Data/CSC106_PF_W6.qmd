@@ -78,7 +78,7 @@ This portfolio includes the following 10 activities and the report of your weekl
 1. Read through the acticity description
 2. Each group member should read (at least) 1 of the following background readings to summarize for the group
     * [Silicon Valley Triage Tool](https://georgiadoing.github.io/CSC106-F26/Data/Silicon_Valley_Triage_Tool.pdf)
-    * [Economic Roundtable on the Silicon Valley Triage Tool](https://georgiadoing.github.io/CSC106-SF6/Data/Economic_Roundtable_SiliconValleyTriageTool.pdf)
+    * [Economic Roundtable on the Silicon Valley Triage Tool](https://georgiadoing.github.io/CSC106-F26/Data/Economic_Roundtable_SiliconValleyTriageTool.pdf)
     * [A healthcare algorithm started cutting care](https://georgiadoing.github.io/CSC106-F26/Data/A_healthcare_algorithm_started_cutting_care_TheVerge.pdf)
     * [We created poverty](https://georgiadoing.github.io/CSC106-F26/Data/We_created_poverty_VirginiaEubanks_TheGuardian.pdf)
 
