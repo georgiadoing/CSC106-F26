@@ -20,7 +20,7 @@ format:
 
 NAME:  
 
-# Project 3: Wordle (10 pts) 	
+# Project 3: Wordle (5 pts) 	
 
 In this project, you’ll implement variants of a text-based Wordle game. If you’re not familiar with the game, check out the Wikipedia article about it:
 (<https://en.wikipedia.org/wiki/Wordle>).
@@ -37,7 +37,7 @@ In the past few years Wordle has become a popular game (<https://www.nytimes.com
 
 
 
-# 1. Base Wordle (3 pts)
+# 1. Base Wordle 
 
 Create a simplified Wordle game using only Python lists.
 
@@ -75,12 +75,12 @@ Enter your guess:
 
 If the user guesses correctly, display: `“You got it!”`
 
-# 2. Random Wordle (3 pts)
+# 2. Random Wordle 
 
 * Start a new python file named `random_wordle.py` and copy in your previous code
 * Update your code so that the word is chosen randomly from the list
 
-# 3. Learning Wordle (4 pts)
+# 3. Learning Wordle 
 
 * Start a new python file names `learning_wordle.py` and copy your previous code
 * Now make it so that every time a user enters a word, the word gets added to your `word_list`
@@ -131,3 +131,6 @@ Once you have checked these things, submit your files to *cat3_Project 3: Wordle
     +	followed by function definitions…
     +	then followed by the rest of the code.
 
+# 7. Demonstration Instructions
+
+* TBD

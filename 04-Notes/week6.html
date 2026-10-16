@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="../04-Notes/week5.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-bab1cb063bcfe22a7bb2bd1ce24d65cd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f59f578aac83223b69f47cfbacfca593.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -99,7 +100,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Course: CSC106 Can Computers Think?</a> 
         <div class="sidebar-tools-main">
@@ -183,6 +186,16 @@ ul.task-list li input[type="checkbox"] {
   <a href="../03-Assignments/csc106_hw05.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">PF 05</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-Assignments/csc106_hw06.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">PF 06</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-Assignments/csc106_proj3.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Project 3</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -253,6 +266,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#thurs-1015" id="toc-thurs-1015" class="nav-link" data-scroll-target="#thurs-1015">Thurs 10/15</a></li>
   <li><a href="#fri-1016" id="toc-fri-1016" class="nav-link" data-scroll-target="#fri-1016">Fri 10/16</a></li>
   <li><a href="#mon-1019" id="toc-mon-1019" class="nav-link" data-scroll-target="#mon-1019">Mon 10/19</a></li>
+  <li><a href="#starter-code-for-rest-of-pf6" id="toc-starter-code-for-rest-of-pf6" class="nav-link" data-scroll-target="#starter-code-for-rest-of-pf6">Starter Code (for rest of PF6)</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/georgiadoing/CSC106-F26/edit/main/04-Notes/week6.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/georgiadoing/CSC106-F26/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
 </nav>
@@ -297,14 +311,31 @@ ul.task-list li input[type="checkbox"] {
 <li>finish PF5 share-outs, if needed</li>
 <li>PF6
 <ul>
-<li>share-out sched: TBD</li>
+<li><a href="https://docs.google.com/spreadsheets/d/1if4T-7RvGg80ePIhqqo5-BTC5YOaNcc7RUPA_yADGtw/edit?usp=sharing">PF6 share-out sched</a></li>
+<li><a href="https://docs.google.com/presentation/d/1O9tdUSybN92YnVfuWJKSv9qtcTKKuaK63uX3HVE1ckk/edit?usp=sharing">PF6 slides</a></li>
+</ul></li>
+<li>Prepare for Mon: Each group member should read (at least) 1 of the following background readings to summarize for the group
+<ul>
+<li><a href="https://georgiadoing.github.io/CSC106-S26/Data/Silicon_Valley_Triage_Tool.pdf">Silicon Valley Triage Tool</a></li>
+<li><a href="https://georgiadoing.github.io/CSC106-S26/Data/Economic_Roundtable_SiliconValleyTriageTool.pdf">Economic Roundtable on the Silicon Valley Triage Tool</a></li>
+<li><a href="https://georgiadoing.github.io/CSC106-S26/Data/A_healthcare_algorithm_started_cutting_care_TheVerge.pdf">A healthcare algorithm started cutting care</a></li>
+<li><a href="https://georgiadoing.github.io/CSC106-S26/Data/We_created_poverty_VirginiaEubanks_TheGuardian.pdf">We created poverty</a></li>
 </ul></li>
 </ul>
 </section>
 <section id="mon-1019" class="level3">
 <h3 class="anchored" data-anchor-id="mon-1019">Mon 10/19</h3>
 <ul>
-<li>PF6: Developers as Decision Makers Workshop</li>
+<li>PF6: <a href="https://georgiadoing.github.io/CSC106-S26/Data/Developers_as_Decision-Makers.pdf">Developers as Decision Makers Worksop</a></li>
+<li>Make a group copy of the <a href="https://docs.google.com/document/d/1sUz_WuiO0ew0SSlC1hU7L0XYJEeF5ssuOyLST9CJNYY/edit?usp=sharing">Google Doc worksheet template</a> and share it with all group members</li>
+<li><a href="https://georgiadoing.github.io/CSC106-S26/Data/housing_lottery.py">example housing lottery</a></li>
+</ul>
+</section>
+<section id="starter-code-for-rest-of-pf6" class="level3">
+<h3 class="anchored" data-anchor-id="starter-code-for-rest-of-pf6">Starter Code (for rest of PF6)</h3>
+<ul>
+<li><a href="../Data/caesar.py">caesar.py</a></li>
+<li><a href="../Data/letter_probabilities.py">letter_probabilities.py</a></li>
 </ul>
 
 
@@ -362,13 +393,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

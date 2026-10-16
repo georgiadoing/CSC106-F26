@@ -27,17 +27,17 @@ Remember to also initial in the upper right-hand header of each page.
 **Due Friday Oct. 23rd by the end of class.**
 
 
-# Portfolio 6: Strings and Lists
+# Portfolio 6: Strings
 
 
- To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapter** (worth 0.5 of a grade percentage point):
+ To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapter(s)** (worth 0.5 of a grade percentage point):
 
 * 8: Sequences
-* 9: Transforming Sequences
+* 9: Transforming Sequences (to prepare for PF 7)
 
 Note that these activities are focused on this week's theme, but they are designed to utlize skills from all your previous portfolios as well. You should use your judgement to decide which tasks are best solved with which skills you have accumulated so far.
 
-*For completing and self-correcting 70% of the below activities, you will earn 1 grade percentage point*. Additionally, for participating in a *share-out of 1 of the activities, you will earn 0.5 of a grade percentage point*.
+*For completing and correcting 70% of the (A) activities, you will earn 1 grade percentage point*. For participating in a *share-out of 1 of the activities, you will earn 0.5 of a grade percentage point*.
 
 Note that some activities we will plan to start in class and others you need to start on your own. You should finish each activity before its in-class share-out in order to correct it before final submission.
 
@@ -48,25 +48,25 @@ Note that some activities we will plan to start in class and others you need to 
 This portfolio includes the following 10 activities and the report of your weekly share-out:
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
-|----|------------------------------------------------ |----------|------------|--------------|-----------------------|
-| A1  | Written prompt                                             |  F 10/16   |  F 10/16    |       |          |
-| A2  |    Dev. as Dec. Makers (reading)                 |  oyo   | M 10/19    |       |          |
-| A3  |    Dev. as Dec. Makers (report)                      |  M 10/19    |  W 10/21    |       |          |
-| A4  |     Dev. as Dec. Makers (reflection)                |   oyo  |     |       |          |
-| A5  |     Prog. with Pytthon (ascii , check_strings)   |   F 10/16 |   F 10/16  |       |          |
-| A6  |    Prog. with Pytthon (binary)                          |   Th 10/22  |  Th 10/22   |       |          |
-| A7  |    Prog. with Pytthon (Pig Latin)                      |  Th 10/22   |   Th 10/22  |       |          |
-| A8  |    Prog. with Pytthon (caesar en/decipher)     |     |     |       |          |
-| A9  |  Written                                                           |     |     |       |          |
-| A10 |  Prog. with Pytthon (caesar cipher)              |     |     |       |          |
-| B1  | Share-out report                                           |   21  | oyo |       |    written  |
-| B2  | Share-out report   (optional)                       | 22    | oyo |       |     written     |
+|----|-------------------------------------------- |----------|--------------|----------------|-------------------|
+| A1  | Written prompt                               | 2|  F 10/16   |  F 10/16    |   written    |          |
+| A2  |    Dev. as Dec. Makers (reading)            |  3 |  oyo   | M 10/19    |  written     |          |
+| A3  |    Dev. as Dec. Makers (report)              | 4|  M 10/19    |  M 10/19     |   written, gdoc    |          |
+| A4  |     Dev. as Dec. Makers (reflection)         |  5 |   oyo  |  W 10/21   |   written    |          |
+| A5  |     Prog. with Pytthon (ascii strings)   | 7  | W 10/21 |   W 10/216  |   GS, print    |          |
+| A6  |    Prog. with Pytthon (binary)           | 8  |    oyo    |   Th 10/22  | GS, print   |       |          |
+| A7  |    Prog. with Pytthon (Pig Latin)                | 9 |  oyo   |   Th 10/22  |   GS, print    |          |
+| A8  |    Prog. with Pytthon (caesar cipher)    | 10 |  Th 10/22  |   F 10/23  |   GS, print    |          |
+| A9  |  Written  Questions       | 11   |   oyo   |  F 10/23   |   written  |       |          |
+| A10 |  Prog. with Pytthon (breakcode)       |   13    |  oyo   |  F 10/23   |  GS, print     |          |
+| B1  | Share-out report                       |  15 | oyo |    written   |    written  |
+| B2  | Share-out report   (optional)          |  16   | oyo |   written    |     written     |
 
 {{< pagebreak >}}
 
 
 
-# A1) Prompt: 
+# A1) Prompt: Is using an algorithm or human judgement more "fair" (unbiased) when awarding assets such as preferred student housing? 
 
 
 {{< pagebreak >}}
@@ -83,6 +83,42 @@ This portfolio includes the following 10 activities and the report of your weekl
     * [We created poverty](https://georgiadoing.github.io/CSC106-F26/Data/We_created_poverty_VirginiaEubanks_TheGuardian.pdf)
 
 3. Who in your group is reading which? Circle what you will read.
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+4. What stood out to you in your reading? What do you want to share with your group about it?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -119,12 +155,16 @@ This portfolio includes the following 10 activities and the report of your weekl
 
     ……………………………………………………………………………………………… 
 
-4. Record the results from the different groups (draw a grpah like the one we draw in class)
+4. Record the results from the different groups (draw a plot/graph, record numbers, state results)
 
 
 \vspace{8em}
 
-5. **Did**your algorithm to produce different results than other groups in the class? Did any algorithms from other groups stand out? Why or why not?
+{{< pagebreak >}}
+
+# A4) Developers as Decision Makers: reflection
+
+ 1. Did your algorithm to produce different results than other groups in the class? 
 
     ………………………………………………………………………………………………
 
@@ -138,52 +178,122 @@ This portfolio includes the following 10 activities and the report of your weekl
 
     ……………………………………………………………………………………………… 
 
+    ………………………………………………………………………………………………
+
+
+
+2. Did any algorithms from other groups stand out? Why or why not?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+3. Did any algorithms seem "fair"? Which one seemed most fair? Why or why not?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 {{< pagebreak >}}
 
 
-# A4) Developers as Decision Makers: reflection
+# A5) ASCII and Characters
 
-1.	What was the most challenging part of the activity?
-	* did you go through multiple iterations of trying to get a part to work?
-	* what hint would you give to someone else attempting this activity?
-	* what would you do differently next time?
+### Learning goals / relevent topics
 
+1. ASCII encoding of strings (<https://www.asciitable.com/>)
+
+Write a function that takes a single character and converts it into the corresponding ASCII value. For example, if we have “monkey” and call the function on each character, we should get the following ASCII values in order: `109, 111, 110, 107, 101, 121`
+
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+2. Checking strings for non-alphabetic characters 
+
+Write a function `contains_non_alpha` that takes a string and checks whether it contains any non-alphabetic characters. You can (and in fact should) use the built-in functions `ord` and `chr`.
+
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did your program(s) produce error messages? Did it/they work, semantically? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+* Were you able to solve this task(s)? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+**Give your programs meaningful names (ending in `.py`) and submit to Gradescope.**
+**For feedback, insert you printed program(s) here.**
 
 
 {{< pagebreak >}}
 
 
-# A5) Math facts quiz
+# A6) Decoding binary patterns	
 
-4. Write a function `math_quiz` that helps elementary students practice their math facts. 
+* Binary to Decimal numbers (<https://www.cuemath.com/numbers/binary-to-decimal/>)
 
--	Ask the user to input two numbers
--	Ask the user which number is greater
--	If the user’s answer is right, print : 
-
-`“Correct!”`
-
--	If the user’s answer is wrong, print: 
-
-`“Incorrect, the correct answer is <the correct value>!” `
-
-5. In english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-6. (Optional) Add the functionality to randomly generate the two numbers instead of user input. Present the numbers to the user, and then wait for the user to input a result. 
+Write a function `decode_binary` that takes a string of `0`s and `1`s representing a binary number and returns the integer value of that binary number. For example, given the string `“110”` the function should return the integer `6`. Given `"00101001"`, it should return the integer `41`. Do not use the built-in function `int`.
 
 * In english (not code), what is your algorithm for your solution?
 
@@ -201,11 +311,22 @@ This portfolio includes the following 10 activities and the report of your weekl
 
     ………………………………………………………………………………………………
 
-7. (Optional) If the user’s result is correct, the function should print out a message indicating as much. Otherwise, it should say that the answer was incorrect and show the right answer.
-
-* In english (not code), what is your algorithm for your solution?
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
+
+* Did your program produce error messages? Did it work, semantically? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+* Were you able to solve this task? If not, can you think of anything else to try?
 
     ………………………………………………………………………………………………
 
@@ -221,376 +342,17 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 **Give your programs meaningful names (ending in `.py`) and submit to Gradescope.**
 
-
-8. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-9. Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
 **For feedback, insert you printed program(s) here.**
 
 {{< pagebreak >}}
 
 
-# A6) Written Turtle
+# A7)  Pig Latin
 
-1. Consider the following Python program:
-    a. ```
-        import turtle
+Pig Latin is a language game in which English words are altered to make them hard to understand by people not familiar with the rules. Write a function that takes an English word, translates that word into Pig Latin and **returns** the result. It should follow the below rules:
 
-        for size in range(10, 60):
-            for side_count in range(0, 4):
-                turtle.forward(size)
-                turtle.left(90)
-        ```
-
-    b. Draw what shape the turtle draws when the inner loop is run once. Your sketch does not have to be to scale (any size is ok).
-
-    \vspace{6em}
-
-    c. Sketch what shape the turtle draws when the whole program is executed.
-
-    \vspace{8em}
-
-
-    d. Explain your answer to (b). How do the outer loop and the inner loop work together to produce the picture you sketched?
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-        
-
-2. How can we translate this code into a while loop?
-```
-1)	for i in range(n):
-2)	     <body>
-```
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-
-{{< pagebreak >}}
-
-# A7) Turtle Star
-
-1. Write a program using the turtle module to draw the following picture. 
-
-![Turtle Star](images/turtle_9_star.png){ width=250px }
-
-* Before writing any code, in english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-	**For feedback, insert you printed program(s) here.**
-
-
-
-
-{{< pagebreak >}}
-
-# A8) Written Questions
-
-### 1. Consider the following (incomplete) Python program:
-
-```
-x = int(input("Please input a positive integer: "))
-counter = x
-for step in range(0, 10):
-```
-
-
-Complete the missing lines of code above so that the program will produce the following output if the user inputs 3.
-
-```
-3
-6
-9
-12
-15
-18
-21
-24
-27
-30
-```
-
-* **Notes**: You do not need to introduce any additional variables. There is more than one way to achieve this result.
-
-
-### 2. Consider the following (incomplete) Python program to list the first few Fibonacci numbers:
-
-The Fibonacci numbers are the following sequence of numbers:
-
-
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, …
-
-
-* The first two numbers are 0 and 1. 
-
-* After that, each number can be calculated by adding the previous two together. For example: 
-    + the third number is 1 (0+1)
-    + the fourth number is 2 (1+1)
-    + the fifth number is 3 (2+1), etc.
-
-They are named Fibonacci numbers after the Italian mathematician who first described them in Europe. Patterns based on the Fibonacci sequence show up in surprisingly many contexts in math, biology, and art.
-(See the Wikipedia entry if you want to know more.)
-
-Below is the (incomplete) Python program to list the first few Fibonacci numbers. 
-
-The user gets to determine how many Fibonacci numbers to list.
-
-```
-1.	print (“How many Fibonacci numbers would you like to see?”)
-2.	limit = int (input(“Please input a number greater than 2: ”))
-3.	
-4.	fib_0 = 0
-5.	fib_1 = 1
-6.	
-7.	print(fib_0)
-8.	print(fib_1)
-9.	for count in range(        ):
-10.	   next_fib = 
-11.	   print(next_fib)
-```
-
-* For questions a-d, assume that the program has been completed and functions correctly.
-
-2.a. Draw a memory diagram that shows the<variable name>-<value/object> associations after line 5 has been executed. Assume that the user inputted 10. Also show what will have been printed to the screen at that point.
-
-\vspace{6em}
-
-
-2.b. Draw a memory diagram that shows the <variable name>-<value/object> associations that should exist after line 11 has been executed for the first time. Also show what line 11 will print to the screen when it is executed for the first time.
-
-\vspace{6em}
-
-
-
-
-
-2.c. What should the <variable name>-<value/object> associations be when line 11 has been executed for the second time? Draw a memory diagram.
-
-\vspace{6em}
-
-
-2.d. Draw a memory diagram that shows the <variable name>-<value/object> associations after the last number has been printed (i.e. at the end of the program).
-
-\vspace{6em}
-
-2.e. Complete the code above so that the program prints the first n Fibonacci numbers, where n is determined by the user. You may need to add new lines of code.
-
-
-
-### 3. Consider two Python programs:
-
-* Both programs on the next page will help Reeborg harvest the carrots in the Harvest 1 world:
-
-::: {layout-ncol=2}
-```
-# Program 1
-
-1  def turn_right():
-2 	turn_left()
-3 	turn_left()
-4 	turn_left()
-5 
-6  def a():
-7 	move()
-8	turn_left()
-9	move()
-10	move()
-11	turn_right()
-12	move()
-13
-14 def b():
-15	for carrot in range(0, 6):
-16		take()
-17		move()
-18
-19 def c():
-20	turn_left()
-21	move()
-22	turn_left()
-23	move()
-24
-25 def d():
-26	turn_right()
-27	move()
-28	turn_right()
-29	move()
-30
-31 a()
-32 for double_row in range(0, 3):
-33	b()
-34	c()
-35	b()
-36	d()
-```
-
-```
-# Program 2
-
-1  def turn_right():
-2	turn_left()
-3	turn_left()
-4	turn_left()
-5
-6  def e():
-7	move()
-8	turn_left()
-9	move()
-10	move()
-11	turn_right()
-12	move()
-13	take()
-14
-15 def f():
-16	for carrot in range(0, 5):
-17		move()
-18		take()
-19
-20 def g():
-21	f()
-22	turn_left()
-23	move()
-24	turn_left()
-25	take()
-26
-27 def h():
-28	f()
-29	turn_right()
-30	move()
-31	turn_right()
-32	take()
-33
-34 e()
-35 for double_row in range(0, 2):
-36	g()
-37	h()
-38 g()
-39 f() 
-```
-
-:::
-
-
-
-
-![Reeborg Carrots](images/carrots.png){ width=275px }
-
-
-
-
-* Both programs define a number of functions. Unfortunately, the program designers were from the bad old days when names needed to be as short as possible, so their function names are essentially meaningless. Come up with better names for each of the functions that they defined.
-
-a.	………………………………………………………………………………………………
-b.	………………………………………………………………………………………………
-c.	………………………………………………………………………………………………
-d.	………………………………………………………………………………………………
-e.	………………………………………………………………………………………………
-f.	………………………………………………………………………………………………
-g.	………………………………………………………………………………………………
-h.	………………………………………………………………………………………………
-
-
-
-3.i **After** you’ve come up with better names for the functions, which of the solutions do you think is better and why?
-
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-
-
-{{< pagebreak >}}
-
-# A9) Turtle Stairs
-
-1.	Create a file called square_chain.py for your code.
-2.	Write a Python program using turtle to draw something that draws a diagonal chain of 10 squares:
-
-
-![Turtle Stairs](images/stairs.png){ width=250px }
-
-There are many different ways (algorithms) that you can draw this pattern. Some may (or may not) leave the turtle in the same position and orientation that you see here. It does not matter if the turtle has the same position and orientation as what you see here.
-
-3.	Add comments to explain how your program works.
-    + Header comment with Name, Email, Date, Assignment, Description
-    + In-line comments describing the algorithm guiding your program
-    + Docstrings for any functions, if you define new functions
+* If a word begins with a vowel, append “way” to the end of the word (e.g. `ear -> earway`)
+* If a word begins with a consonant, remove all consonants from the beginning up to the first vowel and append them to the end of the word. Then append “ay” to the end of the word. (`pig -> igpay`, `star -> arstay`, `street -> eetstray`)
 
 * In english (not code), what is your algorithm for your solution?
 
@@ -608,16 +370,7 @@ There are many different ways (algorithms) that you can draw this pattern. Some 
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-* Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
+* Did your program produce error messages? Did it work, semantically? How might you revise your algorithm and/or program?
 
     ………………………………………………………………………………………………
 
@@ -628,15 +381,6 @@ There are many different ways (algorithms) that you can draw this pattern. Some 
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
 * Were you able to solve this task? If not, can you think of anything else to try?
 
     ………………………………………………………………………………………………
@@ -651,75 +395,46 @@ There are many different ways (algorithms) that you can draw this pattern. Some 
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
+**Give your programs meaningful names (ending in `.py`) and submit to Gradescope.**
 
-    ………………………………………………………………………………………………
-
-	**For feedback, insert you printed program(s) here.**
-
+**For feedback, insert you printed program(s) here.**
 {{< pagebreak >}}
 
+# A8) Caesar Cipher
+
+1. Caesar Cipher Encoding
+
+A Caesar cipher (or shift cipher) encrypts text by “shifting” each letter a given number of positions in the alphabet. For example, if the number is `3`, then an `a` would become a `d`, `b` would become `e` and so on. At the end of the alphabet, we “loop back” to the beginning, so a `z` would become a `c`.
+
+For example, if we encode the  message "Caesar Ciphers are cool" with a shift of `7`, it becomes:
+
+`Jhlzhy Jpwolyz hyl jvvs.`
+
+If we encode that same message with a shift of `1`, it becomes:
+
+`Dbftbs Djqifst bsf dppm.`
 
 
-# A10)  Retirement Calculator
+* Download the starter file `caesar.py` from the course website.
 
-It’s never too early to start saving for retirement. For this assignment you’re going to write a simple retirement calculator.
+* Write a function called `encipher` that takes a string representing an unencoded message and a number indicating by how many positions each letter should be shifted. The function should return a new string which represents the corresponding Caesar Cipher encoding. 
 
-
-* A run of the program may look like the following (user input in bold):
+For this problem, you should assume that upper-case letters are encoded as upper-case letters, and all non-alphabetic characters are left unchanged. Some examples:
 
 ```
-How much do you plan to save each month? (in dollars) **100**
-How old are you? (in years) **20**
-At what age do you plan to retire? (in years) **40**
-What yearly rate of return do you expect? (in percentage points) **5**
-Your savings at age 21 are: $ 1200
-Your savings at age 22 are: $ 2460
-Your savings at age 23 are: $ 3783
-Your savings at age 24 are: $ 5172
-Your savings at age 25 are: $ 6630
-Your savings at age 26 are: $ 8162
-Your savings at age 27 are: $ 9770
-Your savings at age 28 are: $ 11458
-Your savings at age 29 are: $ 13231
-Your savings at age 30 are: $ 15093
-Your savings at age 31 are: $ 17048
-Your savings at age 32 are: $ 19100
-Your savings at age 33 are: $ 21255
-Your savings at age 34 are: $ 23518
-Your savings at age 35 are: $ 25894
-Your savings at age 36 are: $ 28388
-Your savings at age 37 are: $ 31008
-Your savings at age 38 are: $ 33758
-Your savings at age 39 are: $ 36646
-Your savings at age 40 are: $ 39679
+>>> encipher('xyza', 1)
+'yzab'
+>>> encipher('Z A', 1)
+'A B'
+>>> encipher("*ab?", 1)
+'*bc?'
+>>> encipher("This is a string!", 2)
+'Vjku ku c uvtkpi!'
+>>> encipher("Caesar cipher? I prefer Caesar salad.", 25)
+'Bzdrzq bhogdq? H oqdedq Bzdrzq rzkzc.'
 ```
 
-
-
-1. Start by creating a file called retirement.py for your code.
-
-2. Next, start writing code to get input from the user and store the information in variables.
-
-* The program should start by asking the user for the following information:
-    + The amount they plan to save each month
-    + Their starting age
-    + Their planned retirement age
-    + The yearly rate of return they expect (i.e. growth through interest or dividends).
-
-3. Now design an algorithm to compute the amount that accumulates each year. Write out the algorithm in a human language (e.g. English) before writing it in code. Include this as your description in your header comment.
-
-* The program should show how the user’s savings grow over the course of their careers. For example, if a 20 year-old starts saving $100 a month, retires at 40, and gets a 5% rate or return, then they should have about $39,679 by the time they retire.
-
-* To simplify things, we assume that interest is added once per year before the user has contributed any of their monthly savings.  
-    + This means that, for the first year, the rate of return is zero, so they only get what they saved over the course of the year (i.e. $1200). 
-    + For subsequent years, calculate the interest gained, then add the yearly contribution. So for year 2:
-        * the interest will be $1200 × 5% = $60
-        * the savings at the end of year will be $1200 + $60 + $1200= $2460.
-
-4. Implement the program in Python
-5. Test the program with different values to ensure that it works correctly.
-6. If you haven’t already, add comments explaining how the program works.
+Feel free to add additional helper functions if you find it useful to do so.
 
 * In english (not code), what is your algorithm for your solution?
 
@@ -738,7 +453,22 @@ Your savings at age 40 are: $ 39679
     ………………………………………………………………………………………………
 
 
-    * Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
+2. Caesar Cipher Decoding: 
+
+* Write a function called `decipher` that takes a message encrypted with a Caesar Cipher and decodes it. The function should take two parameters - the encoded message and a number indicating by how many positions each character was shifted - and it should return the decoded message. For example:
+
+```
+>>> decipher('Bzdrzq bhogdq? H oqdedq Bzdrzq rzkzc.', 25)
+'Caesar cipher? I prefer Caesar salad.'
+```
+
+Don’t start a new file for this. Add your new function to the code that you already have in `caesar.py`.
+
+Hint: the built-in functions `ord`, `chr`, and `isalpha` may be helpful for this assignment.
+
+
+
+* In english (not code), what is your algorithm for your solution?
 
     ………………………………………………………………………………………………
 
@@ -750,6 +480,216 @@ Your savings at age 40 are: $ 39679
 
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+* Did your program produce error messages? Did it work, semantically? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+**Give your programs meaningful names (ending in `.py`) and submit to Gradescope.**
+
+**For feedback, insert you printed program(s) here.**
+
+{{< pagebreak >}}
+
+# A9) Written Questions
+
+1.	Convert the following numbers in binary representation to decimal representation and vice versa.
+
+`1011`      ............................................... `34`    .............................................
+
+`11010`     ............................................. `16`    .............................................
+
+`01001`    ............................................. `354`   .............................................
+
+
+
+2.	Translate the following binary addition problems into decimal representation. (Note the number of underscores is for spacing, it does not indicate the length of the answer.)
+
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
+| binary      | decimal    | binary    | decimal    | binary    | decimal    |
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
+|  ` 110`     |            | ` 0110`   |            | `110`     |            |
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
+|             |`_______`   |           |`_______`   |           |`_______`   |
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
+|             |            |           |            |           |            |
+| `+ 1`       |`+______`   |`+100`     |`+______`   |`+10`      |`+______`   |
+|             |            |           |            |           |            |
+|  `111  `    |            |`1010`     |            |`1000`     |            |
++-------------+------------+-----------+------------+-----------+------------+
+
+3.	Solve the following binary addition problems. That is, give answers (in binary). (Note the number of underscores is for spacing, it does not indicate the length of the answer.)
+
+
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
+|  `101 `     |   `101`    | `0101`    |  `0101`    | `0100`    |`010110001` |
+|             |            |           |            |           |            |
+| `+10`       |`+01`       |`+101`     |`+011`      |`+111`     |`+11000111` |
+|             |            |           |            |           |            |
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
++-------------+------------+-----------+------------+-----------+------------+
+|             |            |           |            |           |            |
+|  `_____`    |  `_____`   | `_____`   |  `_____`   |`_____`    |`_________` |
++-------------+------------+-----------+------------+-----------+------------+
+
+
+
+
+4.	A strategy often used when teaching addition in elementary school involves “carrying” the 10 when adding decimal numbers. For example, applying this strategy to 387 + 595 would look as follows:
+```
+ 11
+ 387
++595
+ 982
+ ```
+Describe a similar strategy for adding binary numbers (i.e. give rules to determine which bits should be 1 and which should be 0 to represent the result). (Don't convert the binary numbers to decimal numbers). 
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+5. Consider the following function definition when answering the questions below:
+
+```
+def not_a_good_function_name(aString):
+	not_a_good_variable_name = ""
+	for item in aString:
+		not_a_good_variable_name+= item*2
+	return not_a_good_variable_name
+```
+
+
+5.1	What will get printed to the screen when the function given above is called as follows:
+`print(not_a_good_function_name("6a7b2c"))`
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+5.2	In general words, what seems to be the purpose of this function?
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+5.3	Suggest better names for the less than fantastic function and variable names used in this definition.
+
+`not_a_good_function_name`  ……………………………………………………………………
+
+`not_a_good_variable_name`  ……………………………………………………………………
+
+
+
+{{< pagebreak >}}
+
+# A10) Caesar Cipher Code Breaking
+
+**If you haven’t completed Ceasar Cipher Encoding/Decoding (A8) (aside from the optional parts), you’ll need to do that first.**
+
+You will be submitting the following files:  
+
+- caesar.py
+
+
+A Caesar cipher (or shift cipher) encrypts text by “shifting” each letter a given number of positions in the alphabet. For example, if the number is 3, then `a` would become `d`, `b` would become `e` and so on. At the end of the alphabet, we “loop back” to the beginning, so `z` would become a `c`.
+
+For example, if we encode the  message "Caesar Ciphers are cool" with a shift of `7`, it becomes:
+```
+Jhlzhy Jpwolyz hyl jvvs.
+```
+If we encode that same message with a shift of `1`, it becomes:
+```
+Dbftbs Djqifst bsf dppm.
+```
+
+
+
+In this section, you will add onto the program you wrote for the previous parts of the assignment. You should have written the functions encipher and decipher, which encode and decode a given string by shifting all letters by a given number of positions in the alphabet.
+
+1.	Open the file `caesar.py` which contains your solutions to the last assignment. Add all of your new code to this file.
+Your task is to write a function called `break_code` that decodes an encrypted message without knowing by how much the letters were shifted.
+
+
+To do this your function will have to create all possible decodings, compare them and only keep the best one around, which gets returned in the end. For example:
+```
+>>> break_code(’Bzdrzq bhogdq? H oqdedq Bzdrzq rzkzc.’)
+’Caesar cipher? I prefer Caesar salad.’
+```
+
+2.	One strategy for determining which decoding is the best is to determine the probability of each candidate decoding by multiplying the letter probabilities for each letter in the decoding and to then choose the candidate decoding with the highest probability. But you are free to use a different strategy if you want to. Be sure to add a good comment to your decoding function explaining what strategy you used.
+
+If you want to use the strategy based on letter probabilities, you can download a file called `letter_probabilities.py`. It provides a function that takes a letter and returns the probability of that letter in English text. Note that the implementation of that function uses dictionaries, which we have not yet discussed in class. However, you do not need to understand how this function is implemented in order to use it. All you need to know is that it is a function called `letter_prob` which takes one parameter (a character) and returns a probability. If the given character is a character from the English language, the function returns the probability of that letter. For all other characters it just returns `1`. To be able to use the function in your program, save the file `letter_probabilities.py` in the same folder as your file `caesar.py` and import it: `from letter_probabilities import letter_prob`
+
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did your program produce error messages? Did it work, semantically? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 * Were you able to solve this task? If not, can you think of anything else to try?
 
     ………………………………………………………………………………………………
@@ -765,10 +705,17 @@ Your savings at age 40 are: $ 39679
     ………………………………………………………………………………………………
 
 
+**You don’t have to and shouldn’t modify the file `letter_probabilities.py`.**
 
-	**For feedback, insert you printed program(s) here.**
+3.	Note: some strings have more than one English deciphering and it is difficult to handle short strings correctly. Thus, your codebreaking function does not have to be perfect. But it should work for longer stretches of English text, e.g., sentences of 8+ words.
+
+**For feedback, insert you printed program(s) here.**
+
 
 {{< pagebreak >}}
+
+
+
 
 # B1: Share-out
 

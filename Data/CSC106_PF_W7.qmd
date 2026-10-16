@@ -73,6 +73,42 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 
 
+5. Consider the following function definition when answering the questions below:
+
+```
+def not_a_good_function_name(alist):
+	not_a_good_variable_name = 0
+	for item in alist:
+		not_a_good_variable_name+= item
+	return not_a_good_variable_name
+```
+
+
+5.1	What will get printed to the screen when the function given above is called as follows:
+`print(not_a_good_function_name([6, 7, 2, 10]))`
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+5.2	In general words, what seems to be the purpose of this function?
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+5.3	Suggest better names for the less than fantastic function and variable names used in this definition.
+
+`not_a_good_function_name`  ……………………………………………………………………
+
+`not_a_good_variable_name`  ……………………………………………………………………
+
+
+
+
+
 # A2) Tracing loops with Memory Diagrams
 
 Consider the following snippet of Python code.
