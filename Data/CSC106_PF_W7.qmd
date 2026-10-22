@@ -47,29 +47,932 @@ Note that some activities we will plan to start in class and others you need to 
 This portfolio includes the following 10 activities and the report of your weekly share-out:
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
-|----|------------------------------------------------ |----------|------------|--------------|-----------------------|
-| A1  | Written prompt                                 |     |     |       |          |
-| A6  |     Prog. with Pytthon (print_neg, any_greater)   |     |     |       |          |
-| A6  |           |     |     |       |          |
-| A2  |    Prog. with Pytthon (avg, sd, var, count)      |     |     |       |          |
-| A3  |   Prog. with Pytthon (word_len, word_count)     |     |     |       |          |
-| A4  |   Prog. with Pytthon (list micro)    |     |     |       |          |
-| A5  |  Prog. with Pytthon (minimum)    |     |     |       |          |
-| A7  |    Written (grid)                 |     |     |       |          |
-| A8  |     Prog. with Pytthon (dict scenarios)         |     |     |       |          |
-| A9  |  Written                                           |     |     |       |          |
-| A10 |  Prog. with Pytthon (list sums)              |     |     |       |          |
-| B1  | Share-out report                              |   21  | oyo |       |    written  |
-| B2  | Share-out report   (optional)                 | 22    | oyo |       |     written     |
+|----|--------------------------------------------- |----------|---------------|-----------------|---------------|
+| A1  | Written prompt                               | 2 |  F 10/23   | F 10/23|  written|
+| A2  |     Prog. with Python (analyzing lists)      | 3|  oyo   | M 10/26| GS, print |
+| A3  |   Prog. with Python (processing words)       | | oyo |  M 10/26 | GS, print |
+| A4  |     Prog. with Pytthon (dict scenarios)      | |   M 10/26  | M 10/26 |   GS, print |
+| A5  |   Prog. with Python (list micro)             | |  oyo | W 10/28 | W 10/28  | GS, print |
+| A6  |  Prog. with Python (minimum)                 | | oyo | W 10/28 |  GS, print |
+| A7  |    Written (grid)                            | | oyo|  W 10/28|  written |
+| A8 |  Prog. with Python (list sums)                | | oyo | W 10/28 |  GS, print |
+| A9  |  Written                                     | |  oyo | W 10/28|     written   |
+| A10 |  Practical Practice                          | |   oyo   |       |  GS, print |
+| B1  | Share-out report                             | 21 | oyo |       |    written  |
+| B2  | Share-out report   (optional)                | 22 | oyo |       |     written     |
 
 {{< pagebreak >}}
 
 
 
-# A1) Prompt: What are some differences in the types of tasks that can be solved by indefinite vs definite iteration? Can you provide examples? Does one class of problems seem harder to solve than the other?
+# A1) Prompt: What are some differences in the types of tasks that can be solved by strings and lists? Can you provide examples? Does one class of problems seem harder to solve than the other?
 
 
 {{< pagebreak >}}
+
+
+
+
+
+
+
+
+# A2) Analyzing Lists
+
+* Remember to test all the functions you write by calling them to make sure they are both *syntactically valid* and *semantically correct*.
+
+1.	Define a function called `print_negatives` that takes a list of numbers as a parameter and prints out any negative numbers in that list.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+2.	Define a function called `any_greater` that takes a list of numbers and a single number as parameters and checks whether any numbers in the list are greater than the given number.
+
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+
+3.	Define a function called `average`  that takes a list of numbers and computes the mean.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+4.	Define a function called `standard_deviation` that takes a list of numbers and calculates the standard deviation. Note: standard deviation is the square root of variance.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+5.	Define a function called `variance` that takes a list of numbers and calculates the population variance of that list of numbers. Population variance is the mean of the squared deviations of the numbers from the mean of the list. 
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+6.	Define a function called `count` that takes a list and a second value as parameters and counts how often the second value occurs in the given list. Try this problem without using built in list methods. 
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+{{< pagebreak >}}
+
+
+# A3) Processing Lists of Words
+
+* Remember to test all the functions you write by calling them to make sure they are both *syntactically valid* and *semantically correct*.
+
+Define a function called `word_lengths` that takes a list of strings as a parameter and returns a new list which represents the lengths of all strings in the given list. For example, given the list 
+
+```
+[“dolphin”, “turtle”, “fish”, “sealion”, “whale”]
+```
+
+the function should return `[7, 6, 4, 7, 5]`.
+
+* Hint: the built-in len function may be useful here.
+
+8.	Define a function called `word_counts`  that takes two lists and returns a list that shows how often the elements in the second list occur in the first list. For example, given the two lists:
+
+```
+['Bilbo', 'was', 'very', 'rich', 'and', 'very', 'peculiar,', 'and', 'had', 'been', 'the', 
+'wonder', 'of', 'the', 'Shire', 'for', 'sixty', 'years,', 'ever', 'since', 'his', 'remarkable',
+'disappearance', 'and', 'unexpected', 'return.', 'The', 'riches', 'he', 'had', 'brought', 
+'back', 'from', 'his', 'travels', 'had', 'now', 'become', 'a', 'local', 'legend,', 'and', 
+'it', 'was', 'popularly', 'believed,', 'whatever', 'the', 'old', 'folk', 'might', 'say,', 
+'that', 'the', 'Hill', 'at', 'Bag', 'End', 'was', 'full', 'of', 'tunnels', 'stuffed', 'with',
+'treasure.', 'And', 'if', 'that', 'was', 'not', 'enough', 'for', 'fame,', 'there', 'was',
+'also', 'his', 'prolonged', 'vigour', 'to', 'marvel', 'at.', 'Time', 'wore', 'on,', 'but',
+'it', 'seemed', 'to', 'have', 'little', 'effect', 'on', 'Mr.', 'Baggins.', 'At', 'ninety',
+'he', 'was', 'much', 'the', 'same', 'as', 'at', 'fifty.', 'At', 'ninety-nine', 'they', 
+'began', 'to', 'call', 'him', 'well-preserved,', 'but', 'unchanged', 'would', 'have', 'been',
+'nearer', 'the', 'mark.', 'There', 'were', 'some','that', 'shook', 'their', 'heads', 'and', 
+'thought', 'this', 'was', 'too', 'much', 'of', 'a', 'good', 'thing;', 'it', 'seemed', 'unfair', 
+'that', 'anyone', 'should', 'possess', '(apparently)', 'perpetual', 'youth', 'as', 'well', 
+'as', '(reputedly)', 'inexhaustible', 'wealth.']
+```
+
+
+and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
+
+* Hint: it may be helpful to functions you’ve already defined in previous sections.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+{{< pagebreak >}}
+
+
+# A3) Dictionary Scenarios
+1. Scenario: Suppose you want to store and quickly look up phone numbers by name (a phone book). Why is a dictionary better than a list for this task?
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+* Task: Define a dictionary called `phone_book` with three name-number pairs.
+    + Print all names (keys).
+    + Print all phone numbers (values).
+    + Iterate through the dictionary and print each name and number.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+2. Scenario: You are given a list of votes (names). You want to count how many votes each person received. Why is a dictionary the best structure here?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+* Task: Given `votes = ["Alice", "Bob", "Alice", "Charlie", "Bob", "Alice"]`, create a dictionary to count votes.
+    + Print the vote counts for each person.
+    + Iterate through just the keys, and then just the values.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+3. Scenario: You're managing a record of students and their grades. Sometimes grades need to be updated or removed.
+
+* Task: Define a dictionary `grades` with three students and their grades.
+    + Update one student's grade (use `grades["name"] = new_grade`).
+    + Remove a student from the dictionary (use `del grades["name"]`).
+    + Print all key-value pairs (use `.items()` to print all pairs).
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+4. Scenario: You are given a list of words (possibly with repeats). 
+
+`words = ["apple", "banana", "apple", "orange", "banana", "apple", "kiwi"]`
+
+* Task: Given a list, count how many times each word appears in the list. 
+    + You must check if a word is already in the dictionary before updating its count.
+    + This is a common pattern for frequency counting and demonstrates why dictionaries are ideal for such tasks.
+    + Only use: dictionary definition, printing all keys/values, iterating with `.keys()`, `.values()`, and `x, y in d.items()`, updating values, and deleting keys.
+    + **Do not use any other built-in dictionary methods.**
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+5. Scenario: You are building a simple account creation system. You receive a list of (username, password) pairs.
+
+* Task: For each pair, you want to create an account only if the username does not already exist in your system.
+    + If the username is already taken (already in your dictionary), do not add or update the password-just skip that entry.
+    + Use only: dictionary definition, checking if a key exists with in, adding a key-value pair, iterating with `.keys()`, `.values()`, and `x, y in d.items()`, and printing.
+    + Do not use any other built-in dictionary methods.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+{{< pagebreak >}}
+
+# A5) List Micro
+
+* Download the starter file `list_micro.py` from the course website.
+
+1. This problem asks you to write five “micro programs” consisting of just a statement or two.
+    a.	Write a statement that assigns a list of 5 integers (any values) to the variable `some_numbers`.
+    b.	Write a statement that concatenates the lists `list1` and `list2` and assigns the result to the variable `list1and2`.
+    
+* Note that the starter file assigns some specific values to the variables `list1` and `list2` so that you can test your code. However, the statement you write should not depend on `list1` and `list2` having specific values. Your statement should work for any values that `list1` and `list2` might have. This is also true for all of the following assignments. None of the statements you write should depend on any variables having a specific value.
+
+    c.	Write a statement that computes the sum of the lengths of `list3` and `list4` and assigns the result to the variable `combined_lengths`.
+    d.	Write a statement that introduces the variable name `third_element` and assigns the third element of list `list5` as its value.
+    e.	Assume that `list6` is a list of numbers. Write a statement that adds the first and last element of `list6` and assigns the result to the variable `first_plus_last`.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+**For feedback, insert you printed program(s) here.**
+
+{{< pagebreak >}}
+
+
+# A6) Minimum
+
+* Download the starter file `minimum.py` from the course website.
+
+1.	Write a function called `find_min` that takes a list of numbers and returns the smallest number in the list. 
+
+* Note that the smallest number may not be a unique element in the list; there may be multiple occurrences of that value. If the list is empty, no smallest number can be determined and the function should return `None`.
+Your definition should not use the built-in min function, and the function should not modify the list it is given as a parameter.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+2.	Now write a function `drop_lowest` that takes a list of scores (numbers) and returns a new list containing all numbers from the first list except for the smallest one. For simplicity purposes if the smallest number occurs more than once, all occurrences should be eliminated.
+
+* Your definition should not use the built-in `min` function. Instead, you should use the `find_min` function you previously defined. This function should not modify the list it is given as a parameter.
+
+Add your function to the `minimum.py` file that already contains your definition for `find_min`.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+{{< pagebreak >}}
+
+# A7) Grid Lists
+
+1. Which function definition will return [12, 15, 18] when called as shown below? Show a trace with memory diagrams using your chosen function definition. Line numbers are provided to help with your trace.**
+
+(lines 1 – 10 hold the sum function definition and comments)
+
+```
+11 scores = [[1, 2, 3],
+12     	     [4, 5, 6],
+13           [7, 8, 9]]
+14 sum(scores)
+```
+
+a.
+```
+1 def sum(grid):
+2 	sums = []
+3 	for row in grid:
+4 		sum = 0
+5 		for num in row:
+6 			sum += num
+7 		sums += [sum]
+8 	return sums
+```
+
+b.
+```
+1 def sum(grid):
+2 	sums = [0] * len(grid)
+3 	for row in grid:
+4 		for i in range(0, len(row)):
+5 			sums[i] += row[i]
+6 	return sums
+```
+
+c.
+```
+1 def sum(grid):
+2 	sum = 0
+3 	for row in grid:
+4 		for num in row:
+5 			sum += num
+6 	return sum
+```
+
+
+
+{{< pagebreak >}}
+
+# A8)  List Sums
+In a python file called `list_sums.py`:
+
+Create a 2D list to store the following values:
+
+```
+[[5,6,7],
+ [1,2,3],
+ [8,9,10]]
+ ```
+
+Write a function called `sub_list_sums` that returns a list of sums of the sub-list. 
+For the above example:
+```
+5+ 6 + 7 = 18
+1+ 2 + 3 = 6
+8 + 9 + 10 = 27
+```
+Returned list should be: `[18,6,27]`
+
+Now write a second function called `column_sums` that returns the sum of the columns:
+
+```
+5 + 1 + 8 = 14
+6 + 2 + 9 = 17
+8 + 9 + 10 = 27
+```
+Returned list should be: `[14,17,27]`
+
+
+* In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+After defining your functions, add the following line to your code:
+
+`### DO NOT DELETE THIS LINE: beg testing`
+
+Then demonstrate your code working by calling your functions with example data in the same python file.
+
+
+
+
+
+* Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+**For feedback, insert you printed program(s) here.**
+
+{{< pagebreak >}}
+
+
+# A9) Written Questions
+
+Consider the following function definition when answering questions 1-4:
+```
+def bad_name(number_list):
+	if number_list == []:
+		return True
+	else:
+		bad_name_2 = number_list[0]
+		for num in number_list:
+			if bad_name_2 > num:
+				return False
+			bad_name_2 = num
+		return True
+```
+
+1.	What will be the return values when the function above is called as follows?
+
+`bad_name([123,345,474,678])` ………………………………………………………
+
+`bad_name([7,7,7])` ……………………………………………………………
+
+`bad_name([123,345,567,474,678])` …………………………………………………………
+
+`bad_name([4,2,4,8])` ……………………………………………
+
+`bad_name([])` ……………………………………………………………
+
+2.	In general words, what seems to be the purpose of this function?
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+3.	Suggest better names for the less than fantastic function and variable names used in this definition.
+
+`bad_name`     ………………………………………………………………………………………………
+
+`bad_name_2`   ………………………………………………………………………………………………
+
+
+
+
+4.	Why is the first if-statement necessary? What would happen if the function definition looked as follows (missing the first if-statement)?
+```
+def bad_name(number_list):
+		bad_name_2 = number_list[0]
+		for num in number_list:
+			if bad_name_2 > num:
+				return False
+			bad_name_2 = num
+		return True
+```
+
+
+Consider the following list when answering the questions:
+```
+lists_of_scores = [[3, 12, 6, 8, 23, 5],
+			  [18, 12, 9, 10, 6, 20, 15, 17],
+			  [8, 12, 11, 7, 9, 9, 16],
+			  [4, 9, 10, 3, 6],
+			  [20, 21, 18, 16, 12, 19, 23]]
+```
+
+What will the following snippets of code print to the screen? If they lead to an error, explain why.
+
+1.	`print(lists_of_scores[2][1])`
+
+………………………………………………………………………………………………
+
+2.	`print(len(lists_of_scores))`
+
+………………………………………………………………………………………………
+
+3.	`print(len(lists_of_scores[1]))`
+
+………………………………………………………………………………………………
+
+4.	`print(len(lists_of_scores[-1][0]))`
+
+………………………………………………………………………………………………
+
+
+5.	```
+for element in lists_of_scores:
+     if len(element) < 7:
+          print(element)
+```
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+
+6.	```
+for i in range(0, len(lists_of_scores)):
+     for s in lists_of_scores[i]:
+          if s > 20:
+               print(i)
+```
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
 
 
 
@@ -106,332 +1009,27 @@ def not_a_good_function_name(alist):
 `not_a_good_variable_name`  ……………………………………………………………………
 
 
-
-
-
-# A2) Tracing loops with Memory Diagrams
-
-Consider the following snippet of Python code.
-```
-1.	x = int(input("Please enter a positive integer: "))
-2.	counter = x
-3.	for step in range(0,10):
-4.	    print(counter)
-5.	    counter += x
-```
-Note: `counter += 1` does the same thing as `counter = counter + 1`
-
-1.	Draw a memory diagram after line 2 has been executed. What the user enters is up to you, but keep it in mind for the following questions.
-
-\vspace{8em}
-
-2.	Draw a memory diagram after line 5 has been executed the first time.
-
-\vspace{8em}
-
-
-3.	Draw a memory diagram after line 5 has been executed the second time.
-
-\vspace{8em}
-
-4.	Draw a memory diagram at the very end of the program.
-
-\vspace{8em}
-
-
-
 {{< pagebreak >}}
 
 
-# A3) Debugging with Memory Diagrams
 
-The following program is supposed to add up numbers entered by the user, but doesn’t work correctly.
-```
-1.	steps = int(input("How many numbers do you want to add up? "))
-2.	total = 0
-3.	number = float(input("Please enter the next number to add: "))
-4.	for step in range(0, steps):
-5.	    total = total + number  
-6.	print("Total: ", total)
-```
 
-1.	Draw a memory diagram after line 2 has been executed. Assume that the user wants to add 4 numbers together.
 
-\vspace{6em}
-
-2.	Draw a memory diagram after line 5 has been executed the first time.
-
-\vspace{6em}
-
-
-3.	Draw a memory diagram after line 5 has been executed the second time.
-
-\vspace{6em}
-
-4.	Describe what the problem is with the program and how to fix it.
-
-\vspace{8em}
-
-
-5.	Copy the code into the code area of Python Tutor. 
-
-6.	Click Visualize Execution and use the Next button to step through each line of code. The memory diagram will appear on the right. Check if your answers match.
-
-7.	(Optional) Repeat steps 3 and 4 for the code on pages 2 and 3.
-
-
-
-{{< pagebreak >}}
-
-
-# A4) Circles & N-gons
-
-1.	Write a program to draw the following pattern:
-
-
-![Turtle Squares](images/sqaures.png){ width=400px }
-
-* Be sure to use the appropriate coding constructs.
-* Note: the turtle doesn’t need to end where it does in the picture.
-* Can you write a function that takes the number of squares to draw as a parameter?
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-2.	Write a program to draw a circle without using the built-in `turtle.circle()` function.
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-
-
-
-
-
-3. Circles with Turtle
-
-a.	Write turtle code to create the following:
-
-![Turtle Circles 1](images/circles1.png){ width=400px }
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-b.	Alter that modify your code so that it makes something like this (notice the circles are now lined up through their center points):
-
-![Turtle Circles 2](images/circles2.png){ width=400px }
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-c.	Modify the code again to make something like this:
-
-![Turtle Circles 3](images/circles3.png){ width=200px }
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-4. Regular n-gons with turtle: Write a program using turtle that does the following:
-
-a.	Ask the user how many sides the shape should have
-b.	Ask the user how long each side should be
-c.	Uses turtle to draw a shape with the specified number of sides, each of the specified length
-
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-	**For feedback, insert you printed program(s) here.**
-
-
-
-
-{{< pagebreak >}}
-
-
-# A5) Math facts quiz
-
-4. Write a function `math_quiz` that helps elementary students practice their math facts. 
-
--	Ask the user to input two numbers
--	Ask the user which number is greater
--	If the user’s answer is right, print : 
-
-`“Correct!”`
-
--	If the user’s answer is wrong, print: 
-
-`“Incorrect, the correct answer is <the correct value>!” `
-
-5. In english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-6. (Optional) Add the functionality to randomly generate the two numbers instead of user input. Present the numbers to the user, and then wait for the user to input a result. 
+# A10: Practical Practice
+
+1. Write a function that adds up multiples of 9
+    * name your function sum_nines and your file sum_nines.py
+    * the function should 
+        + ask the user for input
+        + let the user know how to end the program
+        + check whether the input is a number that is a multiple of 9
+        + add multiples of 9 to a running total
+        + return the total
+    * start with the most simple working version, then add complexities
+    * don’t forget to comment you code
+    * between defining and testing your function put the following comment
+        + `### BEGIN TESTING`
+    * this activity should take around 15 mins
 
 * In english (not code), what is your algorithm for your solution?
 
@@ -449,7 +1047,19 @@ c.	Uses turtle to draw a shape with the specified number of sides, each of the s
 
     ………………………………………………………………………………………………
 
-7. (Optional) If the user’s result is correct, the function should print out a message indicating as much. Otherwise, it should say that the answer was incorrect and show the right answer.
+
+2. Write a function that makes lists alliterative
+    * name your function al_lists and your file char_lists.py
+    * the function should:
+        + take a lists of words and a character as parameters
+        + return a new list only containing words that start with the character
+        + be robust to edge cases (empty lists, maybe lists without strings)
+        + optionally alter the function to take an ASCII value instead of a char
+    * start with the most simple working version, then add complexities
+    * don’t forget to comment you code
+    * between defining and testing your function put the following comment
+        + `### BEGIN TESTING`
+    * this activity should take around 15 mins
 
 * In english (not code), what is your algorithm for your solution?
 
@@ -467,10 +1077,57 @@ c.	Uses turtle to draw a shape with the specified number of sides, each of the s
 
     ………………………………………………………………………………………………
 
-**Give your programs meaningful names (ending in `.py`) and submit to Gradescope.**
+3. Change the function above to take an ascii value instead of a character
+    * name your function ascii_lists and your file ascii_char_lists.py
+    * the function should:
+        + take a lists of words and an integer as parameters
+        + return a new list only containing words that start with the ascii value character
+    * start with the most simple working version, then add complexities
+    * don’t forget to comment you code
+    * between defining and testing your function put the following comment
+        + `### BEGIN TESTING`
+    * this activity should take around 5 mins
 
+* In english (not code), what is your algorithm for your solution?
 
-8. Did the autograder(s) produce error messages? How might you revise your algorithm and/or program?
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+4. Write a program that helps the user study
+    * name your function study_tool and your file study_guide.py
+    * the program should:
+        + initiate a dictionary of CSC106 topics and in-class activities
+        + name activities based on their week
+        + decide what info will be keys and what will be values
+        + decide if you need to use strings, lists, nested lists, nested dictionaries, etc.
+        + include a function that looks up activities based on a topic
+        + optionally include information on whether you completed each activity
+        + optionally include descriptions of each activity
+    * start with the most simple working version, then add complexities
+    * don’t forget to comment you code
+    * between defining and testing your function put the following comment
+        + `### BEGIN TESTING`
+    * this activity should take around 20 mins
+
+    * The following is a list of example activities and topics you can use
+        + PF1 A7 : memory diagrams and tracing
+        + PF2 A4 : math facts
+        + PF3 A4, A5 : conditionals
+        + PF3 A6, A10 : multi-branch conditionals 
+        + PF4 A4, A10 : indefinite iteration
+        + PF5 A3, A10: definite iteration
+        + PF6 A5 : ASCII
+        + PF6 A8 : Caesar cipher, strings
+        + PF7 A2, A3 : lists of numbers
+        + PF7 A7: nested lists
+        + PF7 A8: dictionaries and lists
+
+* In english (not code), what is your algorithm for your solution?
 
     ………………………………………………………………………………………………
 
@@ -481,7 +1138,17 @@ c.	Uses turtle to draw a shape with the specified number of sides, each of the s
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
-9. Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+* Were you able to solve these tasks? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -496,525 +1163,6 @@ c.	Uses turtle to draw a shape with the specified number of sides, each of the s
     ………………………………………………………………………………………………
 
 **For feedback, insert you printed program(s) here.**
-
-{{< pagebreak >}}
-
-
-# A6) Written Turtle
-
-1. Consider the following Python program:
-    a. ```
-        import turtle
-
-        for size in range(10, 60):
-            for side_count in range(0, 4):
-                turtle.forward(size)
-                turtle.left(90)
-        ```
-
-    b. Draw what shape the turtle draws when the inner loop is run once. Your sketch does not have to be to scale (any size is ok).
-
-    \vspace{6em}
-
-    c. Sketch what shape the turtle draws when the whole program is executed.
-
-    \vspace{8em}
-
-
-    d. Explain your answer to (b). How do the outer loop and the inner loop work together to produce the picture you sketched?
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-
-        ………………………………………………………………………………………………
-        
-
-2. How can we translate this code into a while loop?
-```
-1)	for i in range(n):
-2)	     <body>
-```
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-
-{{< pagebreak >}}
-
-# A7) Turtle Star
-
-1. Write a program using the turtle module to draw the following picture. 
-
-![Turtle Star](images/turtle_9_star.png){ width=250px }
-
-* Before writing any code, in english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-	**For feedback, insert you printed program(s) here.**
-
-
-
-
-{{< pagebreak >}}
-
-# A8) Written Questions
-
-### 1. Consider the following (incomplete) Python program:
-
-```
-x = int(input("Please input a positive integer: "))
-counter = x
-for step in range(0, 10):
-```
-
-
-Complete the missing lines of code above so that the program will produce the following output if the user inputs 3.
-
-```
-3
-6
-9
-12
-15
-18
-21
-24
-27
-30
-```
-
-* **Notes**: You do not need to introduce any additional variables. There is more than one way to achieve this result.
-
-
-### 2. Consider the following (incomplete) Python program to list the first few Fibonacci numbers:
-
-The Fibonacci numbers are the following sequence of numbers:
-
-
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, …
-
-
-* The first two numbers are 0 and 1. 
-
-* After that, each number can be calculated by adding the previous two together. For example: 
-    + the third number is 1 (0+1)
-    + the fourth number is 2 (1+1)
-    + the fifth number is 3 (2+1), etc.
-
-They are named Fibonacci numbers after the Italian mathematician who first described them in Europe. Patterns based on the Fibonacci sequence show up in surprisingly many contexts in math, biology, and art.
-(See the Wikipedia entry if you want to know more.)
-
-Below is the (incomplete) Python program to list the first few Fibonacci numbers. 
-
-The user gets to determine how many Fibonacci numbers to list.
-
-```
-1.	print (“How many Fibonacci numbers would you like to see?”)
-2.	limit = int (input(“Please input a number greater than 2: ”))
-3.	
-4.	fib_0 = 0
-5.	fib_1 = 1
-6.	
-7.	print(fib_0)
-8.	print(fib_1)
-9.	for count in range(        ):
-10.	   next_fib = 
-11.	   print(next_fib)
-```
-
-* For questions a-d, assume that the program has been completed and functions correctly.
-
-2.a. Draw a memory diagram that shows the<variable name>-<value/object> associations after line 5 has been executed. Assume that the user inputted 10. Also show what will have been printed to the screen at that point.
-
-\vspace{6em}
-
-
-2.b. Draw a memory diagram that shows the <variable name>-<value/object> associations that should exist after line 11 has been executed for the first time. Also show what line 11 will print to the screen when it is executed for the first time.
-
-\vspace{6em}
-
-
-
-
-
-2.c. What should the <variable name>-<value/object> associations be when line 11 has been executed for the second time? Draw a memory diagram.
-
-\vspace{6em}
-
-
-2.d. Draw a memory diagram that shows the <variable name>-<value/object> associations after the last number has been printed (i.e. at the end of the program).
-
-\vspace{6em}
-
-2.e. Complete the code above so that the program prints the first n Fibonacci numbers, where n is determined by the user. You may need to add new lines of code.
-
-
-
-### 3. Consider two Python programs:
-
-* Both programs on the next page will help Reeborg harvest the carrots in the Harvest 1 world:
-
-::: {layout-ncol=2}
-```
-# Program 1
-
-1  def turn_right():
-2 	turn_left()
-3 	turn_left()
-4 	turn_left()
-5 
-6  def a():
-7 	move()
-8	turn_left()
-9	move()
-10	move()
-11	turn_right()
-12	move()
-13
-14 def b():
-15	for carrot in range(0, 6):
-16		take()
-17		move()
-18
-19 def c():
-20	turn_left()
-21	move()
-22	turn_left()
-23	move()
-24
-25 def d():
-26	turn_right()
-27	move()
-28	turn_right()
-29	move()
-30
-31 a()
-32 for double_row in range(0, 3):
-33	b()
-34	c()
-35	b()
-36	d()
-```
-
-```
-# Program 2
-
-1  def turn_right():
-2	turn_left()
-3	turn_left()
-4	turn_left()
-5
-6  def e():
-7	move()
-8	turn_left()
-9	move()
-10	move()
-11	turn_right()
-12	move()
-13	take()
-14
-15 def f():
-16	for carrot in range(0, 5):
-17		move()
-18		take()
-19
-20 def g():
-21	f()
-22	turn_left()
-23	move()
-24	turn_left()
-25	take()
-26
-27 def h():
-28	f()
-29	turn_right()
-30	move()
-31	turn_right()
-32	take()
-33
-34 e()
-35 for double_row in range(0, 2):
-36	g()
-37	h()
-38 g()
-39 f() 
-```
-
-:::
-
-
-
-
-![Reeborg Carrots](images/carrots.png){ width=275px }
-
-
-
-
-* Both programs define a number of functions. Unfortunately, the program designers were from the bad old days when names needed to be as short as possible, so their function names are essentially meaningless. Come up with better names for each of the functions that they defined.
-
-a.	………………………………………………………………………………………………
-b.	………………………………………………………………………………………………
-c.	………………………………………………………………………………………………
-d.	………………………………………………………………………………………………
-e.	………………………………………………………………………………………………
-f.	………………………………………………………………………………………………
-g.	………………………………………………………………………………………………
-h.	………………………………………………………………………………………………
-
-
-
-3.i **After** you’ve come up with better names for the functions, which of the solutions do you think is better and why?
-
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-
-
-{{< pagebreak >}}
-
-# A9) Turtle Stairs
-
-1.	Create a file called square_chain.py for your code.
-2.	Write a Python program using turtle to draw something that draws a diagonal chain of 10 squares:
-
-
-![Turtle Stairs](images/stairs.png){ width=250px }
-
-There are many different ways (algorithms) that you can draw this pattern. Some may (or may not) leave the turtle in the same position and orientation that you see here. It does not matter if the turtle has the same position and orientation as what you see here.
-
-3.	Add comments to explain how your program works.
-    + Header comment with Name, Email, Date, Assignment, Description
-    + In-line comments describing the algorithm guiding your program
-    + Docstrings for any functions, if you define new functions
-
-* In english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-* Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-	**For feedback, insert you printed program(s) here.**
-
-{{< pagebreak >}}
-
-
-
-# A10)  Retirement Calculator
-
-It’s never too early to start saving for retirement. For this assignment you’re going to write a simple retirement calculator.
-
-
-* A run of the program may look like the following (user input in bold):
-
-```
-How much do you plan to save each month? (in dollars) **100**
-How old are you? (in years) **20**
-At what age do you plan to retire? (in years) **40**
-What yearly rate of return do you expect? (in percentage points) **5**
-Your savings at age 21 are: $ 1200
-Your savings at age 22 are: $ 2460
-Your savings at age 23 are: $ 3783
-Your savings at age 24 are: $ 5172
-Your savings at age 25 are: $ 6630
-Your savings at age 26 are: $ 8162
-Your savings at age 27 are: $ 9770
-Your savings at age 28 are: $ 11458
-Your savings at age 29 are: $ 13231
-Your savings at age 30 are: $ 15093
-Your savings at age 31 are: $ 17048
-Your savings at age 32 are: $ 19100
-Your savings at age 33 are: $ 21255
-Your savings at age 34 are: $ 23518
-Your savings at age 35 are: $ 25894
-Your savings at age 36 are: $ 28388
-Your savings at age 37 are: $ 31008
-Your savings at age 38 are: $ 33758
-Your savings at age 39 are: $ 36646
-Your savings at age 40 are: $ 39679
-```
-
-
-
-1. Start by creating a file called retirement.py for your code.
-
-2. Next, start writing code to get input from the user and store the information in variables.
-
-* The program should start by asking the user for the following information:
-    + The amount they plan to save each month
-    + Their starting age
-    + Their planned retirement age
-    + The yearly rate of return they expect (i.e. growth through interest or dividends).
-
-3. Now design an algorithm to compute the amount that accumulates each year. Write out the algorithm in a human language (e.g. English) before writing it in code. Include this as your description in your header comment.
-
-* The program should show how the user’s savings grow over the course of their careers. For example, if a 20 year-old starts saving $100 a month, retires at 40, and gets a 5% rate or return, then they should have about $39,679 by the time they retire.
-
-* To simplify things, we assume that interest is added once per year before the user has contributed any of their monthly savings.  
-    + This means that, for the first year, the rate of return is zero, so they only get what they saved over the course of the year (i.e. $1200). 
-    + For subsequent years, calculate the interest gained, then add the yearly contribution. So for year 2:
-        * the interest will be $1200 × 5% = $60
-        * the savings at the end of year will be $1200 + $60 + $1200= $2460.
-
-4. Implement the program in Python
-5. Test the program with different values to ensure that it works correctly.
-6. If you haven’t already, add comments explaining how the program works.
-
-* In english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-    * Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-	**For feedback, insert you printed program(s) here.**
 
 {{< pagebreak >}}
 
