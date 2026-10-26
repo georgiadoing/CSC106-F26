@@ -279,6 +279,17 @@
     ]
   },
   {
+    "objectID": "03-Assignments/csc106_hw07.html",
+    "href": "03-Assignments/csc106_hw07.html",
+    "title": "PF 07",
+    "section": "",
+    "text": "CSC106: Portfolio 7\n\ndue Friday 10/30/26 by class time\nRunestone Chapter 10\nDo your share-out\n\nPF7 share-out sched\nPF7 slides\n\n\n\nStarter code\n\nstarter code list_micro.py\n\nstarter_code minimum.py\nSubmission\n\nto get credit for completing a prgramming activity, submit it to gradescope and answer the written questions about your algorithm, whether you progrm worked and what troubleshooting you can think of\nyou only have to print programs you want my feedback on\n(you will still have to print your programs for project demos)",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>PF 07</span>"
+    ]
+  },
+  {
     "objectID": "04-Notes/week1.html",
     "href": "04-Notes/week1.html",
     "title": "Week 1",
@@ -286,7 +297,7 @@
     "text": "Notes from Week 1\n\nWed\n\nSeymour Pappert Turtle Documentary\nActivities for Portfolio 1: A1 (prompt) and A2 (turtle drawing)\n\nThurs\n\nsort ourselves on “Can computers think”?\nlog onto computers: log on instructions\nregister for Runestone: see Resources page\nalso maybe helpful, a different Runestone book\n\nFri\n\nReeborg programs (portfolio A4 and A5)\ncomputer basics answers (portfolio A3): share-out\n\nMon\n\nReeborg share-outs (sched, slides)\ndiscussion on functions, parameters, comments\nvariables and assignments\nfirst Python program: hello world\npython practice with arithmetic (PF A8)\n\ncomputers “thinking” in the news\n\nThe Navier-Stokes problem solved\nAmerican Mathematical Society statement on NS solution\n“Misleading Metaphors and Real Risks”\n\n\n\n\nlook ahead to Wed\n\nWednesday\n\nmore share-outs on syntax vs semantics (PF A6) and variable assignment tracing (PF A7)\npython practice with Turtle module (PF A10)\nlook ahead to Project 1\nbegin Week 2, PF2\n\n\n\n\nfinish up rest of PF by Thursday\n\nany remaining share-outs for PF1",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Week 1</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Week 1</span>"
     ]
   },
   {
@@ -297,7 +308,7 @@
     "text": "Wed (9/16)",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Week 2</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Week 2</span>"
     ]
   },
   {
@@ -308,7 +319,7 @@
     "text": "Examples\n\nascii_art.py",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Week 2</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Week 2</span>"
     ]
   },
   {
@@ -319,7 +330,7 @@
     "text": "PF3 share-outs",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Week 3</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Week 3</span>"
     ]
   },
   {
@@ -330,7 +341,7 @@
     "text": "Examples\n\nchar_shape.py",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Week 3</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Week 3</span>"
     ]
   },
   {
@@ -341,7 +352,7 @@
     "text": "PF3 share-outs\n\nPF3 share-out schedule\nPF3 share-out slides\n\n\n\nStarter code\n\nWalk through field folder\nHarvests folder\nRoad repair folder\n\n\n\nWed (9/30)\n\ncontinuing with conditionals\novertime pay activity (PF3 A5)\nshare-outs (PFA2, AA4, A5)\nascii-shape hints\n\n\n\nThur (10/1)\n\nPractical Exam 1\n\n1.5 hours, this classroom (or testing center)\ntopics through PF1 & PF2, Runestone through Ch. 4\ntopics from PF3 (conditionals) allowed but not neccesary\ncoding constructs beyond these topics not allowed\n\n\n\n\nFri (10/2)\n\nFinish Week 3 share-outs\ncollect PF3\nhand out PF4: Indefinite iteration (loops)!\n\nbegin by reading runestone chapter 6\nPF4 share-out schedule\nPF4 share-out slides\n\n\n\n\nMon (10/5)\n\nBegin PF4 (Conditional Loops)!\nPF4 share-outs\nPF4 A2: largest number & running for congress",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Week 4</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Week 4</span>"
     ]
   },
   {
@@ -352,7 +363,7 @@
     "text": "Wed 10/7\n\nContinuing with while loops!\nPF4 A6: cash register & sum of powers\nPF4 share-outs\n\nPF4 share-out schedule\nPF4 share-out slides\n\n\n\n\nThurs 10/8\n\nfinish PF4 share-outs\ntime to work on Project 2: Rock, Paper, Scissors\ndemo schedule TBD\n\n\n\nFri 10/9\n\nPF5: Definite Iteration (for loops)\n\nwill be on the midterm next week (Thurs 10/15)\n\n\n\n\nMon 10/12\n\nPF5 cont.\nProj 2 demos",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Week 5</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Week 5</span>"
     ]
   },
   {
@@ -363,7 +374,7 @@
     "text": "Wed 10/14\n\nPF5 share-outs\n\nPF5 share-out schedule\nPF5 share-out slides\n\nreview for exam\n\nExtra Review PDF\nExtra Review Python notebook\n\n\n\n\nThurs 10/15\n\nMidterm Exam (written)\n1.5 hours\n\n\n\nFri 10/16\n\nfinish PF5 share-outs, if needed\nPF6\n\nPF6 share-out sched\nPF6 slides\n\nPrepare for Mon: Each group member should read (at least) 1 of the following background readings to summarize for the group\n\nSilicon Valley Triage Tool\nEconomic Roundtable on the Silicon Valley Triage Tool\nA healthcare algorithm started cutting care\nWe created poverty\n\n\n\n\nMon 10/19\n\nPF6: Developers as Decision Makers Worksop\nMake a group copy of the Google Doc worksheet template and share it with all group members\nexample housing lottery\n\n\n\nStarter Code (for rest of PF6)\n\ncaesar.py\nletter_probabilities.py",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Week 6</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Week 6</span>"
     ]
   },
   {
@@ -374,7 +385,7 @@
     "text": "Wed 10/21\n\nPF6: Developers as Decision Makers Worksop\nMake a group copy of the Google Doc worksheet template and share it with all group members\nexample housing lottery\n\n\n\nThurs 10/22\n\nStarter Code (for rest of PF6)\n\ncaesar.py\nletter_probabilities.py\n\nPF6 share-out sched\nPF6 slides\n\n\n\nFri 10/23\n\nstart PF7: Lists!\n\nstarter code list_micro.py\n\nstarter_code minimum.py\n\n\n\n\nMon 10/26\n\nCont. PF7: Dictionaries!",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Week 7</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Week 7</span>"
     ]
   },
   {

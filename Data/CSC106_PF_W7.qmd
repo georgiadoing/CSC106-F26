@@ -24,7 +24,7 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Friday Oct. 29th by the end of class.**
+**Due Friday Oct. 30th by the end of class.**
 
 
 # Portfolio 7: Nested Data
@@ -40,7 +40,7 @@ Note that these activities are focused on this week's theme, but they are design
 
 Note that some activities we will plan to start in class and others you need to start on your own. You should finish each activity before its in-class share-out in order to correct it before final submission.
 
-**Submission**: To get credit for completing a prgramming activity, submit it to gradescope and answer the written questions about your algorithm, whether your program worked and what troubleshooting you can think of. You *only have to print programs you want my feedback on*. Printed programs can still be marked up by hand for corrections.
+**Submission**: To get credit for completing a prgramming activity, submit it to gradescope and answer the written questions about your algorithm, whether your program worked and what troubleshooting you can think of. You *only have to print programs you want my feedback on*. Printed programs can still be marked up by hand for syntactic or semantic corrections. 
 
 ## Table of Contents
 
@@ -50,14 +50,14 @@ This portfolio includes the following 10 activities and the report of your weekl
 |----|--------------------------------------------- |----------|---------------|-----------------|---------------|
 | A1  | Written prompt                               | 2 |  F 10/23   | F 10/23|  written|
 | A2  |     Prog. with Python (analyzing lists)      | 3|  oyo   | M 10/26| GS, print |
-| A3  |   Prog. with Python (processing words)       | | oyo |  M 10/26 | GS, print |
-| A4  |     Prog. with Pytthon (dict scenarios)      | |   M 10/26  | M 10/26 |   GS, print |
-| A5  |   Prog. with Python (list micro)             | |  oyo | W 10/28 | W 10/28  | GS, print |
-| A6  |  Prog. with Python (minimum)                 | | oyo | W 10/28 |  GS, print |
-| A7  |    Written (grid)                            | | oyo|  W 10/28|  written |
-| A8 |  Prog. with Python (list sums)                | | oyo | W 10/28 |  GS, print |
-| A9  |  Written                                     | |  oyo | W 10/28|     written   |
-| A10 |  Practical Practice                          | |   oyo   |       |  GS, print |
+| A3  |   Prog. with Python (processing words)       | 5 | oyo |  M 10/26 | GS, print |
+| A4  |     Prog. with Pytthon (dict scenarios)      | 7|   M 10/26  | M 10/26 |   GS, print |
+| A5  |   Prog. with Python (list micro)             | 11|  oyo | W 10/28 | W 10/28  | GS, print |
+| A6  |  Prog. with Python (minimum)                 | 12| oyo | W 10/28 |  GS, print |
+| A7  |    Written (grid)                            | 13| oyo|  W 10/28|  written |
+| A8 |  Prog. with Python (list sums)                | 14| oyo | W 10/28 |  GS, print |
+| A9  |  Written                                     | 15 |  oyo | W 10/28|     written   |
+| A10 |  Practical Practice                          | 18|   oyo   | W 10/28 |  GS, print |
 | B1  | Share-out report                             | 21 | oyo |       |    written  |
 | B2  | Share-out report   (optional)                | 22 | oyo |       |     written     |
 
@@ -79,13 +79,11 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 # A2) Analyzing Lists
 
-* Remember to test all the functions you write by calling them to make sure they are both *syntactically valid* and *semantically correct*.
+Remember to test all the functions you write by calling them to make sure they are both *syntactically valid* and *semantically correct*.
 
-1.	Define a function called `print_negatives` that takes a list of numbers as a parameter and prints out any negative numbers in that list.
+1.	Define and test a function called `print_negatives` that takes a list of numbers as a parameter and prints out any negative numbers in that list.
 
 * In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -106,84 +104,10 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 
 
-2.	Define a function called `any_greater` that takes a list of numbers and a single number as parameters and checks whether any numbers in the list are greater than the given number.
+2.	Define and test a function called `any_greater` that takes a list of numbers and a single number as parameters and checks whether any numbers in the list are greater than the given number.
 
 
 * In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-
-
-3.	Define a function called `average`  that takes a list of numbers and computes the mean.
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-4.	Define a function called `standard_deviation` that takes a list of numbers and calculates the standard deviation. Note: standard deviation is the square root of variance.
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-5.	Define a function called `variance` that takes a list of numbers and calculates the population variance of that list of numbers. Population variance is the mean of the squared deviations of the numbers from the mean of the list. 
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -205,11 +129,75 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 
 
-6.	Define a function called `count` that takes a list and a second value as parameters and counts how often the second value occurs in the given list. Try this problem without using built in list methods. 
+
+3.	Define and test a function called `average`  that takes a list of numbers and computes the mean.
 
 * In english (not code), what is your algorithm for your function/solution?
 
     ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+4.	Define and test a function called `standard_deviation` that takes a list of numbers and calculates the standard deviation. Note: standard deviation is the square root of variance.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+5.	Define and test a function called `variance` that takes a list of numbers and calculates the population variance of that list of numbers. Population variance is the mean of the squared deviations of the numbers from the mean of the list. 
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+6.	Define and test a function called `count` that takes a list and a second value as parameters and counts how often the second value occurs in the given list. Try this problem first using built in list methods and then without using them. 
+
+* In english (not code), what is your algorithm for your function/solution?
 
     ………………………………………………………………………………………………
 
@@ -315,20 +303,19 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
 {{< pagebreak >}}
 
 
-# A3) Dictionary Scenarios
-1. Scenario: Suppose you want to store and quickly look up phone numbers by name (a phone book). Why is a dictionary better than a list for this task?
+# A4) Dictionary Scenarios
+1. Scenario: Suppose you want to store and quickly look up phone numbers by name (a phone book). 
 
-………………………………………………………………………………………………
+* Why is a dictionary better than a list for this task?
 
-………………………………………………………………………………………………
+    ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
+    ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
+    ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
+    ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
 
 
 * Task: Define a dictionary called `phone_book` with three name-number pairs.
@@ -347,15 +334,6 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     ………………………………………………………………………………………………
 
 
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 * Were you able to solve this task? If not, can you think of anything else to try?
@@ -366,27 +344,35 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
 
     ………………………………………………………………………………………………
 
+
+2. Scenario: You are given a list of votes (names). You want to count how many votes each person received. 
+
+* Why is a dictionary the best structure here?
+
+
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
 
-2. Scenario: You are given a list of votes (names). You want to count how many votes each person received. Why is a dictionary the best structure here?
+    ………………………………………………………………………………………………
 
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
+    ………………………………………………………………………………………………
 
 
 
 * Task: Given `votes = ["Alice", "Bob", "Alice", "Charlie", "Bob", "Alice"]`, create a dictionary to count votes.
     + Print the vote counts for each person.
     + Iterate through just the keys, and then just the values.
+
+* Why is a dictionary better than a list for this task?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 * In english (not code), what is your algorithm for your function/solution?
 
@@ -399,16 +385,6 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     ………………………………………………………………………………………………
 
 
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
 
 * Were you able to solve this task? If not, can you think of anything else to try?
 
@@ -418,10 +394,18 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
 
 3. Scenario: You're managing a record of students and their grades. Sometimes grades need to be updated or removed.
+
+* Why is a dictionary better than a list for this task?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 * Task: Define a dictionary `grades` with three students and their grades.
     + Update one student's grade (use `grades["name"] = new_grade`).
@@ -439,20 +423,8 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     ………………………………………………………………………………………………
 
 
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
 
 * Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -467,9 +439,18 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
 
 * Task: Given a list, count how many times each word appears in the list. 
     + You must check if a word is already in the dictionary before updating its count.
-    + This is a common pattern for frequency counting and demonstrates why dictionaries are ideal for such tasks.
     + Only use: dictionary definition, printing all keys/values, iterating with `.keys()`, `.values()`, and `x, y in d.items()`, updating values, and deleting keys.
     + **Do not use any other built-in dictionary methods.**
+
+* Why is a dictionary better than a list for this task?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
 * In english (not code), what is your algorithm for your function/solution?
 
@@ -482,15 +463,6 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     ………………………………………………………………………………………………
 
 
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 * Were you able to solve this task? If not, can you think of anything else to try?
@@ -500,9 +472,6 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
 
 5. Scenario: You are building a simple account creation system. You receive a list of (username, password) pairs.
 
@@ -511,6 +480,16 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     + Use only: dictionary definition, checking if a key exists with in, adding a key-value pair, iterating with `.keys()`, `.values()`, and `x, y in d.items()`, and printing.
     + Do not use any other built-in dictionary methods.
 
+* Why is a dictionary better than a list for this task?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 * In english (not code), what is your algorithm for your function/solution?
 
     ………………………………………………………………………………………………
@@ -522,20 +501,9 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     ………………………………………………………………………………………………
 
 
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 * Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -575,17 +543,6 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
     ………………………………………………………………………………………………
 
 
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 * Were you able to solve this task? If not, can you think of anything else to try?
@@ -613,7 +570,7 @@ and `['and', 'very', 'tunnels']`, the function should return `[5, 2, 1]`.
 
 1.	Write a function called `find_min` that takes a list of numbers and returns the smallest number in the list. 
 
-* Note that the smallest number may not be a unique element in the list; there may be multiple occurrences of that value. If the list is empty, no smallest number can be determined and the function should return `None`.
+* If the list is empty, no smallest number can be determined and the function should return `None`.
 Your definition should not use the built-in min function, and the function should not modify the list it is given as a parameter.
 
 * In english (not code), what is your algorithm for your function/solution?
@@ -626,31 +583,10 @@ Your definition should not use the built-in min function, and the function shoul
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 * Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -674,31 +610,9 @@ Add your function to the `minimum.py` file that already contains your definition
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-* Did the version of your program you are submitting produce any errors (running in IDLE or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 * Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -797,12 +711,6 @@ Returned list should be: `[14,17,27]`
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
 
 After defining your functions, add the following line to your code:
 
@@ -813,24 +721,7 @@ Then demonstrate your code working by calling your functions with example data i
 
 
 
-
-* Did the version of your program you are submitting produce any errors (running in Reeborg or autograder, if applicable)? How might you revise your algorithm and/or program?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
 * Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -920,7 +811,15 @@ What will the following snippets of code print to the screen? If they lead to an
 
 ………………………………………………………………………………………………
 
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
 2.	`print(len(lists_of_scores))`
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -928,7 +827,15 @@ What will the following snippets of code print to the screen? If they lead to an
 
 ………………………………………………………………………………………………
 
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
 4.	`print(len(lists_of_scores[-1][0]))`
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -939,6 +846,12 @@ for element in lists_of_scores:
           print(element)
 ```
 
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -963,9 +876,6 @@ for i in range(0, len(lists_of_scores)):
 
 ………………………………………………………………………………………………
 
-
-
-
 ………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
@@ -976,7 +886,7 @@ for i in range(0, len(lists_of_scores)):
 
 
 
-5. Consider the following function definition when answering the questions below:
+7. Consider the following function definition when answering the questions below:
 
 ```
 def not_a_good_function_name(alist):
@@ -987,14 +897,16 @@ def not_a_good_function_name(alist):
 ```
 
 
-5.1	What will get printed to the screen when the function given above is called as follows:
+7.1	What will get printed to the screen when the function given above is called as follows:
 `print(not_a_good_function_name([6, 7, 2, 10]))`
 
 ………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
-5.2	In general words, what seems to be the purpose of this function?
+………………………………………………………………………………………………
+
+7.2	In general words, what seems to be the purpose of this function?
 
 ………………………………………………………………………………………………
 
@@ -1002,7 +914,11 @@ def not_a_good_function_name(alist):
 
 ………………………………………………………………………………………………
 
-5.3	Suggest better names for the less than fantastic function and variable names used in this definition.
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+7.3	Suggest better names for the less than fantastic function and variable names used in this definition.
 
 `not_a_good_function_name`  ……………………………………………………………………
 
@@ -1017,6 +933,11 @@ def not_a_good_function_name(alist):
 
 # A10: Practical Practice
 
+* start with the most simple working version of each answer, then add complexities
+* don’t forget to comment you code (headers & in-line)
+* bin each program, etween defining and testing your function put the following comment
+    + `### BEGIN TESTING`
+
 1. Write a function that adds up multiples of 9
     * name your function sum_nines and your file sum_nines.py
     * the function should 
@@ -1025,10 +946,7 @@ def not_a_good_function_name(alist):
         + check whether the input is a number that is a multiple of 9
         + add multiples of 9 to a running total
         + return the total
-    * start with the most simple working version, then add complexities
-    * don’t forget to comment you code
-    * between defining and testing your function put the following comment
-        + `### BEGIN TESTING`
+    
     * this activity should take around 15 mins
 
 * In english (not code), what is your algorithm for your solution?
@@ -1043,9 +961,6 @@ def not_a_good_function_name(alist):
 
     ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 
 2. Write a function that makes lists alliterative
@@ -1055,15 +970,9 @@ def not_a_good_function_name(alist):
         + return a new list only containing words that start with the character
         + be robust to edge cases (empty lists, maybe lists without strings)
         + optionally alter the function to take an ASCII value instead of a char
-    * start with the most simple working version, then add complexities
-    * don’t forget to comment you code
-    * between defining and testing your function put the following comment
-        + `### BEGIN TESTING`
     * this activity should take around 15 mins
 
 * In english (not code), what is your algorithm for your solution?
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -1082,13 +991,19 @@ def not_a_good_function_name(alist):
     * the function should:
         + take a lists of words and an integer as parameters
         + return a new list only containing words that start with the ascii value character
-    * start with the most simple working version, then add complexities
-    * don’t forget to comment you code
-    * between defining and testing your function put the following comment
-        + `### BEGIN TESTING`
     * this activity should take around 5 mins
 
 * In english (not code), what is your algorithm for your solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -1108,10 +1023,6 @@ def not_a_good_function_name(alist):
         + include a function that looks up activities based on a topic
         + optionally include information on whether you completed each activity
         + optionally include descriptions of each activity
-    * start with the most simple working version, then add complexities
-    * don’t forget to comment you code
-    * between defining and testing your function put the following comment
-        + `### BEGIN TESTING`
     * this activity should take around 20 mins
 
     * The following is a list of example activities and topics you can use
@@ -1143,8 +1054,24 @@ def not_a_good_function_name(alist):
 
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 
 * Were you able to solve these tasks? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 

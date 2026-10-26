@@ -1,0 +1,848 @@
+---
+title: CSC 106 Can Computers Think? Portfolio 7, Student Inititals - 
+eval: true
+format: 
+    pdf:
+        number-sections: false
+        shift-heading-level-by: 2
+        geometry:
+            - top=1in
+            - right=.8in
+            - bottom=1in
+            - left=.8in
+        mainfont: "Avenir"
+        sansfont: "Avenir"
+        code-line-numbers: true
+        include-in-header: 
+            - ../preamble2.tex
+jupyter: python3
+---
+
+NAME: 
+
+STUDENT ID:  
+
+Remember to also initial in the upper right-hand header of each page.
+
+**Due Friday Nov. 6th by the end of class.**
+
+
+# Portfolio 8: Files
+
+
+ To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapter** (worth 0.5 of a grade percentage point):
+
+* 11: Files
+
+Note that these activities are focused on this week's theme, but they are designed to utlize skills from all your previous portfolios as well. You should use your judgement to decide which tasks are best solved with which skills you have accumulated so far.
+
+*For completing and self-correcting 70% of the below activities, you will earn 1 grade percentage point*. Additionally, for participating in a *share-out of 1 of the activities, you will earn 0.5 of a grade percentage point*.
+
+Note that some activities we will plan to start in class and others you need to start on your own. You should finish each activity before its in-class share-out in order to correct it before final submission.
+
+**Submission**: To get credit for completing a prgramming activity, submit it to gradescope and answer the written questions about your algorithm, whether your program worked and what troubleshooting you can think of. You *only have to print programs you want my feedback on*. Printed programs can still be marked up by hand for syntactic or semantic corrections. 
+
+## Table of Contents
+
+This portfolio includes the following 10 activities and the report of your weekly share-out:
+
+| Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
+|----|--------------------------------------------- |----------|---------------|-----------------|---------------|
+| A1  | Written prompt                              |  2 |  F 11/6 |  F 11/6 |          |
+| A2  |  Written (real world rec)                   |     |     |       |          |
+| A3  |   Written (math rec)                        |     |     |       |          |
+| A4  |    Prog. with Pytthon (linear search)   |     |     |       |          |
+| A5  |    Prog. with Pytthon (rec linear search)   |     |     |       |          |
+| A6  |    Prog. with Pytthon (rec binary search)    |     |     |       |          |
+| A7  |   Written (sorting game, bubble)                  |     |     |       |          |
+| A8  |  Written (sorting game, quick)            |     |     |       |          |
+| A9  |  Written                                |     |     |       |          |
+| A10 | Written                                      |     |     |       |          |
+| B1  | Share-out report                             | 14 | oyo |       |    written  |
+| B2  | Share-out report   (optional)                | 15 | oyo |       |     written     |
+
+
+
+
+
+{{< pagebreak >}}
+
+
+
+# A1) Prompt: ?**
+
+
+{{< pagebreak >}}
+
+
+
+
+
+
+
+
+# A2) Real-World Recursion
+
+For each scenario below, discuss and determine: 
+
+* Base case: When does the recursion stop?
+* Recursive step: How do you break the problem into a smaller version of itself?
+
+Example for  “How many socks are in a pile?” :
+
+* Base case: If the pile is empty, return 0.  
+* Recursive step: Otherwise, return 1 + the number of socks in a pile that has 1 less sock.
+
+
+
+1. How many slices are in a loaf of bread?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+2. How many steps in a staircase?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+3. How many people are in a line at the grocery store?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+4. How many pages are in a book?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+5. How many cups are in a stack?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+{{< pagebreak >}}
+
+
+# A3) Mathematical Recursion
+
+For each mathematical scenario below, write the base case and the recursive step
+
+Write your asnwers as if you were defining a recursive function.
+
+1. What is $n!$, $n$ factorial?
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+2. What is the sum of integers from $1$ to $n$?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+3. What is the $n$th Fibonacci number?
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+4. What is the result of raising $x$ to the power $n$, $x^n$?
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+5. What is the sum of the digits in a positive integer $n$?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+6. What is the result of multiplying a positive integer $n$ by another positive integer $m$?
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+{{< pagebreak >}}
+
+
+# A4) Searching
+
+
+1. Describe how Linear Search checks whether an item is in a list.
+
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+
+2. Write and test a function that implements Linear Search. 
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+**For feedback, insert you printed program(s) here.**
+
+
+{{< pagebreak >}}
+
+# A5) Recursive Searching
+
+
+1. Describe a *recursive algorithm* for Linear Search that checks whether an item is in a list.
+
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+* What makes your algorithm recursive?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    
+
+2. Write and test a function that implements Linear Search recursively. 
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+**For feedback, insert you printed program(s) here.**
+
+{{< pagebreak >}}
+
+
+# A6) Binary Search
+
+
+1. Describe a *recursive algorithm* for Binary Search that checks whether an item (e.g. number) is in a sorted list.
+
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+* What makes your algorithm recursive?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    
+
+2. Write and test a function that implements Binary Search recursively. 
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+**For feedback, insert you printed program(s) here.**
+
+{{< pagebreak >}}
+
+# A7) Sorting Game: Bubble Sort
+
+1. Go to the sorting game website and select `Bubble Sort` from the demo menu
+2. Click 'Random' to randomize the demo input
+3. Start a stopwatch when you hit `Go!`
+4. Stop the timer once the demo finishes sorting the list.
+
+5. How long did the algorithm take?
+
+    ………………………………………………………………………………………………
+
+6. How many comparisons were made?
+
+    ………………………………………………………………………………………………
+
+7. How many Swaps were made?
+
+    ………………………………………………………………………………………………
+
+
+{{< pagebreak >}}
+
+# A8)  Sorting Game: Quick Sort
+
+
+
+{{< pagebreak >}}
+
+
+# A9) Written Questions
+
+
+
+
+1. Evaluating expressions involving dictionaries
+
+For each of the items given below, say whether they are an expression, a statement, or invalid. Interpret them in the context of variables `d1` and `d2` defined below.
+
+* For expressions, also give their value
+* For statements, also say what the effect of the statement is going to be
+* For the invalid items, explain why they’re invalid
+
+```
+d1 = {"tom":344, "anna":643, "peter":9482}
+d2 = {"hans":633, "cay":123}
+```
+
+
+
+
+(a)	`d1["anna"]`   		………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………………
+
+(b)	`d1["hans"]` 	 	………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………………
+
+(c)	`d1["cay"] = 737`	………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………………
+
+(d)	`d1 + d2`			………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………………
+
+
+2. Basic dictionary manipulation
+
+2.1	Give a statement that creates an empty dictionary and associates it with the variable name  `new_dict`
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+
+2.2	Give an expression that adds a new entry to the (already existing) dictionary some_dict. The key of that entry should be 5 and the value should be: `['pokemon', 'call of duty', 'guilty gear']`
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+{{< pagebreak >}}
+
+
+
+
+
+# A10: More Written Questions
+
+
+
+1. Examining a function**
+
+Consider the following function definition.
+
+```
+def mystery(alist, blist):
+	if len(alist) != len(blist):
+		return None
+A –->d = {}
+	for idx in range(0, len(alist)):
+B -->	d[alist[idx]] = blist[idx]
+	return d
+```
+
+1.1	What happens in the line marked with `A`?
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+1.2	What happens in the line marked with `B`?
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+1.3	In one sentence or short paragraph: what does this function do?
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+{{< pagebreak >}}
+
+
+2. Dictionaries and variable values
+
+```
+Consider the following program:
+1.	def lists_to_dict(alist, blist):
+2.	   if len(alist) != len(blist):
+3.	      return None
+4.	   d = {}
+5.	   for idx in range(0, len(alist)):
+6.	      d[alist[idx]] = blist[idx]
+7.	   return d
+8.	  
+9.	new_dict = lists_to_dict(['a', 'b', 'c'], [100, 200, 300])
+```
+
+2.1	Draw a memory diagram that shows what we have in memory once this snippet of code has been completely executed (i.e. after line 9 has been run).
+
+\vspace{9em}
+
+2.2	Draw a memory diagram that shows what we have in memory when line 4 has just been executed.
+
+\vspace{9em}
+
+2.3	Draw a memory diagram that shows what we have in memory when line 6 has been executed for the first time.
+
+{{< pagebreak >}}
+
+# B1: Share-out
+
+0. Did you share-out this week? If not, and if you would like to make up your credit, where in the upcoming schedule would you like to be added?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+1. For which activity did you share-out?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+2. What was the solution you shared?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+3. If any, what changes did you make to your solution in response to questions or discussion?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    {{< pagebreak >}}
+
+# B2: Share-out (optional)
+
+0. Did you share-out this week? If not, and if you would like to make up your credit, where in the upcoming schedule would you like to be added?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+1. For which activity did you share-out?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+2. What was the solution you shared?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+3. If any, what changes did you make to your solution in response to questions or discussion?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    {{< pagebreak >}}
+
