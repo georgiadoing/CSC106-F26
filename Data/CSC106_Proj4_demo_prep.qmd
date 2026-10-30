@@ -1,0 +1,251 @@
+---
+title: CSC 106 Can Computers Think?, Programming Project 4
+date: Oct 29, 2026
+eval: true
+format: 
+    pdf:
+        number-sections: false
+        shift-heading-level-by: 2
+        geometry:
+            - top=1in
+            - right=.8in
+            - bottom=1in
+            - left=.8in
+        mainfont: "Avenir"
+        sansfont: "Avenir"
+        code-line-numbers: truei
+        include-in-header: 
+            - ../preamble2.tex
+---
+
+NAME:  
+
+STUDENT ID:  
+
+Remember to also initial in the upper right-hand header of each page.
+
+#  Project 4: Sentiment Analysis (Demo prep)
+
+
+
+# Rubric
+
+
+|                            | Meeting/exceeding expectations (full points)        | Arriving at expectations  (partial points)          | Not meeting Expectations    (Low or no points)     |   |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|---|
+| Programs (2 pts)       | All programs are correct  (1 pt)   | All programs run, some programs are correct   (.5 pt)      | Program(s) don't run or fewer than half of programs are correct          |   |
+|                            |        |                   |                      |   |
+|                            | Programs are logical and organized  (.5 pt)     |  Programs are logical or organized (.3 pt)  | Programs are neither logical nor organized    |   |
+|                            |        |                   |                      |   |
+|                            | Clear headers and in-line comments  (.5 pt)  | Either clear headers or good in-line comments   (.3 pt)    | All comments are lacking clarity     |   |
+|                            |        |                   |                      |   |
+| Demo  (3 pts)|  Answers all questions thoroughly, clearly understands their program(s)   (1 pt)         |        Answers most questions thoroughly but required prompting    (.75 pt)    |  Can not explain all or part of the program(s)  |   |
+|                            |        |                   |                      |   |
+|                            | Responds to follow-up questions with accurate and clear answers  (1 pt)     |   Responds to follow-up questions but cannot carry out a conversation   (.75 pt)    |  Cannot  demonstrate understanding     
+|                            |        |                   |                      |   |
+|                | Student identified what their biggest challenge was and how they overcame it.  (1 pt) | Student identified areas for improvement but lacked specificity. (.75 pt)  | Reflection lacked consideration.|   |
+
+
+### Elaboration on terms
+
+*	Correctness: programs do what the problems require.
+*	Program logic: use variables and functionswhere appropriate
+*	Comments: there should be a header comment that includes the author’s name and describes the program’s purpose. Comments in the code should clarify how the program works.
+*	Organization: whitespace indicates the logical structure of the code, order elements properly.
+*	Understanding: program should be explainable.
+*	Reflection: idenitify the challenges of the porcess and how they were addressed.
+
+{{< pagebreak >}}
+
+# Demonstration Instructions
+
+* confirm availability for  a **5** minute [time slot](https://docs.google.com/spreadsheets/d/1tt-1ZNZ2c5MkcgIZlAWX77oxUX32-4OVJj7SLSRHn-A/edit?usp=sharing)
+* submit all your code to gradescope
+* bring printed versions of your code & reflection
+* be prepared to run your porgrams on a lab machine, downloaded from gradescope
+* program & file list:
+
+1. `sentiment_analysis.py`
+2. `reflection.pdf`
+
+# GD Notes during demo (leave blank):
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+{{< pagebreak >}}
+
+NAME:  
+
+ **Come prepared to *drive* this demonstration *in class*.** Prepare for the demo by answering the following questions. Bring your written aswers with you, they will also be collected. 
+
+
+1. How did you predict sentiment scores for movie reviews?
+	* what coding constructs and data types did you use?
+	* were your predictions perfectly accurate? why or why not?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+
+
+2. How did you *classify* reviews?
+	* what coding constructs and data types did you use?
+	* were your classifications more or less useful than "raw" predicted scores? why?
+	* how could you demonstrate that your program works as intended to a user?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+3. How were you able to fine-tune your system?
+	* what was your highest accuracy achieved?
+	* was your final version more accurate than your initial version?
+	* be prepared to add these numbers to a class-wide plot/graph
+	
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+4.  Can computers think? What are some strengths and weaknesses of the method we used to simulate intelligent behavior in this project?
+	* highlight a passage from your reflection to share with the class
+
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+5. What was the most challenging part of the project?
+	* did you go through multiple iterations of trying to get a part to work?
+	* what hint would you give to someone else attempting this project?
+	* what would you do differently next time?
+
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+
+
+

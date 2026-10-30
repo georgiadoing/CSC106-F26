@@ -1,5 +1,5 @@
 ---
-title: CSC 106 Can Computers Think? Portfolio 7, Student Inititals - 
+title: CSC 106 Can Computers Think? Portfolio 8, Student Inititals - 
 eval: true
 format: 
     pdf:
@@ -49,15 +49,15 @@ This portfolio includes the following 10 activities and the report of your weekl
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
 |----|--------------------------------------------- |----------|---------------|-----------------|---------------|
 | A1  | Written prompt                              |  2 |  F 10/30 |  F 10/30 |          |
-| A2  |  Prog. with Python (describe data)           | 3 |  M 11/2  |  M 11/2 |          |
-| A3  |   Prog. with Python (make randoms)          |  4 |  W 11/4   | W 11/4 |          |
-| A4  |  Prog. with Python (translation)             | 5 |  oyo   | W 11/4 |          |
-| A5  |    Prog. with Python (author id, freq dict)  |  7 |  Th 11/5   | Th 11/5 |          |
-| A6  |   Prog. with Python (author id, prob dict)   | 8 | Th 11/5 |  Th 11/5|          |
-| A7  |    Prog. with Python (author id, mse)        | 9 |  Th 11/5| Th 11/5 |          |
-| A8  | Written                                      |  11 |  oyo   | F 11/6 |          |
-| A9  |  Written                                     | 12  |   oyo  |  F 11/6 |          |
-| A10 |  Prog. with Python (word list)              |  13 |   oyo  | F 11/6 |          |
+| A2  |  Prog. with Python (describe data)           | 3 |  M 11/2  |  M 11/2 |  GS, print | |
+| A3  |   Prog. with Python (make randoms)          |  4 |  W 11/4   | W 11/4 | GS, print | |
+| A4  |  Prog. with Python (translation)             | 5 |  oyo   | W 11/4 |  GS, print | |
+| A5  |    Prog. with Python (author id, freq)  |  7 |  Th 11/5   | Th 11/5 |  GS, print | |
+| A6  |   Prog. with Python (author id, prob)   | 8 | Th 11/5 |  Th 11/5|  GS, print ||
+| A7  |    Prog. with Python (author id, mse)        | 9 |  Th 11/5| Th 11/5 | GS, print | |
+| A8  | Written                                      |  11 |  oyo   | Th 11/5 |  written  |
+| A9  |  Written                                     | 12  |   oyo  |  Th 11/5 |   written   |
+| A10 |  Prog. with Python (word list)              |  13 |   oyo  | Th 11/5 |    GS, print |  |
 | B1  | Share-out report                             | 14 | oyo |       |    written  |
 | B2  | Share-out report   (optional)                | 15 | oyo |       |     written     |
 
@@ -173,6 +173,16 @@ Max: 100
 
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
 
 
 
@@ -188,21 +198,7 @@ Max: 100
 
     ………………………………………………………………………………………………
 
-2. Does the ability to use files change your opinion on whether computers can think? Does having long-term memory affect how humans can think?
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
 **For feedback, insert you printed program(s) here.**
 

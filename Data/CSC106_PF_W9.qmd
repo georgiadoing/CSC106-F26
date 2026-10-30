@@ -48,18 +48,18 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
 |----|--------------------------------------------- |----------|---------------|-----------------|---------------|
-| A1  | Written prompt                              |  2 |  F 11/6 |  F 11/6 |          |
-| A2  |  Written (real world rec)                   |     |     |       |          |
-| A3  |   Written (math rec)                        |     |     |       |          |
-| A4  |    Prog. with Pytthon (linear search)   |     |     |       |          |
-| A5  |    Prog. with Pytthon (rec linear search)   |     |     |       |          |
-| A6  |    Prog. with Pytthon (rec binary search)    |     |     |       |          |
-| A7  |   Written (sorting game, bubble)                  |     |     |       |          |
-| A8  |  Written (sorting game, quick)            |     |     |       |          |
-| A9  |  Written                                |     |     |       |          |
-| A10 | Written                                      |     |     |       |          |
-| B1  | Share-out report                             | 14 | oyo |       |    written  |
-| B2  | Share-out report   (optional)                | 15 | oyo |       |     written     |
+| A1  | Written prompt                              |  2 |  F 11/6 |  F 11/6 |     written     |
+| A2  |  Written (real world rec)                   |   3  |   F 11/6  |   F 11/6     |    written   |
+| A3  |   Written (math rec)                        |    5 |   M 11/9  |    M 11/9   |   written |
+| A4  |  Written                                |  7  |  oyo  |   M 11/9    |  written  |
+| A5 | Written                                      | 8    |  oyo  |    M 11/9   | written  |
+| A6 |    Proj 4 program (word sentiment) | 10    |  oyo  |   F 11/13   |    GS, print   |
+| A7 |    Proj 4 program (sentiment scores)|   12 |   oyo |  F 11/13     |     GS, print     |
+| A8  |   Proj 4 program (classification)  | 13    |  oyo   |   F 11/13    |GS, print |
+| A9  |    Proj 4 program (fine-tuning)    |  14   |  oyo   |   F 11/13    |  GS, print    |
+| A10  |    Proj 4 reflection   |  15   |  oyo   |   F 11/13    |   GS, print    |
+| B1  | Share-out report                             | 16 | oyo |       |    written  |
+| B2  | Share-out report   (optional)                | 17 | oyo |       |     written     |
 
 
 
@@ -351,226 +351,7 @@ Write your asnwers as if you were defining a recursive function.
 {{< pagebreak >}}
 
 
-# A4) Searching
-
-
-1. Describe how Linear Search checks whether an item is in a list.
-
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-    
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-    
-
-2. Write and test a function that implements Linear Search. 
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-**For feedback, insert you printed program(s) here.**
-
-
-{{< pagebreak >}}
-
-# A5) Recursive Searching
-
-
-1. Describe a *recursive algorithm* for Linear Search that checks whether an item is in a list.
-
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-    
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* What makes your algorithm recursive?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    
-
-2. Write and test a function that implements Linear Search recursively. 
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-**For feedback, insert you printed program(s) here.**
-
-{{< pagebreak >}}
-
-
-# A6) Binary Search
-
-
-1. Describe a *recursive algorithm* for Binary Search that checks whether an item (e.g. number) is in a sorted list.
-
-
-* In english (not code), what is your algorithm for your function/solution?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-    
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-* What makes your algorithm recursive?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    
-
-2. Write and test a function that implements Binary Search recursively. 
-
-* Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-
-**For feedback, insert you printed program(s) here.**
-
-{{< pagebreak >}}
-
-# A7) Sorting Game: Bubble Sort
-
-1. Go to the sorting game website and select `Bubble Sort` from the demo menu
-2. Click 'Random' to randomize the demo input
-3. Start a stopwatch when you hit `Go!`
-4. Stop the timer once the demo finishes sorting the list.
-
-5. How long did the algorithm take?
-
-    ………………………………………………………………………………………………
-
-6. How many comparisons were made?
-
-    ………………………………………………………………………………………………
-
-7. How many Swaps were made?
-
-    ………………………………………………………………………………………………
-
-
-{{< pagebreak >}}
-
-# A8)  Sorting Game: Quick Sort
-
-
-
-{{< pagebreak >}}
-
-
-# A9) Written Questions
+# A4) Written Questions
 
 
 
@@ -640,7 +421,7 @@ d2 = {"hans":633, "cay":123}
 
 
 
-# A10: More Written Questions
+# A5: More Written Questions
 
 
 
@@ -733,6 +514,270 @@ Consider the following program:
 2.3	Draw a memory diagram that shows what we have in memory when line 6 has been executed for the first time.
 
 {{< pagebreak >}}
+
+
+# A6) Project 4: Word Sentiment Dictionary 
+
+**Read the entire Proj 4 assignemnt before beginning this activity.**
+
+Download the starter file `sentiment_analysis.py` and the three files with movie reviews described above from the course website.
+
+Write a function `make_word_sentiment_dictionary`. The function should take the name of a file with movie reviews (in the format discussed above) as a parameter, and it should return a word sentiment dictionary. The keys in this dictionary should be individual words, and the values should be (small) dictionaries that assemble the following information about the word:
+
+* the sum of the sentiment scores of the movie reviews in which the word appears (key: “total score”)
+* the number of movie reviews in which the word appears (key: “count”)
+* the average sentiment score of the movie reviews in which the word appears (key: “average score”)
+
+For example, here is what an excerpt of the word sentiment dictionary might look like:
+
+```
+{’nice’: {’total score’: 38, ’count’: 14, ’average score’: 2.7142857142857144},
+’little’: {’total score’: 312, ’count’: 154, ’average score’: 2.0259740259740258},
+’story’: {’total score’: 538, ’count’: 251, ’average score’: 2.143426294820717},
+’process’: {’total score’: 41, ’count’: 17, ’average score’: 2.411764705882353},
+...}
+```
+
+Note: convert all words to lower case before adding them to the dictionary. You can use the built-in string method `.lower()` for this purpose.
+
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+**For feedback, insert you printed program(s) here.**
+
+
+{{< pagebreak >}}
+
+# A7) Project 4: Predicting Sentiment Scores for Reviews 
+
+**Read the entire Proj 4 assignemnt before beginning this activity.**
+
+*Continuing from the previous activity...* Now add a function `predict_sentiment_score`. Given a movie review as a string and a word sentiment dictionary, this function should return an estimated sentiment score for the review. It should estimate the score by averaging the scores of all the words in the review.
+
+For example, given the review `"This movie is awesome !"` and the word sentiment dictionary created from the data in `movie_reviews_training.txt`, this function should return roughly  `2.41`.
+
+A movie review may contain some words that are not in the words sentiment dictionary that you’ve created. For those words, assume that they are neutral (i.e. that they have a score of 2).
+
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+**For feedback, insert you printed program(s) here.**
+
+{{< pagebreak >}}
+
+
+# A8) Project 4: Classifying Movie Reviews According to Their Sentiment
+
+**Read the entire Proj 4 assignemnt before beginning this activity.**
+
+*Continuing from the previous activity...*  If you test a few of the reviews from the `movie_reviews_dev.txt` file, you will see that we are not able to totally accurately predict the sentiment scores. Most predictions your function makes are closer to the average than the actual scores of the reviews. However, if all we are interested in is whether or not a movie is rated positively, that may not matter. We may still be able to use the predicted scores to decide whether we should go see a movie or not.
+
+Add a function `is_positive` that takes a movie review and a word sentiment dictionary, then classifies the review as either positive (i.e. humans would give it a score of 3 or 4) or not. The function should return a boolean value (i.e. `True` or `False`).
+
+Try out your classification function on a few movie reviews from the `movie_reviews_dev.txt` file. The function won’t get it right for all reviews, but it should get it right more often than not.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+**For feedback, insert you printed program(s) here.**
+
+{{< pagebreak >}}
+
+# A9) Project 4: Fine Tune Your System 
+
+**Read the entire Proj 4 assignemnt before beginning this activity.**
+
+*Continuing from the previous activity...*  Now uncomment the definition of the function evaluate as well as the line in the testing area that calls it. This will run your sentiment analysis system on all 800 movie reviews from the file  `movie_reviews_dev.txt` and print out some information on how many of them were classified correctly.
+
+It should be fairly easy to classify more than 60% correctly. With further fine-tuning of `is_positive`, you may manage to get an accuracy as high as 75%.
+
+Remember to evaluate and the line that calls it should be uncommented in your submission.
+
+* In english (not code), what is your algorithm for your function/solution?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+
+* Were you able to solve this task? If not, can you think of anything else to try?
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+
+{{< pagebreak >}}
+
+# A10)  Project 4: Reflection
+
+**Compltet Proj 4 before writing this reflection.**
+
+Reflect on your work on this project and write your thoughts in a file called `reflection.pdf`. Note this reflection holds nearly half of the points for this assignment and thus should be quite substantial. Write in full sentences, in paragrpah/essay form. Include any references/citations you find as you are exploring your thoughts. Additionally, come to class ready to discuss your ideas. In particular, try to answer, based on your own opinion and in your own words:
+
+* Can computers think?
+* How do/can computers learn?
+* What are some strengths and weaknesses of the method we used to simulate intelligent behavior in this project?
+* How do you think the design of this program could be improved?
+
+
+**Type up your reflection as a short essay, print it out and insert it here.**
+
+{{< pagebreak >}}
+
+
+
 
 # B1: Share-out
 
@@ -846,3 +891,4 @@ Consider the following program:
 
     {{< pagebreak >}}
 
+i

@@ -1,6 +1,6 @@
 ---
 title: CSC 106 Can Computers Think?, Programming Project 4
-date: May, 15, 2026
+date: Oct, 29, 2026
 eval: true
 format: 
     pdf:
@@ -20,7 +20,7 @@ format:
 
 NAME:  
 
-# Project 4: Sentiment Analysis (10 pts) 	
+# Project 4: Sentiment Analysis (5 pts) 	
 
 Sentiment analysis seeks to determine the general attitude of a writer, given some text they have written. For example, given the movie review “The film was a breath of fresh air” a sentiment analysis program should realize that this is a positive statement about the movie, while the review “It made me want to poke out my eye balls” expresses a negative opinion. In this project you’ll implement a very simple sentiment analysis system for movie reviews.
 
@@ -70,7 +70,7 @@ Once we have sentiment scores for a bunch of words, we can use those scores to p
 
 
 
-# 1. Word Sentiment Dictionary (2 pts)
+# 1. Word Sentiment Dictionary 
 
 Download the starter file `sentiment_analysis.py` and the three files with movie reviews described above from the course website.
 
@@ -93,7 +93,7 @@ For example, here is what an excerpt of the word sentiment dictionary might look
 Note: convert all words to lower case before adding them to the dictionary. You can use the built-in string method `.lower()` for this purpose.
 
 
-# 2. Predicting Sentiment Scores for Reviews (2 pts)
+# 2. Predicting Sentiment Scores for Reviews 
 
 Now add a function `predict_sentiment_score`. Given a movie review as a string and a word sentiment dictionary, this function should return an estimated sentiment score for the review. It should estimate the score by averaging the scores of all the words in the review.
 
@@ -102,7 +102,7 @@ For example, given the review `"This movie is awesome !"` and the word sentiment
 A movie review may contain some words that are not in the words sentiment dictionary that you’ve created. For those words, assume that they are neutral (i.e. that they have a score of 2).
 
 
-# 3. Classifying Movie Reviews According to Their Sentiment (2 pts)
+# 3. Classifying Movie Reviews According to Their Sentiment 
 
 If you test a few of the reviews from the `movie_reviews_dev.txt` file, you will see that we are not able to totally accurately predict the sentiment scores. Most predictions your function makes are closer to the average than the actual scores of the reviews. However, if all we are interested in is whether or not a movie is rated positively, that may not matter. We may still be able to use the predicted scores to decide whether we should go see a movie or not.
 
@@ -110,17 +110,17 @@ Add a function `is_positive` that takes a movie review and a word sentiment dict
 
 Try out your classification function on a few movie reviews from the `movie_reviews_dev.txt` file. The function won’t get it right for all reviews, but it should get it right more often than not.
 
-# 4. Fine Tune Your System (0 pts)
+# 4. Fine Tune Your System 
 
 Now uncomment the definition of the function evaluate as well as the line in the testing area that calls it. This will run your sentiment analysis system on all 800 movie reviews from the file  `movie_reviews_dev.txt` and print out some information on how many of them were classified correctly.
 
 It should be fairly easy to classify more than 60% correctly. With further fine-tuning of `is_positive`, you may manage to get an accuracy as high as 75%.
 
-Note: the fine-tuning of `is_positive` is optional, but evaluate and the line that calls it should be uncommented in your submission.
 
-# 5. Reflection (4 pts)
+# 5. Reflection 
 
-Reflect on your work on this project and write your thoughts in a file called `reflection.pdf`. Note this reflection holds nearly half of the points for this assignment and thus should be quite substantial. Write in full sentences, in paragrpah/essay form. Include any references/citations you find as you are exploring your thoughts. Additionally, come to class ready to discuss your ideas. In particular, try to answer, based on your own opinion and in your own words:
+Reflect on your work on this project and write your thoughts in a file called `reflection.pdf`. Note this reflection should be quite substantial. Write in full sentences, in paragrpah/essay form. Include any references/citations you find as you are exploring your thoughts. Additionally, come to class ready to discuss your ideas. In particular, try to answer, based on your own opinion and in your own words:
+
 
 * Can computers think?
 * How do/can computers learn?
@@ -147,7 +147,7 @@ b.	Comments within the body of the code to further clarify how the program works
 Hint: it may be helpful to think of this as breaking your code up into “paragraphs.”
 3.	Have you cleaned up any code snippets you no longer need?
 a.	The final version of the program should not contain any lines of actual code that are commented out to keep them from running. Such snippets should be removed before submitting.
-Once you have checked these things, submit your files to *cat3_Project 4: Sentiment Analysis* on Gradescope.
+Once you have checked these things, submit your files to *Project 4: Sentiment Analysis* on Gradescope.
  
 
 
