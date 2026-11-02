@@ -59,7 +59,8 @@ Remember to also initial in the upper right-hand header of each page.
 
 # Demonstration Instructions
 
-* confirm availability for  a **5** minute [time slot](https://docs.google.com/spreadsheets/d/1tt-1ZNZ2c5MkcgIZlAWX77oxUX32-4OVJj7SLSRHn-A/edit?usp=sharing)
+* demos will be done **in class 11/16**  
+    + make arrangements to do your demo early if you will miss that class
 * submit all your code to gradescope
 * bring printed versions of your code & reflection
 * be prepared to run your porgrams on a lab machine, downloaded from gradescope

@@ -25,7 +25,7 @@ STUDENT ID:
 Remember to also initial in the upper right-hand header of each page.
 
 **Due Monday Nov. 16th by the end of class.**
-
+*Due date reflects by when you'll need to do your share-out. You can keep this portfolio and continue to work on it, correct it, update it, submit programs to gradescope and study from it/them until the Final Exam. Bring it with you, or drop it by my office, to hand it in before you take the Final Exam.*
 
 # Portfolio 10: Searching and Sorting
 
@@ -44,18 +44,18 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 | Part   | Problem/Task                                 | Page | In-class Start | In-class Share-out  | Submission Format          | 
 |----|--------------------------------------------- |----------|---------------|-----------------|---------------|
-| A1  | Written prompt                              |  2 |  W 11/11 |  W 11/11 |          |
-| A2  |    Prog. with Pytthon (linear search)   |   3  |   W 11/11  |   W 11/11   |          |
-| A3  |    Prog. with Pytthon (rec linear search)   |  4   |   W 11/11 |   Th 11/12  |          |
-| A4  |    Prog. with Pytthon (rec binary search)    |     | oyo  | Th 11/12  |          |
-| A5  |   Written (sorting game, bubble)                  |     | Th 11/12 |  Th 11/12 |          |
-| A6  |  Written (sorting game, quick)            |     | Th 11/12  | Th 11/12 |          |
-| A7  |  Review for Final          |     |  oyo   |    M 11/16   |          |
-| A8  |  Review for Final            |     |  oyo  |    M 11/16   |          |
-| A9  |  Review for Final            |     |   oyo  |     M 11/16  |          |
-| A10  |  Review for Final            |     |   oyo  |   M 11/16    |          |
-| B1  | Share-out report                             | 14 | oyo |       |    written  |
-| B2  | Share-out report   (optional)                | 15 | oyo |       |     written     |
+| A1  | Written prompt                              |  2 |  W 11/11 |  W 11/11 | written |
+| A2  |    Prog. with Pytthon (linear search)   |   3  |   W 11/11  |   W 11/11   | GS, print |
+| A3  |    Prog. with Pytthon (rec linear search)   |  4   |   W 11/11 |   Th 11/12  | GS, print |
+| A4  |    Prog. with Pytthon (rec binary search)    |  5 | oyo  | Th 11/12  | GS, print   |
+| A5  |   Written (sorting game, bubble)                  | 6 | Th 11/12 |  Th 11/12 |  written|
+| A6  |  Written (sorting game, quick)            |7| Th 11/12  | Th 11/12 | written |
+| A7  |  Review for Final          | 8 |  oyo   |    M 11/16   | written  |
+| A8  |  Review for Final            | 9 |  oyo  |    M 11/16   | written|
+| A9  |  Review for Final            | 11 |   oyo  |     M 11/16  | written |
+| A10  |  Review for Final            | 14  |   oyo  |   M 11/16    | written |
+| B1  | Share-out report                             | 18 | oyo |       |    written  |
+| B2  | Share-out report   (optional)                | 19 | oyo |       |     written     |
 
 
 
@@ -65,7 +65,7 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 
 
-# A1) Prompt: Can computers think? Has your opinion changed? If so, what changed it? If not, what would?**
+# A1) Prompt: Can computers think? Has your opinion changed? If so, what changed it? If not, what would?
 
 {{< pagebreak >}}
 
@@ -92,6 +92,14 @@ This portfolio includes the following 10 activities and the report of your weekl
 
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+    
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
@@ -370,6 +378,12 @@ This portfolio includes the following 10 activities and the report of your weekl
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
+
+    ………………………………………………………………………………………………
 	
 	
 
@@ -551,18 +565,14 @@ Consider the following program:
 #| eval: false
 
 print("Computing the sum of positive numbers.")
-
 x = float(input("Enter the first number (-1 to stop)"))
 sum = 0
 
 while __1___:
 	x = float(input("Enter the next number (-1 to stop)"))
 	__2___
-
 print(sum)
 ```
-
-………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -572,14 +582,9 @@ print(sum)
 
 ```{python}
 mystring = "3.14159265359 starts pi, while e starts with 2.7182818284"
-
 mystring = mystring.strip("123456789\. ")
 print(mystring)
 ```
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -597,9 +602,6 @@ print(mylist)
 
 ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
 
 4. What will the value of mylist be after the following code runs?
 
@@ -615,10 +617,6 @@ print(mylist)
 
 ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
 5. What will the value of mylist be after the following code runs?
 
 ```{python}
@@ -630,12 +628,7 @@ def list_change(in_list):
 
 mylist = [4, 5, 6]
 list_change(mylist)
-print(mylist)
 ```
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -649,14 +642,10 @@ def list_change(in_list, first_char):
 
 mylist = [1, 2, 3]
 list_change(mylist, "b")
-print(mylist)
 ```
 
 ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
 
 7. What will the value of mylist be after the following code runs?
 
@@ -666,10 +655,7 @@ def list_change(in_list):
 
 mylist = ["a", "b", "c", "d", "e", "f", "g"]
 list_change(mylist)
-print(mylist)
 ```
-
-………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -678,9 +664,9 @@ print(mylist)
 
 ```{python}
 mylist = [[1, 3, 5],
-[2, 4, 6, 8, 10],
-[3, 5, 7, 11],
-[2, 4, 8, 16, 32, 64]]
+          [2, 4, 6, 8, 10],
+          [3, 5, 7, 11],
+          [2, 4, 8, 16, 32, 64]]
 ```
 
 ………………………………………………………………………………………………
@@ -689,15 +675,6 @@ mylist = [[1, 3, 5],
 
 ………………………………………………………………………………………………
 
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
-
-………………………………………………………………………………………………
 
 9. What will the value of mylist be after the following code runs?
 
@@ -721,6 +698,10 @@ print(mylist)
 
 ………………………………………………………………………………………………
 
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
 
 10. What will the following code print?
 
@@ -735,6 +716,10 @@ for line in mylist:
 	if 'a' in line:
 		print(line)
 ```
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 
@@ -909,7 +894,7 @@ def fib(num, val=1, prev=0):
 
 ………………………………………………………………………………………………
 
-10. Remember and describe at least one of the search methods we discussed
+10. Remember and describe at least one search method(s)
 
 * Linear Search 
 * Binary Search
@@ -930,8 +915,14 @@ def fib(num, val=1, prev=0):
 
 ………………………………………………………………………………………………
 
+………………………………………………………………………………………………
 
-11. Remember and describe at least one of the sort methods we discussed
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+
+11. Remember and describe at least one sort method(s)
 
 * Bubble Sort 
 * Merge Sort 
@@ -940,6 +931,26 @@ def fib(num, val=1, prev=0):
 * Quick Sort 
 * Bucket / Bin Sort
 
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
+
+………………………………………………………………………………………………
 
 ………………………………………………………………………………………………
 

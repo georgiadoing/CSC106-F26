@@ -1,5 +1,5 @@
 ---
-title: CSC 106 Can Computers Think? Portfolio 7, Student Inititals - 
+title: CSC 106 Can Computers Think? Portfolio 9, Student Inititals - 
 eval: true
 format: 
     pdf:
@@ -24,15 +24,11 @@ STUDENT ID:
 
 Remember to also initial in the upper right-hand header of each page.
 
-**Due Friday Nov. 6th by the end of class.**
+**Due Friday Nov. 13th by the end of class.**
 
 
-# Portfolio 8: Files
+# Portfolio 9: Recursion
 
-
- To succeed in these problems you will need to read and engage with the embedded activities in the **Runestone texbook chapter** (worth 0.5 of a grade percentage point):
-
-* 11: Files
 
 Note that these activities are focused on this week's theme, but they are designed to utlize skills from all your previous portfolios as well. You should use your judgement to decide which tasks are best solved with which skills you have accumulated so far.
 
@@ -69,7 +65,7 @@ This portfolio includes the following 10 activities and the report of your weekl
 
 
 
-# A1) Prompt: ?**
+# A1) Prompt: What types of problems are better solved with *recursion* than *iteration*? Think of examples, do some seem harder to solve than the others?**
 
 
 {{< pagebreak >}}
@@ -891,4 +887,3 @@ Reflect on your work on this project and write your thoughts in a file called `r
 
     {{< pagebreak >}}
 
-i
