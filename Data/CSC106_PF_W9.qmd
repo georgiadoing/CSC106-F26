@@ -512,7 +512,7 @@ Consider the following program:
 {{< pagebreak >}}
 
 
-# A6) Project 4: Word Sentiment Dictionary 
+# A6) Project 4:  Attempt / Draft for Word Sentiment Dictionary 
 
 **Read the entire Proj 4 assignemnt before beginning this activity.**
 
@@ -552,23 +552,10 @@ Note: convert all words to lower case before adding them to the dictionary. You 
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
-    
-    ………………………………………………………………………………………………
 
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
     
 
 * Were you able to solve this task? If not, can you think of anything else to try?
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
-
-    ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
 
@@ -584,7 +571,7 @@ Note: convert all words to lower case before adding them to the dictionary. You 
 
 {{< pagebreak >}}
 
-# A7) Project 4: Predicting Sentiment Scores for Reviews 
+# A7) Project 4:  Attempt / Draft for Predicting Sentiment Scores for Reviews 
 
 **Read the entire Proj 4 assignemnt before beginning this activity.**
 
@@ -610,7 +597,9 @@ A movie review may contain some words that are not in the words sentiment dictio
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
-    
+
+    ………………………………………………………………………………………………
+
     ………………………………………………………………………………………………
 
     ………………………………………………………………………………………………
@@ -638,13 +627,15 @@ A movie review may contain some words that are not in the words sentiment dictio
 
     ………………………………………………………………………………………………
 
+    ………………………………………………………………………………………………
+
 
 **For feedback, insert you printed program(s) here.**
 
 {{< pagebreak >}}
 
 
-# A8) Project 4: Classifying Movie Reviews According to Their Sentiment
+# A8) Project 4:  Attempt / Draft for Classifying Movie Reviews According to Their Sentiment
 
 **Read the entire Proj 4 assignemnt before beginning this activity.**
 
@@ -701,7 +692,7 @@ Try out your classification function on a few movie reviews from the `movie_revi
 
 {{< pagebreak >}}
 
-# A9) Project 4: Fine Tune Your System 
+# A9) Project 4: Attempt / Draft for Fine Tune Your System 
 
 **Read the entire Proj 4 assignemnt before beginning this activity.**
 
@@ -756,9 +747,9 @@ Remember to evaluate and the line that calls it should be uncommented in your su
 
 {{< pagebreak >}}
 
-# A10)  Project 4: Reflection
+# A10)  Project 4: Notes / Outline for Reflection
 
-**Compltet Proj 4 before writing this reflection.**
+**Begin Proj 4 before writing this reflection.**
 
 Reflect on your work on this project and write your thoughts in a file called `reflection.pdf`. Note this reflection holds nearly half of the points for this assignment and thus should be quite substantial. Write in full sentences, in paragrpah/essay form. Include any references/citations you find as you are exploring your thoughts. Additionally, come to class ready to discuss your ideas. In particular, try to answer, based on your own opinion and in your own words:
 
@@ -768,7 +759,7 @@ Reflect on your work on this project and write your thoughts in a file called `r
 * How do you think the design of this program could be improved?
 
 
-**Type up your reflection as a short essay, print it out and insert it here.**
+
 
 {{< pagebreak >}}
 
