@@ -316,7 +316,7 @@
     "href": "03-Assignments/csc106_proj4.html",
     "title": "Project 4",
     "section": "",
-    "text": "CSC106: Project 4\n\ndue Monday 11/16/26 by class time\n\nSentiment analysis seeks to determine the general attitude of a writer, given some text they have written. For example, given the movie review “The film was a breath of fresh air” a sentiment analysis program should realize that this is a positive statement about the movie, while the review “It made me want to poke out my eye balls” expresses a negative opinion. In this project you’ll implement a very simple sentiment analysis system for movie reviews.\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 5% of your final grade\nstarter code and files:\n\nsentiment_analysis.py\nmovie_reviews_training.txt\nmovie_reviews_dev.txt\nmovie_reviews_mini.txt",
+    "text": "CSC106: Project 4\n\ndue Monday 11/16/26 by class time\nDemo schedule\nDemo prep worksheet\n\n\n\nDemo Protocol for Mon 11/16\n\nsubmit your code to gradescope before class begins\nbring your demo prep sheet and printed versions of your code and reflection\ncreate a slide showing how you fine-tuned your system\n\nadd it to the Week 10/Proj 4 share-out slides in order: Proj 4 demo order\nmake sure your code is readable even from the back of the room (hint: it shouldn’t be too many lines, just the key ones)\ninclude text with key points\n\nbe prepared to add your best classification accuracy to a plot on the white board\nbe prepared to answer any questions, including those about the reflection\nbe prepared to ask you class-mates questions\n\nSentiment analysis seeks to determine the general attitude of a writer, given some text they have written. For example, given the movie review “The film was a breath of fresh air” a sentiment analysis program should realize that this is a positive statement about the movie, while the review “It made me want to poke out my eye balls” expresses a negative opinion. In this project you’ll implement a very simple sentiment analysis system for movie reviews.\n\nReminder: Programming projects should be done individually. You should not look at anyone else’s code, show your code to anyone else, write code for anyone else, or let someone else write code for you. Consider anyone else to include any form of AI. Please see the syllabus or course website for what to do when you need help with your work.\nProjects are graded on program correctness and code composition, including proper commenting\nThis project is 5% of your final grade\nstarter code and files:\n\nsentiment_analysis.py\nmovie_reviews_training.txt\nmovie_reviews_dev.txt\nmovie_reviews_mini.txt",
     "crumbs": [
       "Assignments",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Project 4</span>"
@@ -452,6 +452,17 @@
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Week 9</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week10.html",
+    "href": "04-Notes/week10.html",
+    "title": "Week 10",
+    "section": "",
+    "text": "Wed 11/11\n\nCont. PF10: Searching & Sorting\n\nPF10 share-out sched\nPF10 slides\n\n\n\n\nThurs 11/12\n\nCont. PF10: Searching & Sorting\n\nsorting game\ncourse evals\n\n\n\n\nFri 11/12\n\nReview for Final\n\nreview sheet\nsame review problems in colab notebook\nlast chance for share-outs!\n\n\n\n\nMon 11/16\n\nProj 4 Demos\n\nstill bring printed code & reflection to class to hand in\ndemos will each be ~ 1.5 mins",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Week 10</span>"
     ]
   },
   {
